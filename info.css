@@ -3,21 +3,28 @@
 }
 
 .img__description_layer {
+  display: flex;
   position: absolute;
   top: 0;
   bottom: 0;
   left: 0;
   right: 0;
-  background: #D3D3D3;
   color: #fff;
+  padding: 0 15px;
   visibility: hidden;
   opacity: 0;
-  display: flex;
-  align-items: center;
-  justify-content: center;
 
   /* transition effect. not necessary */
   transition: opacity .2s, visibility .2s;
+}
+
+.img__layer{
+  width: 100%;
+  height: 100%;
+  background: #f5f6fa;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .img__wrap:hover .img__description_layer {
@@ -34,4 +41,20 @@
 
 .img__wrap:hover .img__description {
   transform: translateY(0);
+}
+
+/* contact form */
+.contact_form {
+  max-width: 85%;
+  margin: 35px auto;
+}
+
+.contact_form input {
+  background-color: #d8d8d8;
+  color: white;
+}
+
+.contact_form textarea {
+  background-color: #d8d8d8;
+  color: white;
 }
