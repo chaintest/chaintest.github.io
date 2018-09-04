@@ -1,0 +1,14 @@
+http://www.wandx.co/robots.txt
+User-agent: *
+
+Allow: https://www.wandx.co/
+Allow: https://www.wandx.co/team
+Allow: https://www.wandx.co/technologiesused
+Allow: https://www.wandx.co/termsofuse
+Allow: https://www.wandx.co/privacy
+Allow: https://www.wandx.co/fees
+Allow: https://www.wandx.co/tokenlisted
+Allow: https://www.wandx.co/whitepaper
+Allow:https://blog.wandx.co/
+Allow:https://exchange.wandx.co/
+Sitemap: https://wandx.co/sitemap.xml
