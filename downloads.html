@@ -8,22 +8,112 @@
     <meta name="keywords" content="Decentralized ERC20 Token, ERC20 Token trading platform">
     <link rel='shortcut icon' type='image/x-icon' href='img/wand.ico' />
     <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-114592002-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'UA-114592002-1');
-</script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-114592002-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-114592002-1');
+    </script>
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css" integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B" crossorigin="anonymous">
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,200i,300,300i,400,400i,600,600i,700,700i,900,900i" rel="stylesheet">
 
+    <!-- custom css -->
+    <style>
+      body {
+        background-color: #f5f6fa;
+      }
+
+      #appImg {
+        max-width: 100%;
+        cursor: pointer;
+      }
+
+      /* The Modal (background) */
+      .modal {
+          display: none; /* Hidden by default */
+          position: fixed; /* Stay in place */
+          z-index: 1000; /* Sit on top */
+          padding-top: 100px; /* Location of the box */
+          left: 0;
+          top: 0;
+          width: 100%; /* Full width */
+          height: 100%; /* Full height */
+          overflow: auto; /* Enable scroll if needed */
+          background-color: rgb(0,0,0); /* Fallback color */
+          background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+      }
+
+      /* Modal Content (image) */
+      .modal-content {
+        margin: auto;
+        display: block;
+        width: 80%;
+        max-width: 992px;
+      }
+
+      /* Caption of Modal Image */
+      #caption {
+          margin: auto;
+          display: block;
+          width: 80%;
+          max-width: 700px;
+          text-align: center;
+          color: #ccc;
+          padding: 10px 0;
+          height: 150px;
+      }
+
+      /* Add Animation */
+      .modal-content, #caption {    
+          -webkit-animation-name: zoom;
+          -webkit-animation-duration: 0.6s;
+          animation-name: zoom;
+          animation-duration: 0.6s;
+      }
+
+      @-webkit-keyframes zoom {
+          from {-webkit-transform:scale(0)} 
+          to {-webkit-transform:scale(1)}
+      }
+
+      @keyframes zoom {
+          from {transform:scale(0)} 
+          to {transform:scale(1)}
+      }
+
+      /* The Close Button */
+      .close {
+          position: absolute;
+          top: 15px;
+          right: 35px;
+          color: #f1f1f1;
+          font-size: 40px;
+          font-weight: bold;
+          transition: 0.3s;
+      }
+
+      .close:hover,
+      .close:focus {
+          color: #bbb;
+          text-decoration: none;
+          cursor: pointer;
+      }
+
+      /* 100% Image Width on Smaller Screens */
+      @media only screen and (max-width: 700px){
+        .modal-content {
+            width: 100%;
+        }
+      }
+    </style>
+
     <title>WandX- Downloads</title>
   </head>
-  <body style="background-color: #f5f6fa;">
+  <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light" style="background-color: rgba(124, 43, 87, 0) ! important; z-index: 999;">
       <a class="navbar-brand" href="index.html"><img src="img/logoheader.png" style="width: 45px;margin-left: 45px;"></a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
@@ -106,7 +196,7 @@
           </div>
         </div>
         <div class="col-md-6" style="margin: auto;">
-          <img src="img/download-page/platform.png" style="max-width: 100%;">
+          <img id="appImg" src="img/download-page/platform.png" alt="Complete Trading Platform">
         </div>
       </div>
     </div>
@@ -115,7 +205,7 @@
     <div class="container-fluid" style="margin-top: 10px; padding: 60px; background-color: #fff;">
       <div class="row">
         <div class="col-md-6" style="margin: auto;">
-          <img src="img/download-page/wallet.png" style="max-width: 100%;">
+          <img id="appImg" src="img/download-page/wallet.png" alt="Local ETH & NEO Wallets">
         </div>
         <div class="col-md-6" style="display: flex; align-items: center; padding: 10px 30px 0 30px;">
           <div>
@@ -136,7 +226,7 @@
           </div>
         </div>
         <div class="col-md-6" style="margin: auto;">
-          <img src="img/download-page/exchange.png" style="max-width: 100%;">
+          <img id="appImg" src="img/download-page/exchange.png" alt="Multi-Blockchain DEX">
         </div>
       </div>
     </div>
@@ -145,7 +235,7 @@
     <div class="container-fluid" style="margin-top: 10px; padding: 60px; background-color: #fff;">
       <div class="row">
         <div class="col-md-6" style="margin: auto;">
-          <img src="img/download-page/basket.png" style="max-width: 100%;">
+          <img id="appImg" src="img/download-page/basket.png" alt="Multi-Chain Baskets">
         </div>
         <div class="col-md-6" style="display: flex; align-items: center; padding: 10px 30px 0 30px;">
           <div>
@@ -206,10 +296,32 @@
       </div>
     </footer>
 
+    <!-- image modal -->
+    <div id="imgModal" class="modal">
+      <span class="close">&times;</span>
+      <img class="modal-content" id="modalImage">
+      <div id="caption"></div>
+    </div>
+
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/js/bootstrap.min.js" integrity="sha384-o+RDsa0aLu++PJvFqy8fFScvbHFLtbvScb8AjopnFD+iEQ7wo/CG0xlczd+2O/em" crossorigin="anonymous"></script>
+
+    <!-- js for image modal -->
+    <script>
+      $('img#appImg').on('click', function (e) {
+        // Get the image and insert it inside the modal - use its "alt" text as a caption
+        $('#imgModal').show();
+        $("#modalImage").attr('src', this.src);
+        $("#caption").html(this.alt);
+      });
+
+      // When the user clicks on <span> (x), close the modal
+      $(".close").on('click', function (e) {
+        $('#imgModal').hide();
+      });
+    </script>
   </body>
 </html>
