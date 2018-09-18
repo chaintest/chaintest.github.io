@@ -25,10 +25,27 @@
 </script>
 
     <title>WandX-Core Team and Advisors</title>
+    <style type="text/css">
+      /* Extra small devices (phones, 600px and down) */
+      @media only screen and (min-width: 991px) {
+          .navbar-mobile_back 
+          {
+              background-color: rgba(124, 43, 87, 0) ! important;
+              z-index: 999;
+          }
+      }
+      @media only screen and (max-width: 990px) {
+          .navbar-mobile_back 
+          {
+              background-color: #501b6154 ! important;
+              z-index: 999;
+          }
+      }
+    </style>
   </head>
   <body>
     <!-- <nav class="navbar navbar-expand-lg navbar-light bg-light" style="background-color: rgba(124, 43, 87, 0.3) ! important;z-index: 999;"> -->
-    <nav class="navbar navbar-expand-lg navbar-light bg-light" style="background-color: rgba(124, 43, 87, 0) ! important; z-index: 999;">
+    <nav class="navbar-mobile_back navbar navbar-expand-lg navbar-light bg-light">
       <a class="navbar-brand" href="index.html"><img src="img/logoheader.png" style="width: 45px;margin-left: 45px;"></a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
