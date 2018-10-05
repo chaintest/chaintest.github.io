@@ -1,0 +1,254 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Wandx is a decentralized ERC20 Token and ERC20 Token Basket trading platform.Smart contracts built on the Ethereum blockchain allow for peer to peer swap of ERC20 Tokens and ERC20 Token baskets.">
+    <meta name="keywords" content="Decentralized ERC20 Token, ERC20 Token trading platform">
+    <link rel='shortcut icon' type='image/x-icon' href='img/wand.ico' />
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-114592002-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-114592002-1');
+    </script>
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css" integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B" crossorigin="anonymous">
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,200i,300,300i,400,400i,600,600i,700,700i,900,900i" rel="stylesheet">
+
+    <title>WandX-Token Baskets</title>
+    <style type="text/css">
+      /* Extra small devices (phones, 600px and down) */
+      @media only screen and (min-width: 991px) {
+          .navbar-mobile_back 
+          {
+              background-color: rgba(124, 43, 87, 0) ! important;
+              z-index: 999;
+          }
+      }
+      @media only screen and (max-width: 990px) {
+          .navbar-mobile_back 
+          {
+              background-color: #501b6154 ! important;
+              z-index: 999;
+          }
+      }
+    </style>
+  </head>
+  <body>
+    <nav class="navbar-mobile_back navbar navbar-expand-lg navbar-light bg-light">
+      <a class="navbar-brand" href="index.html"><img src="img/logoheader.png" style="width: 45px;margin-left: 45px;"></a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+        <!-- <div class="navbar-nav">
+          <a class="nav-item nav-link" href="#" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;letter-spacing: 5.69px;margin: 15px;">Dashboard</a>
+          <a class="nav-item nav-link" href="#" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;letter-spacing: 5.69px;margin: 15px;">Basket</a>
+          <a class="nav-item nav-link" href="https://exchange.wandx.co/" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;letter-spacing: 5.69px;margin: 15px;">Exchange</a>
+          <a class="nav-item nav-link" href="#" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;letter-spacing: 5.69px;margin: 15px;">Wallet</a>
+        </div> -->
+        <div class="navbar-nav ml-md-auto d-md-flex">
+          <a class="nav-item nav-link" href="index.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;margin: 15px;">Home</a>
+          <a class="nav-item nav-link" href="team.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;margin: 15px;">About</a>
+          <a class="nav-item nav-link" href="https://blog.wandx.co/" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;margin: 15px;">Blog</a>
+          <a class="nav-item nav-link" href="https://exchange.wandx.co/" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;margin: 15px;">Exchange</a>
+          <a class="nav-item nav-link" href="baskets.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;margin: 15px;">Basket Protocol</a>
+          <div class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;margin: 15px;">
+              Airdrop
+            </a>
+            <div class="dropdown-menu" style="left: -40px; font-family: 'Source Sans Pro', sans-serif;">
+              <a class="dropdown-item" href="http://www.wandx.co/airdrop.html" target="_blank">Airdrop Details</a>
+              <a class="dropdown-item" href="https://neoairdrop.wandx.co/" target="_blank">Airdrop 1:1</a>
+            </div>
+          </div>
+          <!-- <a class="nav-item nav-link" href="http://www.wandx.co/airdrop.html" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;margin: 15px;">Airdrop</a> -->
+          <!-- <a class="nav-item nav-link" href="#" style="color: white;border-color: white;border-radius: 37px;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;margin: 15px;border: 1px solid white;padding: .375rem .75rem;text-align: center;">Download DAAP</a> -->
+        </div>
+      </div>
+    </nav>
+    <div class="container" style="background-image: url(img/container1.png);max-width: 100%;text-align: center;padding-top: 20px;background-repeat: no-repeat;background-size: cover;/*height: 600px;*/margin-top: -85px;margin-bottom: 50px;">
+      <div class="row" style="max-height: 100%;">
+        <div class="col-xs-8 col-sm-8 col-md-6 col-lg-6 col-xl-6" style="margin: auto;margin-top: 70px;">
+          <!-- <img src="img/Wandx_logo_top.png" alt="Wandx logo" style="max-width: 80%;margin-top: 150px;"> -->
+        </div>
+      </div>
+    </div>
+
+    <div class="container mb-5">
+      <div class="col mb-5">
+        <h1 class="display-4" style="font-family:'Source Sans Pro', sans-serif;font-size: 55px;font-weight: 200;line-height: 69px;">Submit a token listing request</h1>
+      </div>
+      <form>
+        <div class="form-group col-md-6">
+          <label for="contactname">Contact Name</label>
+          <input type="name" class="form-control" id="contactname" aria-describedby="emailHelp" placeholder="Contact Name">
+          <small id="emailHelp" class="form-text text-muted">Name of Organization COntact</small>
+        </div>
+        <div class="form-group col-md-6">
+          <label for="exampleInputPassword1">E-Mail Address</label>
+          <input type="email" class="form-control" id="exampleInputPassword1" placeholder="E-Mail Address">
+          <small id="emailHelp" class="form-text text-muted">E-mail for a company representative who will be responsible for listing coordination.</small>
+        </div>
+        <div class="form-group col-md-8">
+          <label for="orgname">Organization Name</label>
+          <input type="name" class="form-control" id="orgname" placeholder="Organization Name">
+          <small id="emailHelp" class="form-text text-muted">Name of organization responsible for token.</small>
+        </div>
+        <div class="form-group col-md-4">
+          <label for="orgweb">Organization Website</label>
+          <input type="name" class="form-control" id="orgweb" placeholder="Organization Website">
+          <small id="emailHelp" class="form-text text-muted">Website</small>
+        </div>
+        <div class="form-row col">
+          <div class="form-group col-md-6">
+            <label for="tokensymbol">Token Symbol</label>
+            <input type="text" class="form-control" id="tokensymbol" placeholder="Token Symbol">
+          </div>
+          <div class="form-group col-md-4">
+            <label for="inputState">Blockchain</label>
+            <select id="inputState" class="form-control">
+              <option selected>Choose...</option>
+              <option>Ethereum</option>
+              <option>NEO</option>
+              <option>Wanchain</option>
+              <option>Aion</option>
+            </select>
+          </div>
+          <div class="form-group col-md-2">
+            <label for="decimals">Decimals</label>
+            <input type="text" class="form-control" id="decimals" placeholder="Decimals">
+          </div>
+        </div>
+        <div class="form-group col-md-8">
+          <label for="tokadd">Token Address</label>
+          <input type="name" class="form-control" id="tokadd" placeholder="Token Address">
+          <small id="emailHelp" class="form-text text-muted">Please enter the address for the token.</small>
+        </div>
+        <div class="col">
+          <!-- <button type="submit" class="btn btn-primary">Submit</button> -->
+          <!-- <button type="button" class="btn btn-small" style="background-color: #733a86;color: white;" onclick="window.location.href='https://blog.wandx.co/'">Submit</button> -->
+          <button type="button" class="btn btn-small" style="background-color: #733a86;color: white;">Submit</button>
+        </div>
+      </form>
+    </div>
+
+    <div style="width: 100%;height: 20px;background: #afafaf;"></div>
+
+    <div class="container">
+      <div class="col mb-3">
+        <h1 class="display-4" style="font-family:'Source Sans Pro', sans-serif;font-size: 55px;font-weight: 200;line-height: 69px;">Listing Requirements and Information</h1>
+      </div>
+      <ul>
+        <li>List 1</li>
+        <li>List 2</li>
+        <li>List 3</li>
+        <li>List 4</li>
+        <li>List 5</li>
+      </ul>
+    </div>
+
+    <!-- <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center" style="margin-top: 50px;">
+      <img src="img/Wandx_logo_top.png" alt="Wandx logo" style="max-width: 80%;">
+      <h1 class="display-4" style="font-family:'Source Sans Pro', sans-serif;font-size: 55px;font-weight: 200;line-height: 69px;">Submit a token listing request</h1>
+      <p class="lead" style="font-family: 'Source Sans Pro', sans-serif;font-size: 24px;font-weight: 200;line-height: 31px;">WandX is a permissionless protocol that allows users to create and trade<br>in a composite ‘basket’ made up of different tokens - ERC20 or NEP5, the creating and trade enabled by smart contracts.</p>
+      <p class="lead" style="font-family: 'Source Sans Pro', sans-serif;font-size: 24px;font-weight: 200;line-height: 31px;">
+        Key Benefits of Basket Protocol
+      </p>
+      <p class="lead" style="font-family: 'Source Sans Pro', sans-serif;font-size: 24px;font-weight: 600;line-height: 31px;">
+        Easy asset discovery, Risk mitigation, Cost effective transaction
+      </p>
+    </div> -->
+
+
+    <!-- <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center" style="margin-bottom: 50px;">
+      <h1 class="display-4" style="font-family: 'Source Sans Pro', sans-serif;font-size: 55px;font-weight: 200;line-height: 69px;">Themed Token Baskets on WandX</h1>
+    </div> -->
+
+    <!-- <div class="container" style="margin-bottom: 50px;">
+      <div class="card-deck">
+        <div class="card">
+          <div class="card-body">
+            <h5 class="card-title" style="font-family: 'Source Sans Pro', sans-serif;font-weight: 600;">Exchange Token Baskets</h5>
+            <p class="card-text" style="font-family: 'Source Sans Pro', sans-serif;">Buy, sell and trade centralized and decentralized exchange token baskets to participate in the exchange token market with a single click. Using this baskets, users obtain a balanced ratio of exchange-based Tokens in a single transaction.</p>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-body">
+            <h5 class="card-title" style="font-family: 'Source Sans Pro', sans-serif;font-weight: 600;">Custom Baskets</h5>
+            <p class="card-text" style="font-family: 'Source Sans Pro', sans-serif;">Buy, sell and trade custom token baskets enabling users new to the crypto ecosystem to easily purchase a balanced group of tokens rather than search for liquidity of individual Tokens on multiple exchanges.</p>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-body">
+            <h5 class="card-title" style="font-family: 'Source Sans Pro', sans-serif;font-weight: 600;">Debt Baskets</h5>
+            <p class="card-text" style="font-family: 'Source Sans Pro', sans-serif;">Create Debt based baskets using the Dharma protocol (coming soon).</p>
+          </div>
+        </div>
+      </div>
+    </div> -->
+
+
+    <footer class="container py-5" style="max-width: 100%;background-color: #380149;">
+      <div class="row" style="margin-left: 35px;margin-right: 35px;">
+        <div class="col-12 col-md-2">
+          <a href="index.html"><img src="img/Wandx_logo_top.png" style="width: 80%;"></a>
+        </div>
+        <div class="col-12 col-md-7">
+          <ul class="row list-unstyled text-small">
+            <li style="margin-left: 10px;margin-right: 10px;"><a href="team.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;">About</a></li>
+            <li style="margin-left: 10px;margin-right: 10px;"><a href="whitepaper.html" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;">Whitepaper</a></li>
+            <li style="margin-left: 10px;margin-right: 10px;"><a href="tokenslisted.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;">Listed Tokens</a></li>
+            <li style="margin-left: 10px;margin-right: 10px;"><a href="technologiesused.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;">Technologies Used</a></li>
+            <li style="margin-left: 10px;margin-right: 10px;"><a href="termsofuse.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;">Terms of Use</a></li>
+            <li style="margin-left: 10px;margin-right: 10px;"><a href="privacy.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;">Privacy Policy</a></li>
+            <li style="margin-left: 10px;margin-right: 10px;"><a href="https://github.com/WandXDapp" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;">Smart Contracts</a></li>
+            <li style="margin-left: 10px;margin-right: 10px;"><a href="fees.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;">Fees</a></li>
+          </ul>
+          <small class="d-block mb-3" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px">© 2017-2018 WandX All Rights Reserved</small>
+        </div>
+        <div class="col-12 col-md-3" style="margin-top: -10px;">
+          <ul class="row list-unstyled text-small">
+            <li style="margin: 10px;">
+              <a href="https://t.me/wandxapp" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px"><img src="img/telegram.png" style="width: 30px;"></a>
+            </li>
+            <li style="margin: 10px;">
+              <a href="https://twitter.com/WandXDapp" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px"><img src="img/twitter.png" style="width: 30px;"></a>
+            </li>
+            <li style="margin: 10px;">  
+              <a href="https://blog.wandx.co/" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px"><img src="img/medium.png" style="width: 30px;"></a>
+            </li>
+            <li style="margin: 10px;">
+              <a href="https://www.linkedin.com/company/wandx/" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px"><img src="img/linkedin_1.png" style="width: 30px;"></a>
+            </li>
+            <!-- <li style="margin: 10px;">
+              <a href="https://www.instagram.com/wandx.co/" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px"><img src="img/Layer 2.png" style="width: 50px;"></a>
+            </li> -->
+            <li style="margin: 10px;">
+              <a href="https://www.facebook.com/wandx.co/" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px"><img src="img/facebook.png" style="width: 30px;"></a>
+            </li>
+              <!-- <a href="#" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px"><img src="img/Layer 4.png" style="width: 50px;"></a> -->
+            <li style="margin: 10px;">  
+              <a href="https://github.com/WandXDapp" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px"><img src="img/github.png" style="width: 30px;"></a>
+            </li>
+            
+            
+          </ul>
+        </div>
+      </div>
+    </footer>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/js/bootstrap.min.js" integrity="sha384-o+RDsa0aLu++PJvFqy8fFScvbHFLtbvScb8AjopnFD+iEQ7wo/CG0xlczd+2O/em" crossorigin="anonymous"></script>
+  </body>
+</html>
