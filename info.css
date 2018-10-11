@@ -1,4 +1,5 @@
-.img__wrap {
+
+.img__wrap {    
   position: relative;
 }
 
@@ -57,4 +58,84 @@
 .contact_form textarea {
   background-color: #d8d8d8;
   color: white;
+}
+.img_white{
+  width: 40px;
+  height: 40px;
+  }
+  @media only screen and (max-width: 574px) {
+  /* For mobile phones: */
+  [class*="img__img"] {
+      margin-left:25px;
+      margin-top:10px;
+      width:85%;
+      margin-bottom:10px;
+      margin-right: 2px;
+  }
+  
+  [class*="headings"]{
+   text-align: center
+  }
+  
+  .container br{
+    display: none;
+  }
+  
+  .img_odd{
+    max-height: 100%;
+    max-width: 100%;
+    margin-left:25px;
+    margin-top:10px;
+    margin-bottom:10px;
+    margin-right: 25px;
+  }
+  .img__description_layer {
+    display: flex;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    color: #fff;
+    padding: 0 25px;
+    visibility: hidden;
+    opacity: 0;
+    margin-left: 7px;
+    margin-right: 7px;
+    /* transition effect. not necessary */
+    transition: opacity .2s, visibility .2s;
+  }
+  
+  }
+  
+  
+  @media screen and (max-width: 992px) and (min-width:574px) {
+  .img__description p{
+    font-size:1.2vw;
+  }
+  
+  .img__description h5{
+    font-size:1.2vw;
+  }
+  
+  .img_white{
+    width: 20px;
+    height: 20px;
+   }
+   
+  }
+#roadmap-mobile {
+  display: none;
+}
+
+@media all and (max-width: 520px) {
+  /* roadmap image switch */
+  #roadmap-big {
+      display: none;
+  }
+
+  #roadmap-mobile {
+      display: block;
+      padding: 20px;
+  }
 }
