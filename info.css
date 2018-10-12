@@ -138,3 +138,22 @@
       padding: 20px;
   }
 }
+
+@media only screen and (min-width: 574px) {
+  #show-background{
+    display: inline;
+    display: flex;
+  }
+  .show-image{
+    display: inline;
+  }
+}
+@media only screen and (max-width: 574px) {
+  #show-background{
+    display: none;
+  }
+  .show-image{
+    display: none;
+  }
+}
+
