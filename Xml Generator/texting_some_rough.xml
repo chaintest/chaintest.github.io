@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<article lang="">
+  <para><note><remark>Required meta tags</remark></note><note><remark>facebook card</remark></note><note><remark>HTML: &lt;meta name="" content="img/exchange.png"&gt;</remark></note><note><remark>HTML: &lt;meta name="" content="WandX - User experience of a centralized exchange on a DEX"&gt;</remark></note><note><remark>HTML: &lt;meta name="" content="https://www.wandx.co/"&gt;</remark></note><note><remark>HTML: &lt;meta name="" content="website"&gt;</remark></note><note><remark>HTML: &lt;meta name="" content="WandX"&gt;</remark></note> 
+        { 
+          "@context": "http://schema.org/", 
+          "@type": "WebSite", 
+          "name": "WandX Pte.Ltd, Singapore, Bengaluru", 
+          "url": "https://www.wandx.co/"
+        } 
+      <note><remark>Global site tag (gtag.js) - Google Analytics</remark></note>      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-114592002-1');
+    <note><remark>Bootstrap CSS</remark></note><note><remark>Fonts</remark></note><inlinegraphic fileref="#img/logoheader.png" width="0.4898inch" depth="0.4138inch"/> </para>
+  <sect1 id="navbarNavAltMarkup">
+    <para><note><remark>&lt;div class="navbar-nav"&gt;</remark></note><note><remark>&lt;a class="nav-item nav-link" href="#" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;letter-spacing: 5.69px;margin: 15px;"&gt;Dashboard&lt;/a&gt;</remark></note><note><remark>&lt;a class="nav-item nav-link" href="#" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;letter-spacing: 5.69px;margin: 15px;"&gt;Basket&lt;/a&gt;</remark></note><note><remark>&lt;a class="nav-item nav-link" href="https://exchange.wandx.co/" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;letter-spacing: 5.69px;margin: 15px;"&gt;Exchange&lt;/a&gt;</remark></note><note><remark>&lt;a class="nav-item nav-link" href="#" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;letter-spacing: 5.69px;margin: 15px;"&gt;Wallet&lt;/a&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><olink targetdocent="index.html">Home</olink> <olink targetdocent="team.html">About</olink> <ulink url="https://blog.wandx.co/">Blog</ulink> <ulink url="https://exchange.wandx.co/">Exchange</ulink> <olink targetdocent="baskets.html">Basket Protocol</olink> </para>
+    <para>
+      <anchor id="navbardrop"/>
+      <link linkend="">Airdrop </link>
+    </para>
+    <para><ulink url="http://www.wandx.co/airdrop.html">Airdrop Details</ulink> <ulink url="https://neoairdrop.wandx.co/">Airdrop 1:1</ulink> <note><remark>&lt;a class="nav-item nav-link" href="http://www.wandx.co/airdrop.html" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;margin: 15px;"&gt;Airdrop&lt;/a&gt;</remark></note><note><remark>&lt;a class="nav-item nav-link" href="#" style="color: white;border-color: white;border-radius: 37px;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;margin: 15px;border: 1px solid white;padding: .375rem .75rem;text-align: center;"&gt;Download DAAP&lt;/a&gt;</remark></note></para>
+  </sect1>
+  <para><note><remark>&lt;div class="container" style="background-image: linear-gradient(#510C67, #360047);max-width: 100%;text-align: center;padding-top: 100px;padding-bottom: 40px;margin-top: -85px;"&gt;</remark></note><note><remark>&lt;div class="row" style="margin: auto;"&gt;</remark></note><note><remark>&lt;div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6" style="margin: auto;"&gt;</remark></note><note><remark>&lt;img src="img/Wandx_logo_top.png" alt="Wandx logo" style="max-width: 70%;"&gt;</remark></note><inlinegraphic fileref="#img/Wandx_logo_top.png" width="0.7862inch" depth="0.3929inch"/> </para>
+  <sect1 id="mc_embed_signup">
+    <para/>
+    <sect2 id="mc_embed_signup_scroll">
+      <para><anchor id="mce-EMAIL"/> </para>
+      <para> </para>
+      <para><anchor id="mc-embedded-subscribe"/> </para>
+    </sect2>
+  </sect1>
+  <para/>
+  <para><note><remark>&lt;div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6" style="margin: auto;color: white;"&gt;</remark></note><note><remark>&lt;img src="img/exchange.png" alt="Wandx logo" style="max-width: 80%;"&gt;</remark></note><inlinegraphic fileref="#img/Layer%2018.png" width="0.4791inch" depth="0.3929inch"/> </para>
+  <para>Multi blockchain desktop app</para>
+  <para>The current version of WandX desktop app is a one-stop decentralized token trading platform for both Ethereum (ERC20) and NEO (NEP-5) based tokens.</para>
+  <para><inlinegraphic fileref="#img/shopping-basket-2.png" width="0.4791inch" depth="0.3929inch"/> </para>
+  <para>WandX Basket Protocol</para>
+  <para>Buy and sell a portfolio of ERC20 or NEP5 tokens in a single transaction by opting for themed token baskets created on smart contracts using the Basket Protocol.</para>
+  <para><inlinegraphic fileref="#img/unnamed.png" width="0.4791inch" depth="0.3929inch"/> </para>
+  <para>Hybrid decentralized exchange ecosystem</para>
+  <para>Trade on an Ethereum or a NEO based decentralized exchange on the WandX desktop app without the hassle of signing transactions with an external wallet.</para>
+  <para><inlinegraphic fileref="#img/wallet-5.png" width="0.4791inch" depth="0.3929inch"/> </para>
+  <para>Ethereum and NEO wallet</para>
+  <para>Take advantage of the WandX desktop app to create a multi coin wallet or plug an existing wallet linked to Ethereum or NEO to trade and privately manage tokens. WandX doesn’t hold custody of Tokens, and all transactions go through the ETH or NEO Blockchains.</para>
+  <para>What is WandX?</para>
+  <para>WandX is the world’s first multi blockchain decentralized token exchange ecosystem with a unique Basket Protocol that supports bulk token trading through smart contracts.</para>
+  <sect1 id="carouselExampleIndicators">
+    <orderedlist>
+      <listitem>
+        <para>
+          <note>
+            <remark>&lt;li data-target="#carouselExampleIndicators" data-slide-to="2"&gt;&lt;/li&gt;</remark>
+          </note>
+        </para>
+      </listitem>
+    </orderedlist>
+    <para>Why WandX?</para>
+    <para/>
+    <para>Decentralized Trade </para>
+    <para>Trade Tokens on Ethereum or NEO while always holding control of your Tokens; Orders are hosted on the Blockchain; trades happen through the Blockchain, hence no central party confirms your transactions.</para>
+    <para>Decentralized Hedging </para>
+    <para>Hedge risks associated with volatile prices through purchasing a portfolio of Tokens with a single click. Purchase a "Decentralized Exchange Token" or "Stable Coin Basket" with a single click.</para>
+    <para>User owned custody </para>
+    <para>Create/import wallets on either Ethereum or NEO while always having control of your wallets.</para>
+    <para>What is WandX?</para>
+    <para>WandX is the world’s first multi blockchain decentralized token exchange ecosystem with a unique Basket Protocol that supports bulk token trading through smart contracts.</para>
+    <para><inlinegraphic fileref="#img/Layer%2018.png" width="0.4791inch" depth="0.3929inch"/> </para>
+    <para>Multi blockchain desktop app</para>
+    <para>The current version of WandX desktop app is a one-stop decentralized token trading platform for both Ethereum (ERC20) and NEO (NEP-5) based tokens.</para>
+    <para><inlinegraphic fileref="#img/shopping-basket-2.png" width="0.4791inch" depth="0.3929inch"/> </para>
+    <para>WandX Basket Protocol</para>
+    <para>Buy and sell a portfolio of ERC20 or NEP5 tokens in a single transaction by opting for themed token baskets created on smart contracts using the Basket Protocol.</para>
+    <para><inlinegraphic fileref="#img/unnamed.png" width="0.4791inch" depth="0.3929inch"/> </para>
+    <para>Hybrid decentralized exchange ecosystem</para>
+    <para>Trade on an Ethereum or a NEO based decentralized exchange on the WandX desktop app without the hassle of signing transactions with an external wallet.</para>
+    <para><inlinegraphic fileref="#img/wallet-5.png" width="0.4791inch" depth="0.3929inch"/> </para>
+    <para>Ethereum and NEO wallet</para>
+    <para>Take advantage of the WandX desktop app to create a multi coin wallet or plug an existing wallet linked to Ethereum or NEO to trade and privately manage tokens. WandX doesn’t hold custody of Tokens, and all transactions go through the ETH or NEO Blockchains.</para>
+    <para><inlinegraphic fileref="#img/Wandx_Layers.png" width="0.7862inch" depth="0.3929inch"/> </para>
+    <para>
+      <note>
+        <remark>&lt;div class="carousel-item"&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;img class="d-block w-100" src=".../800x400?auto=yes&amp;bg=555&amp;fg=333&amp;text=Third slide" alt="Third slide"&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;/div&gt;</remark>
+      </note>
+      <link linkend="">Previous </link>
+      <link linkend="">Next </link>
+    </para>
+  </sect1>
+  <para>
+    <note>
+      <remark>&lt;div class="container"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="row"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="col-md-12 text-center "&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;nav class="nav-justified "&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="nav nav-tabs " id="nav-tab" role="tablist"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;a class="nav-item nav-link" id="pop1-tab" data-toggle="tab" href="#pop1" role="tab" aria-controls="pop1" aria-selected="false"&gt;Why WandX?&lt;/a&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;a class="nav-item nav-link active" id="pop2-tab" data-toggle="tab" href="#pop2" role="tab" aria-controls="pop2" aria-selected="true"&gt;Learn how WandX Works for You&lt;/a&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;a class="nav-item nav-link" id="pop3-tab" data-toggle="tab" href="#pop3" role="tab" aria-controls="pop3" aria-selected="false"&gt;Some Section&lt;/a&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/nav&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="tab-content" id="nav-tabContent"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="tab-pane fade" id="pop1" role="tabpanel" aria-labelledby="pop1-tab"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="pt-3"&gt;&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card-group"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card-header text-white" style="background-color: #380149; text-align: center; font-family: 'Source Sans Pro', sans-serif;font-weight: 600;line-height: 25px;"&gt;</remark>
+    </note>
+    <note>
+      <remark>Decentralized Trade</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card-body text-center"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;p class="card-text" style="font-family: 'Source Sans Pro', sans-serif;"&gt;Trade Tokens on Ethereum or NEO while always holding control of your Tokens; Orders are hosted on the Blockchain; trades happen through the Blockchain, hence no central party confirms your transactions.&lt;/p&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card-header text-white" style="background-color: #380149; text-align: center; font-family: 'Source Sans Pro', sans-serif;font-weight: 600;line-height: 25px;"&gt;</remark>
+    </note>
+    <note>
+      <remark>Decentralized Hedging</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card-body text-center"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;p class="card-text" style="font-family: 'Source Sans Pro', sans-serif;"&gt;Hedge risks associated with volatile prices through purchasing a portfolio of Tokens with a single click. Purchase a "Decentralized Exchange Token" or "Stable Coin Basket" with a single click.&lt;/p&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card-header text-white" style="background-color: #380149; text-align: center; font-family: 'Source Sans Pro', sans-serif;font-weight: 600;line-height: 25px;"&gt;</remark>
+    </note>
+    <note>
+      <remark>User owned custody</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card-body text-center"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;p class="card-text" style="font-family: 'Source Sans Pro', sans-serif;"&gt;Create/import wallets on either Ethereum or NEO while always having control of your wallets.&lt;/p&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="tab-pane fade show active" id="pop2" role="tabpanel" aria-labelledby="pop2-tab"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="pricing-header px-3 py-3 mx-auto text-center" style="margin-top: 50px;margin-bottom: 50px;"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;h1 class="display-4" style="font-family: 'Source Sans Pro', sans-serif;font-size: 55px;font-weight: 200;line-height: 69px;"&gt;What is WandX?&lt;/h1&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;p class="lead" style="font-family: 'Source Sans Pro', sans-serif;font-size: 24px;font-weight: 200;line-height: 31px;"&gt;WandX is the world’s first multi blockchain decentralized token exchange ecosystem &lt;br&gt; with a unique Basket Protocol that supports bulk token trading through smart contracts.&lt;/p&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="container" style="margin-top: 50px;margin-bottom: 50px;"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="row"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="col-md-6"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="row"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="col-2" style="text-align: center;"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;img src="img/Layer 18.png" alt="SecureBlocks" style="width: 46px;"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="col-10"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;h1 class="display-4" style="font-family: 'Source Sans Pro', sans-serif;font-size: 20px;color: #512779;font-weight: 600;line-height: 25px;"&gt;Multi blockchain desktop app&lt;/h1&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;p class="lead" style="font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 500;color: #000000;line-height: 20px;"&gt;The current version of WandX desktop app is a one-stop decentralized token trading platform for both Ethereum (ERC20) and NEO (NEP-5) based tokens.&lt;/p&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="row"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="col-2" style="text-align: center;"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;img src="img/shopping-basket-2.png" style="width: 46px;"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="col-10"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;h1 class="display-4" style="font-family: 'Source Sans Pro', sans-serif;font-size: 20px;color: #512779;font-weight: 600;line-height: 25px;"&gt;WandX Basket Protocol&lt;/h1&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;p class="lead" style="font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 500;color: #000000;line-height: 20px;"&gt;Buy and sell a portfolio of ERC20 or NEP5 tokens in a single transaction by opting for themed token baskets created on smart contracts using the Basket Protocol.&lt;/p&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="row"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="col-2" style="text-align: center;"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;img src="img/unnamed.png" style="width: 46px;"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="col-10"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;h1 class="display-4" style="font-family: 'Source Sans Pro', sans-serif;font-size: 20px;color: #512779;font-weight: 600;line-height: 25px;"&gt;Hybrid decentralized exchange ecosystem&lt;/h1&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;p class="lead" style="font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 500;color: #000000;line-height: 20px;"&gt;Trade on an Ethereum or a NEO based decentralized exchange on the WandX desktop app without the hassle of signing transactions with an external wallet.&lt;/p&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="row"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="col-2" style="text-align: center;"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;img src="img/wallet-5.png" style="width: 46px;"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="col-10"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;h1 class="display-4" style="font-family: 'Source Sans Pro', sans-serif;font-size: 20px;color: #512779;font-weight: 600;line-height: 25px;"&gt;Ethereum and NEO wallet&lt;/h1&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;p class="lead" style="font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 500;color: #000000;line-height: 20px;"&gt;Take advantage of the WandX desktop app to create a multi coin wallet or plug an existing wallet linked to Ethereum or NEO to trade and privately manage tokens. WandX doesn’t hold custody of Tokens, and all transactions go through the ETH or NEO Blockchains.&lt;/p&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="col-md-6" style="margin: auto;"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;img src="img/Wandx_Layers.png" style="max-width: 100%;"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="tab-pane fade" id="pop3" role="tabpanel" aria-labelledby="pop3-tab"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="pt-3"&gt;&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;p&gt;Content is Coming!!&lt;/p&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;small&gt;- Jon Snow&lt;/small&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+  </para>
+  <para/>
+  <para/>
+  <para><note><remark>&lt;div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center" style="background-image: url(img/middleimagebg.png);"&gt;</remark></note><note><remark>&lt;img src="img/exchange.png" style="max-width: 100%;max-height: 250px;"&gt;</remark></note> </para>
+  <para/>
+  <para>
+    <note>
+      <remark>&lt;div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center" style="padding-top: 0px ! important;"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;h1 class="display-4" style="font-family: 'Source Sans Pro', sans-serif;font-size: 36px;font-weight: 200;line-height: 69px;"&gt;Download &lt;span style="font-family: 'Source Sans Pro', sans-serif;font-size: 36px;font-weight: 600;line-height: 69px;"&gt;WandX Desktop App&lt;/span&gt;&lt;/h1&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="dropdown"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;a class="btn btn-secondary dropdown-toggle" style="background-color: #733a86;border-color: #733a86;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 600;" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"&gt;</remark>
+    </note>
+    <note>
+      <remark>Download</remark>
+    </note>
+    <note>
+      <remark>&lt;/a&gt;</remark>
+    </note>
+    <note>
+      <remark/>
+    </note>
+    <note>
+      <remark>&lt;div class="dropdown-menu" aria-labelledby="dropdownMenuLink"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;a class="dropdown-item" href="https://www.wandx.co/downloads/WandX%20Dapp%20Setup%200.1.0.exe"&gt;Windows&lt;/a&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;a class="dropdown-item" href="https://www.wandx.co/downloads/WandX%20Dapp-0.1.0.dmg"&gt;Mac&lt;/a&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;a class="dropdown-item" href="https://www.wandx.co/downloads/Wandx-Desktop-App-0.1.0-x86_64.AppImage"&gt;Linux&lt;/a&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="container" style="max-width: 1650px;background: url(img/bgprofile.png);"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="row"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="col-md-4" style="text-align: center;"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;h2 style="font-family: 'Source Sans Pro', sans-serif;font-size: 30px;font-weight: 300;"&gt;Total tokens listed&lt;/h2&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;hr style="background-color: #363456;color: #363456;height: 6px;width: 129px;"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;p style="font-family: 'Source Sans Pro', sans-serif;font-size: 100px;font-weight: 600;"&gt;365&lt;/p&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="col-md-4" style="text-align: center;"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;h2 style="font-family: 'Source Sans Pro', sans-serif;font-size: 30px;font-weight: 300;"&gt;Active trades&lt;/h2&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;hr style="background-color: #363456;color: #363456;height: 6px;width: 129px;"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;p style="font-family: 'Source Sans Pro', sans-serif;font-size: 100px;font-weight: 600;"&gt;013&lt;/p&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="col-md-4" style="text-align: center;"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;h2 style="font-family: 'Source Sans Pro', sans-serif;font-size: 30px;font-weight: 300;"&gt;One day trade volume&lt;/h2&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;hr style="background-color: #363456;color: #363456;height: 6px;width: 129px;"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;p style="font-family: 'Source Sans Pro', sans-serif;font-size: 100px;font-weight: 600;"&gt;005&lt;/p&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;br&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="container"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="container" style="text-align: center;"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;h1 class="display-4" style="font-family: 'Source Sans Pro', sans-serif;font-size: 55px;font-weight: 200;line-height: 69px;"&gt;Theme based Token Baskets&lt;/h1&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;br&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="accordion" id="accordionExample"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card-header" id="headingOne"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;h5 class="mb-0"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;button style="color: #733a86;" class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne"&gt;</remark>
+    </note>
+    <note>
+      <remark>Exchange Token baskets</remark>
+    </note>
+    <note>
+      <remark>&lt;/button&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/h5&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark/>
+    </note>
+    <note>
+      <remark>&lt;div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card-body"&gt;</remark>
+    </note>
+    <note>
+      <remark>Centralized and decentralized exchange Token baskets enable users to enter the exchange Token market with a single click, rather than search for liquidity of each Token. Users can obtain a balanced ratio of Exchange based Tokens with a single transaction.</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card-header" id="headingTwo"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;h5 class="mb-0"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;button style="color: #733a86;" class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo"&gt;</remark>
+    </note>
+    <note>
+      <remark>Themed baskets</remark>
+    </note>
+    <note>
+      <remark>&lt;/button&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/h5&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card-body"&gt;</remark>
+    </note>
+    <note>
+      <remark>Different Basket Themes such as “Decentralized supply chain” Tokens, “Decentralized media/entertainment” Tokens can easily be created and traded, hence enabling users new to crypto to easily purchase a balanced group of Tokens rather than search for liquidity of individual Tokens on multiple exchanges.</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card-header" id="headingThree"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;h5 class="mb-0"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;button style="color: #733a86;" class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree"&gt;</remark>
+    </note>
+    <note>
+      <remark>Decentralized</remark>
+    </note>
+    <note>
+      <remark>&lt;/button&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/h5&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card-body"&gt;</remark>
+    </note>
+    <note>
+      <remark>Every Basket created is a smart contract that is owned by the creator. With purchase of a Basket, ownership is transferred, hence it’s entirely peer to peer, and truly decentralized.</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card-header" id="headingThree1"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;h5 class="mb-0"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;button style="color: #733a86;" class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour"&gt;</remark>
+    </note>
+    <note>
+      <remark>Debt baskets</remark>
+    </note>
+    <note>
+      <remark>&lt;/button&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/h5&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div id="collapseFour" class="collapse" aria-labelledby="headingThree1" data-parent="#accordionExample"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card-body"&gt;</remark>
+    </note>
+    <note>
+      <remark>Create Debt based baskets using the Dharma protocol (coming soon).</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card-header" id="headingThree2"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;h5 class="mb-0"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;button style="color: #733a86;" class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive"&gt;</remark>
+    </note>
+    <note>
+      <remark>Liquidity</remark>
+    </note>
+    <note>
+      <remark>&lt;/button&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/h5&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div id="collapseFive" class="collapse" aria-labelledby="headingThree2" data-parent="#accordionExample"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card-body"&gt;</remark>
+    </note>
+    <note>
+      <remark>Since the Baskets are basically smart contracts holding the underlying Tokens, liquidity of baskets is maintained entirely on the Blockchain.</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="container"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="row mt-5"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="col-md-6"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;ul class="list-group"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;li style="color: #733a86;" class="list-group-item"&gt;Decentralised exchange tokens&lt;/li&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;li style="color: #733a86;" class="list-group-item"&gt;Decentralised supply chain tokens&lt;/li&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;li style="color: #733a86;" class="list-group-item"&gt;Decentralised storage tokens&lt;/li&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;li style="color: #733a86;" class="list-group-item"&gt;Decentralised identity tokens&lt;/li&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;li style="color: #733a86;" class="list-group-item"&gt;Top 8 ERC20 tokens&lt;/li&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/ul&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="col-md-6"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;ul class="list-group"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;li style="color: #733a86;" class="list-group-item"&gt;Low market cap ERC20 tokens&lt;/li&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;li style="color: #733a86;" class="list-group-item"&gt;Decentralised payment system tokens&lt;/li&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;li style="color: #733a86;" class="list-group-item"&gt;Decentralised cyber security tokens&lt;/li&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;li style="color: #733a86;" class="list-group-item"&gt;Decentralised gaming tokens&lt;/li&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;li style="color: #733a86;" class="list-group-item"&gt;Decentralised insurance tokens&lt;/li&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/ul&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>Blog Component Starts</remark>
+    </note>
+  </para>
+  <para><inlinegraphic fileref="#img/blog1.png" width="0.8071inch" depth="0.4138inch"/> </para>
+  <sect1>
+    <title>WandX : The Multi-Blockchain DEX and Basket protocol</title>
+    <para>When we started building our Basket protocol in September 2017, we had an eye out for new Blockchain platforms, and were especially tethered to developments surrounding the rise and growth of NEO.</para>
+    <para>Aug 30</para>
+    <para><inlinegraphic fileref="#img/blog2.png" width="0.8071inch" depth="0.4138inch"/> </para>
+  </sect1>
+  <sect1>
+    <title>WANDNEO Token airdrop: Next Steps</title>
+    <para>The WANDNEO Token airdrop registration began on July 24th, and ended on August 10th. And between these dates, we’ve received over 25000 registrations for the airdrop!</para>
+    <para>Aug 30</para>
+    <para><inlinegraphic fileref="#img/blog3.png" width="0.8071inch" depth="0.4138inch"/> </para>
+  </sect1>
+  <sect1>
+    <title>WANDNEO Token Airdrop: All you need to know</title>
+    <para>WANDNEO Token airdrop registration starts today. Between 24th July 2018 and 10th Aug 2018, you can register on www.wandx.co/airdrop.html to secure your share of the new WANDNEO tokens.</para>
+    <para>Jul 24</para>
+    <para>Read More </para>
+    <para><note><remark>Blog Component Ends</remark></note>Partners</para>
+    <para><inlinegraphic fileref="#img/blockchainworx.png" width="2.3957inch" depth="0.2709inch"/> </para>
+    <para><inlinegraphic fileref="#img/Layer%2012.png" width="2.1665inch" depth="0.4689inch"/> </para>
+    <para><inlinegraphic fileref="#img/Layer%2015.png" width="2.1043inch" depth="0.448inch"/> </para>
+    <para><inlinegraphic fileref="#img/Layer%2014.png" width="1.4374inch" depth="0.5311inch"/> </para>
+    <para><inlinegraphic fileref="#img/Layer%2013.png" width="1.0626inch" depth="0.9898inch"/> </para>
+    <para><inlinegraphic fileref="#img/selfkey.png" width="1.25inch" depth="1.0937inch"/> </para>
+    <para><note><remark>Carousal Start</remark></note><note><remark>&lt;div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center"&gt;</remark></note><note><remark>&lt;h1 class="display-4" style="font-family: 'Source Sans Pro', sans-serif;font-size: 55px;font-weight: 300;line-height: 69px;"&gt;Partners&lt;/h1&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" style="background: #dcdcdcab;margin-bottom: 50px;"&gt;</remark></note><note><remark>&lt;ol class="carousel-indicators"&gt;</remark></note><note><remark>&lt;li style="width: 10px; height: 10px; border-radius: 20px;" data-target="#carouselExampleIndicators" data-slide-to="0" class="active"&gt;&lt;/li&gt;</remark></note><note><remark>&lt;li style="width: 10px; height: 10px; border-radius: 20px;" data-target="#carouselExampleIndicators" data-slide-to="1"&gt;&lt;/li&gt;</remark></note><note><remark>&lt;li style="width: 10px; height: 10px; border-radius: 20px;" data-target="#carouselExampleIndicators" data-slide-to="2"&gt;&lt;/li&gt;</remark></note><note><remark>&lt;li style="width: 10px; height: 10px; border-radius: 20px;" data-target="#carouselExampleIndicators" data-slide-to="3"&gt;&lt;/li&gt;</remark></note><note><remark>&lt;li style="width: 10px; height: 10px; border-radius: 20px;" data-target="#carouselExampleIndicators" data-slide-to="4"&gt;&lt;/li&gt;</remark></note><note><remark>&lt;/ol&gt;</remark></note><note><remark>&lt;div class="carousel-inner"&gt;</remark></note><note><remark>&lt;div class="carousel-item active" style="min-height: 230px;text-align: center;"&gt;</remark></note><note><remark>&lt;img src="img/Layer 12.png" style="width: 208px;height: 45px;margin-top: 70px;" alt="First slide"&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;div class="carousel-item" style="min-height: 230px;text-align: center;"&gt;</remark></note><note><remark>&lt;img src="img/Layer 15.png" style="width: 202px;height: 43px;margin-top: 70px;" alt="Second slide"&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;div class="carousel-item" style="min-height: 230px;text-align: center;"&gt;</remark></note><note><remark>&lt;img src="img/Layer 14.png" style="width: 138px;height: 51px;margin-top: 70px;" alt="Third slide"&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;div class="carousel-item" style="min-height: 230px;text-align: center;"&gt;</remark></note><note><remark>&lt;img src="img/Layer 13.png" style="width: 102px;height: 95px;margin-top: 70px;" alt="Third slide"&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;div class="carousel-item" style="min-height: 230px;text-align: center;"&gt;</remark></note><note><remark>&lt;img src="img/selfkey.png" style="width: 120px;height: 105px;margin-top: 70px;" alt="Third slide"&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev"&gt;</remark></note><note><remark>&lt;span class="carousel-control-prev-icon" aria-hidden="true"&gt;&lt;/span&gt;</remark></note><note><remark>&lt;span class="sr-only"&gt;Previous&lt;/span&gt;</remark></note><note><remark>&lt;/a&gt;</remark></note><note><remark>&lt;a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next"&gt;</remark></note><note><remark>&lt;span class="carousel-control-next-icon" aria-hidden="true"&gt;&lt;/span&gt;</remark></note><note><remark>&lt;span class="sr-only"&gt;Next&lt;/span&gt;</remark></note><note><remark>&lt;/a&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>Carousal End</remark></note><inlinegraphic fileref="#img/Wandx_logo_top.png" width="0.7862inch" depth="0.3929inch"/> </para>
+    <orderedlist>
+      <listitem>
+        <para><olink targetdocent="team.html">About</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="whitepaper.html">Whitepaper</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="tokenslisted.html">Listed Tokens</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="technologiesused.html">Technologies Used</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="termsofuse.html">Terms of Use</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="privacy.html">Privacy Policy</olink> </para>
+      </listitem>
+      <listitem>
+        <para><ulink url="https://github.com/WandXDapp">Smart Contracts</ulink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="fees.html">Fees</olink> </para>
+      </listitem>
+    </orderedlist>
+    <para>© 2017-2018 WandX All Rights Reserved </para>
+    <orderedlist>
+      <listitem>
+        <para><inlinegraphic fileref="#img/telegram.png" width="0.3335inch" depth="0.4138inch"/> </para>
+      </listitem>
+      <listitem>
+        <para><inlinegraphic fileref="#img/twitter.png" width="0.3335inch" depth="0.4138inch"/> </para>
+      </listitem>
+      <listitem>
+        <para><inlinegraphic fileref="#img/medium.png" width="0.3335inch" depth="0.4138inch"/> </para>
+      </listitem>
+      <listitem>
+        <para><inlinegraphic fileref="#img/linkedin_1.png" width="0.3335inch" depth="0.4138inch"/><note><remark>&lt;li style="margin: 10px;"&gt;</remark></note><note><remark>&lt;a href="https://www.instagram.com/wandx.co/" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px"&gt;&lt;img src="img/Layer 2.png" style="width: 50px;"&gt;&lt;/a&gt;</remark></note><note><remark>&lt;/li&gt;</remark></note> </para>
+      </listitem>
+      <listitem>
+        <para><inlinegraphic fileref="#img/facebook.png" width="0.3335inch" depth="0.4138inch"/><note><remark>&lt;a href="#" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px"&gt;&lt;img src="img/Layer 4.png" style="width: 50px;"&gt;&lt;/a&gt;</remark></note> </para>
+      </listitem>
+      <listitem>
+        <para><inlinegraphic fileref="#img/github.png" width="0.3335inch" depth="0.4138inch"/> </para>
+      </listitem>
+    </orderedlist>
+    <para><note><remark>Optional JavaScript</remark></note><note><remark>jQuery first, then Popper.js, then Bootstrap JS</remark></note>      $('.carousel').carousel({
+        interval: 1000
+      })
+    </para>
+  </sect1>
+</article>

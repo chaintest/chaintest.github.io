@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<article lang="">
+  <para><note><remark>Required meta tags</remark></note><note><remark>facebook card</remark></note><note><remark>HTML: &lt;meta name="" content="img/exchange.png"&gt;</remark></note><note><remark>HTML: &lt;meta name="" content="WandX - ERC20 Token Products Using Smart Contracts"&gt;</remark></note><note><remark>HTML: &lt;meta name="" content="https://www.wandx.co/whitepaper."&gt;</remark></note><note><remark>HTML: &lt;meta name="" content="website"&gt;</remark></note><note><remark>HTML: &lt;meta name="" content="WandX"&gt;</remark></note><note><remark>Global site tag (gtag.js) - Google Analytics</remark></note>  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-114592002-1');<note><remark>Bootstrap CSS</remark></note><note><remark>Fonts</remark></note><inlinegraphic fileref="#img/logoheader.png" width="0.4898inch" depth="0.4138inch"/> </para>
+  <sect1 id="navbarNavAltMarkup">
+    <para><note><remark>&lt;div class="navbar-nav"&gt;</remark></note><note><remark>&lt;a class="nav-item nav-link" href="#" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;letter-spacing: 5.69px;margin: 15px;"&gt;Dashboard&lt;/a&gt;</remark></note><note><remark>&lt;a class="nav-item nav-link" href="#" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;letter-spacing: 5.69px;margin: 15px;"&gt;Basket&lt;/a&gt;</remark></note><note><remark>&lt;a class="nav-item nav-link" href="https://exchange.wandx.co/" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;letter-spacing: 5.69px;margin: 15px;"&gt;Exchange&lt;/a&gt;</remark></note><note><remark>&lt;a class="nav-item nav-link" href="#" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;letter-spacing: 5.69px;margin: 15px;"&gt;Wallet&lt;/a&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><olink targetdocent="index.html">Home</olink> <olink targetdocent="team.html">About</olink> <ulink url="https://blog.wandx.co/">Blog</ulink> <ulink url="https://exchange.wandx.co/">Exchange</ulink> <olink targetdocent="baskets.html">Basket Protocol</olink> </para>
+    <para>
+      <anchor id="navbardrop"/>
+      <link linkend="">Airdrop </link>
+    </para>
+    <para><ulink url="http://www.wandx.co/airdrop.html">Airdrop Details</ulink> <ulink url="https://neoairdrop.wandx.co/">Airdrop 1:1</ulink> <note><remark>&lt;a class="nav-item nav-link" href="http://www.wandx.co/airdrop.html" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;margin: 15px;"&gt;Airdrop&lt;/a&gt;</remark></note><note><remark>&lt;a class="nav-item nav-link" href="#" style="color: white;border-color: white;border-radius: 37px;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;margin: 15px;border: 1px solid white;padding: .375rem .75rem;text-align: center;"&gt;Download DAAP&lt;/a&gt;</remark></note></para>
+  </sect1>
+  <para><inlinegraphic fileref="#img/Wandx_logo_top.png" width="0.7862inch" depth="0.3929inch"/> </para>
+  <sect1 id="mc_embed_signup">
+    <para>
+      <note>
+        <remark>Begin MailChimp Signup Form</remark>
+      </note>
+    </para>
+    <sect2 id="mc_embed_signup_scroll">
+      <para><anchor id="mce-EMAIL"/><note><remark>&lt;div class="col-md-9"&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--&gt;</remark></note> </para>
+      <para> </para>
+      <para><anchor id="mc-embedded-subscribe"/> </para>
+    </sect2>
+  </sect1>
+  <sect1 id="mce-responses">
+    <para>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);<note><remark>&lt;!--End mc_embed_signup--&gt;</remark></note><note><remark>&lt;input type="text" class="form-control" placeholder="Email Address" aria-label="Recipient's username" aria-describedby="button-addon2"&gt;</remark></note><note><remark>&lt;div class="input-group-append"&gt;</remark></note><note><remark>&lt;button class="btn btn-outline-secondary" type="button" id="button-addon2" style="border: 0px;background: #36c51f;color: white;"&gt;Subscribe&lt;/button&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note></para>
+    <sect2 id="mce-error-response">
+      <para/>
+    </sect2>
+    <sect2 id="mce-success-response">
+      <para/>
+    </sect2>
+  </sect1>
+  <para/>
+  <para><note><remark>&lt;div class="col-md-6"&gt;</remark></note><note><remark>&lt;div style="height: 80%;"&gt;</remark></note><note><remark>&lt;img src="img/exchange.png" alt="ERC20 tokens decentralised exchange"style="max-width: 100%;max-height: 130%;"&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note>WANDX - Multi-Blockchain DEX and decentralized hedging on NEO and Ethereum</para>
+  <para>
+    <note>
+      <remark>&lt;h1 style="font-family: 'Source Sans Pro', sans-serif;font-size: 55px;font-weight: 300;line-height: 69px;text-align: center;"&gt;(Updated: October 2017)&lt;/h1&gt;</remark>
+    </note>
+    <note>
+      <remark>class="privacy-holder" style="font-family: 'Source Sans Pro', sans-serif;font-size: 20px;"</remark>
+    </note>
+  </para>
+  <orderedlist>
+    <listitem>
+      <para>Executive summary </para>
+    </listitem>
+    <listitem>
+      <para>Problem statement </para>
+    </listitem>
+    <listitem>
+      <para>Solution </para>
+    </listitem>
+    <listitem>
+      <para>Identity </para>
+    </listitem>
+    <listitem>
+      <para>Technology </para>
+    </listitem>
+    <listitem>
+      <para>Incentivization </para>
+    </listitem>
+    <listitem>
+      <para>Governance </para>
+    </listitem>
+    <listitem>
+      <para>Timeline </para>
+      <para><inlinegraphic fileref="#images/timeline.png" width="0.7862inch" depth="0.3929inch"/> </para>
+      <para>[Figure 3. Roadmap of WandX development and feature addition for the next 6 months.]</para>
+    </listitem>
+    <listitem>
+      <para>Competitor Landscape </para>
+    </listitem>
+    <listitem>
+      <para>Technology integrations </para>
+    </listitem>
+    <listitem>
+      <para>Legal considerations </para>
+    </listitem>
+    <listitem>
+      <para>Development Roadmap </para>
+    </listitem>
+    <listitem>
+      <para>Marketing and sales strategy </para>
+    </listitem>
+    <listitem>
+      <para>Token Sale </para>
+    </listitem>
+    <listitem>
+      <para><note><remark>&lt;li&gt;&lt;strong&gt;14.3 Pre-Token sale&lt;/strong&gt;</remark></note><note><remark>&lt;/li&gt;</remark></note><note><remark>&lt;li&gt;&lt;strong&gt;14.3.1 Why launch a pre-Token sale?&lt;/strong&gt;</remark></note><note><remark>&lt;ul class="left-mar"&gt;</remark></note><note><remark>&lt;li&gt;Gauge market sentiment — We would like to gauge market sentiment for a decentralized basket of crypto assets trading application such as ours.&lt;/li&gt;</remark></note><note><remark>&lt;li&gt;Marketing — In the six weeks till the end of our Token sale, we want to step up our PR and marketing campaign for our platform.&lt;/li&gt;</remark></note><note><remark>&lt;li&gt;Fast track mainnet release — We would like to release WandX onto the mainnet soon after our token sale, hence we will use part of the funds to stress test our basket trading application APIs.&lt;/li&gt;</remark></note><note><remark>&lt;/ul&gt;</remark></note><note><remark>&lt;/li&gt;</remark></note><note><remark>&lt;li&gt;&lt;strong&gt;14.3.2 Time :&lt;/strong&gt;</remark></note><note><remark>&lt;ul class="left-mar"&gt;</remark></note><note><remark>&lt;li&gt;Start date and time — October 9th 2pm GMT.&lt;/li&gt;</remark></note><note><remark>&lt;li&gt;End date and time — October 12th 7:30pm GMT.&lt;/li&gt;</remark></note><note><remark>&lt;/ul&gt;</remark></note><note><remark>&lt;/li&gt;</remark></note><note><remark>&lt;li&gt;Update: Since the whitelisted users exceeded 500ETH of contribution, a pre-sale was not done.&lt;/li&gt;</remark></note><note><remark>&lt;li&gt;&lt;strong&gt;14.3.3 Tokens :&lt;/strong&gt;</remark></note><note><remark>&lt;ul class="left-mar"&gt;</remark></note><note><remark>&lt;li&gt;5.2% of the total supply of Wand will be available for the Pre-Token sale.&lt;/li&gt;</remark></note><note><remark>&lt;li&gt;Pre-Token sale + Token sale = 12500ETH.&lt;/li&gt;</remark></note><note><remark>&lt;li&gt;Pre-Token sale = 530ETH.&lt;/li&gt;</remark></note><note><remark>&lt;li&gt;Total Supply = 75 million Wand.&lt;/li&gt;</remark></note><note><remark>&lt;li&gt;Supply offered for the pre-Token sale + Token sale = 55 million Wand.&lt;/li&gt;</remark></note><note><remark>&lt;li&gt;Supply offered for the Token sale = 51500000.&lt;/li&gt;</remark></note><note><remark>&lt;li&gt;Supply offered for the pre-Token sale = 3500000.&lt;/li&gt;</remark></note><note><remark>&lt;li&gt;Tokens accepted for the pre-Token sale = ETH.&lt;/li&gt;</remark></note><note><remark>&lt;li&gt;Minimum Ether required to participate in the Pre-Token sale = 1ETH.&lt;/li&gt;</remark></note><note><remark>&lt;li&gt;Remaining Supply after pre-Token sale + Token sale = 20 million Wand.&lt;/li&gt;</remark></note><note><remark>&lt;li&gt;This remaining 20 million Wand supply will be reserved for advisers, founders, and offered as a Seasonal Token Offering during the release of WandX 2.0.&lt;/li&gt;</remark></note><note><remark>&lt;/ul&gt;</remark></note><note><remark>&lt;/li&gt;</remark></note><note><remark>&lt;div class="paper-img-holder" style="text-align: center;"&gt;</remark></note><note><remark>&lt;img src="./images/tokensalebonus.png" alt="Token sale process" style="max-width: 100%;"&gt;</remark></note><note><remark>&lt;p&gt;[Token sale process]&lt;/p&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;li&gt;&lt;strong&gt;14.3.3 How to participate:&lt;/strong&gt;</remark></note><note><remark>&lt;ul class="no-dots"&gt;</remark></note><note><remark>&lt;li&gt;Send your Ether only through MyEtherWallet, Mist Wallet, Parity Wallet, Metamask to the address mentioned on the Token sale page at 2pm GMT on October 8th for pre-sale and 2pm GMT on October 27th for Token sale. Do not send Ether through exchanges such as Poloniex or through wallets such as the Jaxx wallet, since your ether could be misplaced.&lt;/li&gt;</remark></note><note><remark>&lt;li&gt;Please read the terms and conditions before participating in our pre-Token sale and our Token sale.&lt;/li&gt;</remark></note><note><remark>&lt;/ul&gt;</remark></note><note><remark>&lt;/li&gt;</remark></note><note><remark>&lt;li&gt;&lt;strong&gt;14.3.4 WandX protocol and the Wand token :&lt;/strong&gt;</remark></note><note><remark>&lt;/li&gt;</remark></note><note><remark>&lt;li&gt;The Wand tokens are utility Tokens in the WandX application. They act as a loyalty points scheme in retail. Users are incentivized to create and trade in ERC20 Token baskets, hence every time a creation or trade occurs, users get a small amount of Wand tokens added to their address The Ethereum blockchain protocol token (which is Ether) allows users to use Ether in the Ethereum world computer; the filecoin/storj/sia protocol token allows users to use tokens for file storage; pending regulatory approval, the WandX protocol would ensure clearing of ERC20 Token baskets based contracts. These contracts could be a number of Token products or baskets or variations on these products or baskets that are used to cater to users with different reward/risk appetites. Hence each of the modules at WandX are in the form of an API, both for security reasons as well as to enable users to clear contracts on other platforms using our APIs. The WandX protocol token is a means to an end - create decentralized markets for any ERC20 Token instrument/product.</remark></note><note><remark>&lt;/li&gt;</remark></note>System architecture </para>
+    </listitem>
+    <listitem>
+      <para>Risk and compliance </para>
+    </listitem>
+    <listitem>
+      <para>Advantages of WandX </para>
+    </listitem>
+  </orderedlist>
+  <para><inlinegraphic fileref="#img/Wandx_logo_top.png" width="0.7862inch" depth="0.3929inch"/> </para>
+  <orderedlist>
+    <listitem>
+      <para><olink targetdocent="team.html">About</olink> </para>
+    </listitem>
+    <listitem>
+      <para><ulink url="https://blog.wandx.co/">Blog</ulink> </para>
+    </listitem>
+    <listitem>
+      <para><link linkend="">Contact</link> </para>
+    </listitem>
+  </orderedlist>
+  <orderedlist>
+    <listitem>
+      <para><olink targetdocent="whitepaper.html">Whitepaper</olink> </para>
+    </listitem>
+    <listitem>
+      <para><olink targetdocent="tokenslisted.html">Listed Tokens</olink> </para>
+    </listitem>
+    <listitem>
+      <para><link linkend="">API</link> </para>
+    </listitem>
+  </orderedlist>
+  <orderedlist>
+    <listitem>
+      <para><olink targetdocent="fees.html">Fees</olink> </para>
+    </listitem>
+    <listitem>
+      <para><olink targetdocent="privacy.html">Privacy Policy</olink> </para>
+    </listitem>
+    <listitem>
+      <para><olink targetdocent="termsofuse.html">Terms of Use</olink> </para>
+    </listitem>
+  </orderedlist>
+  <para><note><remark>&lt;ul class="row list-unstyled text-small"&gt;</remark></note><note><remark>&lt;li style="margin-left: 10px;margin-right: 10px;"&gt;&lt;a href="team.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;"&gt;About&lt;/a&gt;&lt;/li&gt;</remark></note><note><remark>&lt;li style="margin-left: 10px;margin-right: 10px;"&gt;&lt;a href="whitepaper.html" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;"&gt;Whitepaper&lt;/a&gt;&lt;/li&gt;</remark></note><note><remark>&lt;li style="margin-left: 10px;margin-right: 10px;"&gt;&lt;a href="tokenslisted.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;"&gt;Listed Tokens&lt;/a&gt;&lt;/li&gt;</remark></note><note><remark>&lt;li style="margin-left: 10px;margin-right: 10px;"&gt;&lt;a href="technologiesused.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;"&gt;Technologies Used&lt;/a&gt;&lt;/li&gt;</remark></note><note><remark>&lt;li style="margin-left: 10px;margin-right: 10px;"&gt;&lt;a href="termsofuse.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;"&gt;Terms of Use&lt;/a&gt;&lt;/li&gt;</remark></note><note><remark>&lt;li style="margin-left: 10px;margin-right: 10px;"&gt;&lt;a href="privacy.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;"&gt;Privacy Policy&lt;/a&gt;&lt;/li&gt;</remark></note><note><remark>&lt;li style="margin-left: 10px;margin-right: 10px;"&gt;&lt;a href="https://github.com/WandXDapp" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;"&gt;Smart Contracts&lt;/a&gt;&lt;/li&gt;</remark></note><note><remark>&lt;li style="margin-left: 10px;margin-right: 10px;"&gt;&lt;a href="fees.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;"&gt;Fees&lt;/a&gt;&lt;/li&gt;</remark></note><note><remark>&lt;/ul&gt;</remark></note>© 2017-2018 WandX All Rights Reserved </para>
+  <para>Subscribe to our Newsletter</para>
+  <sect1 id="Section1">
+    <para>
+      <anchor id="mc_embed_signup"/>
+      <note>
+        <remark>Begin MailChimp Signup Form</remark>
+      </note>
+    </para>
+    <sect2 id="Section2">
+      <para><anchor id="mc_embed_signup_scroll"/><anchor id="mce-EMAIL1"/><note><remark>&lt;div class="col-md-9"&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--&gt;</remark></note> </para>
+      <para> </para>
+      <para><anchor id="mc-embedded-subscribe1"/> </para>
+    </sect2>
+  </sect1>
+  <sect1 id="Section3">
+    <para><anchor id="mce-responses"/>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);<note><remark>&lt;!--End mc_embed_signup--&gt;</remark></note><note><remark>&lt;input type="text" class="form-control" placeholder="Email Address" aria-label="Recipient's username" aria-describedby="button-addon2"&gt;</remark></note><note><remark>&lt;div class="input-group-append"&gt;</remark></note><note><remark>&lt;button class="btn btn-outline-secondary" type="button" id="button-addon2" style="border: 0px;background: #36c51f;color: white;"&gt;Subscribe&lt;/button&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note></para>
+    <sect2 id="Section4">
+      <para>
+        <anchor id="mce-error-response"/>
+      </para>
+    </sect2>
+    <sect2 id="Section5">
+      <para>
+        <anchor id="mce-success-response"/>
+      </para>
+    </sect2>
+  </sect1>
+  <orderedlist>
+    <listitem>
+      <para><inlinegraphic fileref="#img/telegram.png" width="0.3335inch" depth="0.4138inch"/> </para>
+    </listitem>
+    <listitem>
+      <para><inlinegraphic fileref="#img/twitter.png" width="0.3335inch" depth="0.4138inch"/> </para>
+    </listitem>
+    <listitem>
+      <para><inlinegraphic fileref="#img/medium.png" width="0.3335inch" depth="0.4138inch"/> </para>
+    </listitem>
+    <listitem>
+      <para><inlinegraphic fileref="#img/linkedin_1.png" width="0.3335inch" depth="0.4138inch"/><note><remark>&lt;li style="margin: 10px;"&gt;</remark></note><note><remark>&lt;a href="https://www.instagram.com/wandx.co/" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px"&gt;&lt;img src="img/Layer 2.png" style="width: 50px;"&gt;&lt;/a&gt;</remark></note><note><remark>&lt;/li&gt;</remark></note> </para>
+    </listitem>
+    <listitem>
+      <para><inlinegraphic fileref="#img/facebook.png" width="0.3335inch" depth="0.4138inch"/><note><remark>&lt;a href="#" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px"&gt;&lt;img src="img/Layer 4.png" style="width: 50px;"&gt;&lt;/a&gt;</remark></note> </para>
+    </listitem>
+    <listitem>
+      <para><inlinegraphic fileref="#img/github.png" width="0.3335inch" depth="0.4138inch"/> </para>
+    </listitem>
+  </orderedlist>
+  <para>
+    <note>
+      <remark>Optional JavaScript</remark>
+    </note>
+    <note>
+      <remark>jQuery first, then Popper.js, then Bootstrap JS</remark>
+    </note>
+  </para>
+</article>

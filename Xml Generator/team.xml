@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<article lang="">
+  <para><note><remark>Required meta tags</remark></note><note><remark>Bootstrap CSS</remark></note><note><remark>Fonts</remark></note><note><remark>Global site tag (gtag.js) - Google Analytics</remark></note>  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-114592002-1');<note><remark>&lt;nav class="navbar navbar-expand-lg navbar-light bg-light" style="background-color: rgba(124, 43, 87, 0.3) ! important;z-index: 999;"&gt;</remark></note><inlinegraphic fileref="#img/logoheader.png" width="0.4898inch" depth="0.4138inch"/> </para>
+  <sect1 id="navbarNavAltMarkup">
+    <para><note><remark>&lt;div class="navbar-nav"&gt;</remark></note><note><remark>&lt;a class="nav-item nav-link" href="#" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;letter-spacing: 5.69px;margin: 15px;"&gt;Dashboard&lt;/a&gt;</remark></note><note><remark>&lt;a class="nav-item nav-link" href="#" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;letter-spacing: 5.69px;margin: 15px;"&gt;Basket&lt;/a&gt;</remark></note><note><remark>&lt;a class="nav-item nav-link" href="https://exchange.wandx.co/" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;letter-spacing: 5.69px;margin: 15px;"&gt;Exchange&lt;/a&gt;</remark></note><note><remark>&lt;a class="nav-item nav-link" href="#" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;letter-spacing: 5.69px;margin: 15px;"&gt;Wallet&lt;/a&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><olink targetdocent="index.html">Home</olink> <olink targetdocent="team.html">About</olink> <ulink url="https://blog.wandx.co/">Blog</ulink> <ulink url="https://exchange.wandx.co/">Exchange</ulink> <olink targetdocent="baskets.html">Basket Protocol</olink> <ulink url="http://www.wandx.co/airdrop.html">Airdrop</ulink><note><remark>&lt;a class="nav-item nav-link" href="#" style="color: white;border-color: white;border-radius: 37px;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;margin: 15px;border: 1px solid white;padding: .375rem .75rem;text-align: center;"&gt;Download DAAP&lt;/a&gt;</remark></note> </para>
+  </sect1>
+  <para><note><remark>&lt;div class="col-md-12"&gt;</remark></note><note><remark>&lt;img src="img/Wandx_logo_top.png" alt="WandX" style="max-width: 100%;margin-top: 150px;"&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><inlinegraphic fileref="#img/Wandx_logo_top.png" width="0.7862inch" depth="0.3929inch"/> </para>
+  <para><note><remark>Our Mission Starts</remark></note>Our Mission</para>
+  <para>Founded in 2017, WandX is a protocol for ‘basket trade’ and a decentralized trading platform for crypto token holders. Our mission is to create a one-stop, simple and smart digital asset management ecosystem that helps crypto asset holders manage their risks better, without fear or driven by hype.</para>
+  <para>The WandX Vision</para>
+  <para>Following an explosion of interest in blockchain projects and cryptocurrencies, investments in these new digital assets have become tricky, complicated and heavily dependent on market forces, including obscure indexes and centralized order books.</para>
+  <para/>
+  <para>We are betting on the original methodologies of modern financial instruments that help in making trading and investing in crypto assets and crypto derivative products easy and prudent.</para>
+  <para/>
+  <para>Apart from helping to align investments in digital assets with personal goals more closely, our vision is to make people feel confident about investing in blockchain-based digital assets and also managing these digital assets on their own.</para>
+  <sect1>
+    <title><note><remark>Our Mission Ends</remark></note><note><remark>Profile Starts</remark></note>2018 -2019 Roadmap</title>
+    <note>
+      <remark>Our Mission Ends</remark>
+    </note>
+    <note>
+      <remark>Profile Starts</remark>
+    </note>
+    <para/>
+    <sect1 id="roadmap-big">
+      <para><inlinegraphic fileref="#img/roadmap-horizontal.png" width="0.7862inch" depth="0.3929inch"/> </para>
+    </sect1>
+    <sect1 id="roadmap-mobile">
+      <para><inlinegraphic fileref="#img/roadmap-vertical.png" width="0.7862inch" depth="0.3929inch"/> </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Core Team</title>
+    <para>Meet the people working towards building a robust decentralized marketplace for creating, buying, selling and transferring different kinds and classes of cryptocurrency instruments.</para>
+    <para><inlinegraphic fileref="#img/abhinav.jpg" width="0.7862inch" depth="0.3929inch"/> </para>
+    <sect2>
+      <title/>
+      <sect3>
+        <title>Abhinav Ramesh</title>
+        <para>Founder &amp; CEO</para>
+        <para><inlinegraphic fileref="#img/linkedin.png" width="0.8071inch" depth="0.4138inch"/> </para>
+        <para><inlinegraphic fileref="#img/amit.jpeg" width="0.7862inch" depth="0.3929inch"/> </para>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title/>
+      <sect3>
+        <title>Amit Maurya</title>
+        <para>Blockchain Developer</para>
+        <para><inlinegraphic fileref="#img/linkedin.png" width="0.8071inch" depth="0.4138inch"/> </para>
+        <para><inlinegraphic fileref="#img/vivek.jpg" width="0.7862inch" depth="0.3929inch"/> </para>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title/>
+      <sect3>
+        <title>Vivek K</title>
+        <para>Strategic Partner</para>
+        <para><inlinegraphic fileref="#img/linkedin.png" width="0.8071inch" depth="0.4138inch"/> </para>
+        <para><note><remark>&lt;div class="col-sm-4 img__wrap"&gt;</remark></note><note><remark>&lt;img class="img__img" src="img/sridhar.jpg" style="max-height: 100%;max-width: 100%;"&gt;</remark></note><note><remark>&lt;div class="img__description_layer"&gt;</remark></note><note><remark>&lt;div class="img__layer"&gt;</remark></note><note><remark>&lt;div class="img__description"&gt;</remark></note><note><remark>&lt;h5&gt;Sridhar Kolapalli&lt;/h5&gt;</remark></note><note><remark>&lt;p&gt;Ethereum Smart Contract Architecture&lt;/p&gt;</remark></note><note><remark>&lt;a href="https://www.linkedin.com/in/sridharkolapalli/"&gt;&lt;img class="img_white" src="img/linkedin.png" alt="sridharkolapalli" &gt;&lt;/a&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;div class="col-sm-4 img__wrap"&gt;</remark></note><note><remark>&lt;img class="img__img" src="img/dinesh.jpg" style="max-height: 100%;max-width: 100%;"&gt;</remark></note><note><remark>&lt;div class="img__description_layer"&gt;</remark></note><note><remark>&lt;div class="img__layer"&gt;</remark></note><note><remark>&lt;div class="img__description"&gt;</remark></note><note><remark>&lt;h5&gt;Dinesh Rekula&lt;/h5&gt;</remark></note><note><remark>&lt;p&gt;Distributed Systems and Smart Contract Developer&lt;/p&gt;</remark></note><note><remark>&lt;a href="https://www.linkedin.com/in/dineshrekula/"&gt;&lt;img class="img_white" src="img/linkedin.png" alt="linkedin" &gt;&lt;/a&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><inlinegraphic fileref="#img/shyam.jpg" width="0.7862inch" depth="0.3929inch"/> </para>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title/>
+      <sect3>
+        <title>Shyam Mamidi</title>
+        <para>Director/Ex-VP and Partner at IBM Singapore</para>
+        <para><inlinegraphic fileref="#img/linkedin.png" width="0.8071inch" depth="0.4138inch"/> </para>
+        <para><inlinegraphic fileref="#img/meeta.png" width="0.7862inch" depth="0.3929inch"/> </para>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title/>
+      <sect3>
+        <title>Meeta Sharma</title>
+        <para>Marketing Manager</para>
+        <para><inlinegraphic fileref="#img/linkedin.png" width="0.8071inch" depth="0.4138inch"/> </para>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title>Technical Advisors</title>
+      <para><note><remark>&lt;p style="margin-bottom:0;"&gt;Meet the people working towards building a robust decentralized marketplace for creating, buying, selling and transferring different kinds and classes of cryptocurrency instruments.&lt;/p&gt;</remark></note><inlinegraphic fileref="#img/sridhar.jpg" width="0.7862inch" depth="0.3929inch"/> </para>
+      <sect3>
+        <title>Sridhar Kolapalli</title>
+        <para>Ethereum Smart Contract Architecture</para>
+        <para><inlinegraphic fileref="#img/linkedin.png" width="0.8071inch" depth="0.4138inch"/> </para>
+        <para><inlinegraphic fileref="#img/dinesh.jpg" width="0.7862inch" depth="0.3929inch"/> </para>
+      </sect3>
+      <sect3>
+        <title>Dinesh Rekula</title>
+        <para>Distributed Systems and Smart Contract Developer</para>
+        <para><inlinegraphic fileref="#img/linkedin.png" width="0.8071inch" depth="0.4138inch"/> </para>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title>Advisors</title>
+      <para><note><remark>&lt;p style="margin-bottom:0;"&gt;Meet the people working towards building a robust decentralized marketplace for creating, buying, selling and transferring different kinds and classes of cryptocurrency instruments.&lt;/p&gt;</remark></note><inlinegraphic fileref="#img/lou.jpg" width="0.7862inch" depth="0.3929inch"/> </para>
+      <sect3>
+        <title>Lou Kerner</title>
+        <para>Co-Founder &amp; Partner at CryptoOracle.io</para>
+        <para><inlinegraphic fileref="#img/linkedin.png" width="0.8071inch" depth="0.4138inch"/> </para>
+        <para><inlinegraphic fileref="#img/yogesh.jpg" width="0.7862inch" depth="0.3929inch"/> </para>
+      </sect3>
+      <sect3>
+        <title>Yogesh Gaikwad</title>
+        <para>Advisor</para>
+        <para><inlinegraphic fileref="#img/linkedin.png" width="0.8071inch" depth="0.4138inch"/> </para>
+        <para><inlinegraphic fileref="#img/bryan.jpg" width="0.7862inch" depth="0.3929inch"/> </para>
+      </sect3>
+      <sect3>
+        <title>Bryan Feinberg</title>
+        <para>CEO/Founder of Etherlabs</para>
+        <para><inlinegraphic fileref="#img/linkedin.png" width="0.8071inch" depth="0.4138inch"/> </para>
+        <para><inlinegraphic fileref="#img/james.jpg" width="0.7862inch" depth="0.3929inch"/> </para>
+      </sect3>
+      <sect3>
+        <title>James Haft</title>
+        <para>Co-Founder at CryptoOracle, LLC</para>
+        <para><inlinegraphic fileref="#img/linkedin.png" width="0.8071inch" depth="0.4138inch"/> </para>
+        <para><inlinegraphic fileref="#img/ragu.jpg" width="0.7862inch" depth="0.3929inch"/> </para>
+      </sect3>
+      <sect3>
+        <title>Nagu Thogiti</title>
+        <para>Blockchain and ICO Advisor</para>
+        <para><inlinegraphic fileref="#img/linkedin.png" width="0.8071inch" depth="0.4138inch"/> </para>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title>Development Partner</title>
+      <para><inlinegraphic fileref="#img/chainflux_logo.png" width="0.7862inch" depth="0.3929inch"/> </para>
+      <sect3>
+        <title>chainflux</title>
+        <para><inlinegraphic fileref="#img/linkedin.png" width="0.8071inch" depth="0.4138inch"/> </para>
+      </sect3>
+    </sect2>
+  </sect1>
+  <sect1>
+    <title><note><remark>Profile Ends</remark></note><note><remark>&lt;div class="container" style="background: url(img/bgprofile.png);margin-bottom: 50px;"&gt;</remark></note><note><remark>&lt;h1 class="display-4" style="font-family: 'Source Sans Pro', sans-serif;font-size: 55px;font-weight: 300;line-height: 69px;text-align: center;"&gt;Core Team&lt;/h1&gt;</remark></note><note><remark>&lt;br&gt;</remark></note><note><remark>&lt;br&gt;</remark></note><note><remark>&lt;div class="container"&gt;</remark></note><note><remark>&lt;div class="row"&gt;</remark></note><note><remark>&lt;div class="col-md-3" style="margin: 0 auto;"&gt;</remark></note><note><remark>&lt;div class="card" style="width: 100%;border-radius: 15px;border: 0px;"&gt;</remark></note><note><remark>&lt;a href="https://in.linkedin.com/in/abhinav-ramesh-2400b322" target="_blank"&gt;&lt;img class="card-img-top" src="img/abhinav.jpg" alt="Card image cap" style="border-top-left-radius: 15px;border-top-right-radius: 15px;"&gt;&lt;/a&gt;</remark></note><note><remark>&lt;div class="card-body"&gt;</remark></note><note><remark>&lt;h5 class="card-title" style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 600;"&gt;Abhinav Ramesh&lt;br&gt;&lt;span style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 300;"&gt;Founder &amp; CEO&lt;/span&gt;&lt;/h5&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;div class="col-md-3" style="margin: 0 auto;"&gt;</remark></note><note><remark>&lt;div class="card" style="width: 100%;border-radius: 15px;border: 0px;"&gt;</remark></note><note><remark>&lt;a href="https://www.linkedin.com/in/sridharkolapalli/" target="_blank"&gt;&lt;img class="card-img-top" src="img/sridhar.jpg" alt="Card image cap" style="border-top-left-radius: 15px;border-top-right-radius: 15px;"&gt;&lt;/a&gt;</remark></note><note><remark>&lt;div class="card-body"&gt;</remark></note><note><remark>&lt;h5 class="card-title" style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 600;"&gt;Sridhar Kolapalli&lt;br&gt;&lt;span style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 300;"&gt;Ethereum Smart Contract Architecture&lt;/span&gt;&lt;/h5&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;div class="col-md-3" style="margin: 0 auto;"&gt;</remark></note><note><remark>&lt;div class="card" style="width: 100%;border-radius: 15px;border: 0px;"&gt;</remark></note><note><remark>&lt;a href="https://www.linkedin.com/in/dineshrekula/" target="_blank"&gt;&lt;img class="card-img-top" src="img/dinesh.jpg" alt="Card image cap" style="border-top-left-radius: 15px;border-top-right-radius: 15px;"&gt;&lt;/a&gt;</remark></note><note><remark>&lt;div class="card-body"&gt;</remark></note><note><remark>&lt;h5 class="card-title" style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 600;"&gt;Dinesh Rekula&lt;br&gt;&lt;span style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 300;"&gt;Distributed Systems and Smart Contract Developer&lt;/span&gt;&lt;/h5&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;div class="col-md-3" style="margin: 0 auto;"&gt;</remark></note><note><remark>&lt;div class="card" style="width: 100%;border-radius: 15px;border: 0px;"&gt;</remark></note><note><remark>&lt;a href="https://www.linkedin.com/in/amit-maurya-97373777/" target="_blank"&gt;&lt;img class="card-img-top" src="img/amit.jpeg" alt="Card image cap" style="border-top-left-radius: 15px;border-top-right-radius: 15px;"&gt;&lt;/a&gt;</remark></note><note><remark>&lt;div class="card-body"&gt;</remark></note><note><remark>&lt;h5 class="card-title" style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 600;"&gt;Amit Maurya&lt;br&gt;&lt;span style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 300;"&gt;Blockchain Developer&lt;/span&gt;&lt;/h5&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;div class="col-md-3" style="margin: 0 auto;"&gt;</remark></note><note><remark>&lt;div class="card" style="width: 100%;border-radius: 15px;border: 0px;"&gt;</remark></note><note><remark>&lt;a href="https://www.linkedin.com/in/inder-singh-5347a523/" target="_blank"&gt;&lt;img class="card-img-top" src="img/inder.jpg" alt="Card image cap" style="border-top-left-radius: 15px;border-top-right-radius: 15px;"&gt;&lt;/a&gt;</remark></note><note><remark>&lt;div class="card-body"&gt;</remark></note><note><remark>&lt;h5 class="card-title" style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 600;"&gt;Inder Singh&lt;br&gt;&lt;span style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 300;"&gt;UI/UX Designer&lt;/span&gt;&lt;/h5&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;div class="col-md-3" style="margin: 0 auto;"&gt;</remark></note><note><remark>&lt;div class="card" style="width: 100%;border-radius: 15px;border: 0px;"&gt;</remark></note><note><remark>&lt;a href="https://www.linkedin.com/in/vivekomon/" target="_blank"&gt;&lt;img class="card-img-top" src="img/vivek.jpg" alt="Card image cap" style="border-top-left-radius: 15px;border-top-right-radius: 15px;"&gt;&lt;/a&gt;</remark></note><note><remark>&lt;div class="card-body"&gt;</remark></note><note><remark>&lt;h5 class="card-title" style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 600;"&gt;Vivek K&lt;br&gt;&lt;span style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 300;"&gt;Strategic Partner&lt;/span&gt;&lt;/h5&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;div class="col-md-3" style="margin: 0 auto;"&gt;</remark></note><note><remark>&lt;div class="card" style="width: 100%;border-radius: 15px;border: 0px;"&gt;</remark></note><note><remark>&lt;a href="https://www.linkedin.com/in/shyam-mamidi-a841412/" target="_blank"&gt;&lt;img class="card-img-top" src="img/shyam.jpg" alt="Card image cap" style="border-top-left-radius: 15px;border-top-right-radius: 15px;"&gt;&lt;/a&gt;</remark></note><note><remark>&lt;div class="card-body"&gt;</remark></note><note><remark>&lt;h5 class="card-title" style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 600;"&gt;Shyam Mamidi&lt;br&gt;&lt;span style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 300;"&gt;Director/Ex-VP and Partner at IBM Singapore&lt;/span&gt;&lt;/h5&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark/></note><note><remark>&lt;h1 class="display-4" style="font-family: 'Source Sans Pro', sans-serif;font-size: 55px;font-weight: 300;line-height: 69px;text-align: center;"&gt;Advisors&lt;/h1&gt;</remark></note><note><remark>&lt;br&gt;</remark></note><note><remark>&lt;br&gt;</remark></note><note><remark>&lt;div class="container"&gt;</remark></note><note><remark>&lt;div class="row"&gt;</remark></note><note><remark>&lt;div class="col-md-3" style="margin: 0 auto;"&gt;</remark></note><note><remark>&lt;div class="card" style="width: 100%;border-radius: 15px;border: 0px;"&gt;</remark></note><note><remark>&lt;a href="https://www.linkedin.com/in/raghuttama-rao-350b072/" target="_blank"&gt;&lt;img class="card-img-top" src="img/raghuttama.jpg" alt="Card image cap" style="border-top-left-radius: 15px;border-top-right-radius: 15px;"&gt;&lt;/a&gt;</remark></note><note><remark>&lt;div class="card-body"&gt;</remark></note><note><remark>&lt;h5 class="card-title" style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 600;"&gt;R Raghuttama Rao&lt;br&gt;&lt;span style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 300;"&gt;Chief Mentor for ICRA&lt;/span&gt;&lt;/h5&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;div class="col-md-3" style="margin: 0 auto;"&gt;</remark></note><note><remark>&lt;div class="card" style="width: 100%;border-radius: 15px;border: 0px;"&gt;</remark></note><note><remark>&lt;a href="https://www.linkedin.com/in/yogesh-gaikwad-b534533a/" target="_blank"&gt;&lt;img class="card-img-top" src="img/yogesh.jpg" alt="Card image cap" style="border-top-left-radius: 15px;border-top-right-radius: 15px;"&gt;&lt;/a&gt;</remark></note><note><remark>&lt;div class="card-body"&gt;</remark></note><note><remark>&lt;h5 class="card-title" style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 600;"&gt;Yogesh Gaikwad&lt;br&gt;&lt;span style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 300;"&gt;Advisor&lt;/span&gt;&lt;/h5&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;div class="col-md-3" style="margin: 0 auto;"&gt;</remark></note><note><remark>&lt;div class="card" style="width: 100%;border-radius: 15px;border: 0px;"&gt;</remark></note><note><remark>&lt;a href="https://www.linkedin.com/in/bryanfeinberg/" target="_blank"&gt;&lt;img class="card-img-top" src="img/bryan.jpg" alt="Card image cap" style="border-top-left-radius: 15px;border-top-right-radius: 15px;"&gt;&lt;/a&gt;</remark></note><note><remark>&lt;div class="card-body"&gt;</remark></note><note><remark>&lt;h5 class="card-title" style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 600;"&gt;Bryan Feinberg&lt;br&gt;&lt;span style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 300;"&gt;CEO/Founder of Etherlabs&lt;/span&gt;&lt;/h5&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;div class="col-md-3" style="margin: 0 auto;"&gt;</remark></note><note><remark>&lt;div class="card" style="width: 100%;border-radius: 15px;border: 0px;"&gt;</remark></note><note><remark>&lt;a href="https://www.linkedin.com/in/jameshaft/" target="_blank"&gt;&lt;img class="card-img-top" src="img/james.jpg" alt="Card image cap" style="border-top-left-radius: 15px;border-top-right-radius: 15px;"&gt;&lt;/a&gt;</remark></note><note><remark>&lt;div class="card-body"&gt;</remark></note><note><remark>&lt;h5 class="card-title" style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 600;"&gt;James Haft&lt;br&gt;&lt;span style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 300;"&gt;Co-Founder at CryptoOracle, LLC&lt;/span&gt;&lt;/h5&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;div class="col-md-3" style="margin: 0 auto;"&gt;</remark></note><note><remark>&lt;div class="card" style="width: 100%;border-radius: 15px;border: 0px;"&gt;</remark></note><note><remark>&lt;a href="https://www.linkedin.com/in/prithwis/" target="_blank"&gt;&lt;img class="card-img-top" src="img/prith.jpg" alt="Card image cap" style="border-top-left-radius: 15px;border-top-right-radius: 15px;"&gt;&lt;/a&gt;</remark></note><note><remark>&lt;div class="card-body"&gt;</remark></note><note><remark>&lt;h5 class="card-title" style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 600;"&gt;Prithwis Mukerjee&lt;br&gt;&lt;span style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 300;"&gt;Director of Praxis Business School&lt;/span&gt;&lt;/h5&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;div class="col-md-3" style="margin: 0 auto;"&gt;</remark></note><note><remark>&lt;div class="card" style="width: 100%;border-radius: 15px;border: 0px;"&gt;</remark></note><note><remark>&lt;a href="https://www.linkedin.com/in/riskmanravi/" target="_blank"&gt;&lt;img class="card-img-top" src="img/ravi.jpg" alt="Card image cap" style="border-top-left-radius: 15px;border-top-right-radius: 15px;"&gt;&lt;/a&gt;</remark></note><note><remark>&lt;div class="card-body"&gt;</remark></note><note><remark>&lt;h5 class="card-title" style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 600;"&gt;Ravi Raman&lt;br&gt;&lt;span style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 300;"&gt;MD and COO at Infrahedge&lt;/span&gt;&lt;/h5&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;div class="col-md-3" style="margin: 0 auto;"&gt;</remark></note><note><remark>&lt;div class="card" style="width: 100%;border-radius: 15px;border: 0px;"&gt;</remark></note><note><remark>&lt;a href="https://www.linkedin.com/in/naguthogiti/" target="_blank"&gt;&lt;img class="card-img-top" src="img/ragu.jpg" alt="Card image cap" style="border-top-left-radius: 15px;border-top-right-radius: 15px;"&gt;&lt;/a&gt;</remark></note><note><remark>&lt;div class="card-body"&gt;</remark></note><note><remark>&lt;h5 class="card-title" style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 600;"&gt;Nagu Thogiti&lt;br&gt;&lt;span style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 300;"&gt;Blockchain and ICO Advisor&lt;/span&gt;&lt;/h5&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;div class="col-md-3" style="margin: 0 auto;"&gt;</remark></note><note><remark>&lt;div class="card" style="width: 100%;border-radius: 15px;border: 0px;"&gt;</remark></note><note><remark>&lt;a href="https://www.linkedin.com/in/loukerner/" target="_blank"&gt;&lt;img class="card-img-top" src="img/lou.jpg" alt="Card image cap" style="border-top-left-radius: 15px;border-top-right-radius: 15px;"&gt;&lt;/a&gt;</remark></note><note><remark>&lt;div class="card-body"&gt;</remark></note><note><remark>&lt;h5 class="card-title" style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 600;"&gt;Lou Kerner&lt;br&gt;&lt;span style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 300;"&gt;Co-Founder &amp; Partner at CryptoOracle.io&lt;/span&gt;&lt;/h5&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>Team Images</remark></note><note><remark>contact form starts</remark></note>Contact</title>
+    <note>
+      <remark>Profile Ends</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="container" style="background: url(img/bgprofile.png);margin-bottom: 50px;"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;h1 class="display-4" style="font-family: 'Source Sans Pro', sans-serif;font-size: 55px;font-weight: 300;line-height: 69px;text-align: center;"&gt;Core Team&lt;/h1&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;br&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;br&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="container"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="row"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="col-md-3" style="margin: 0 auto;"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card" style="width: 100%;border-radius: 15px;border: 0px;"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;a href="https://in.linkedin.com/in/abhinav-ramesh-2400b322" target="_blank"&gt;&lt;img class="card-img-top" src="img/abhinav.jpg" alt="Card image cap" style="border-top-left-radius: 15px;border-top-right-radius: 15px;"&gt;&lt;/a&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card-body"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;h5 class="card-title" style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 600;"&gt;Abhinav Ramesh&lt;br&gt;&lt;span style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 300;"&gt;Founder &amp; CEO&lt;/span&gt;&lt;/h5&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="col-md-3" style="margin: 0 auto;"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card" style="width: 100%;border-radius: 15px;border: 0px;"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;a href="https://www.linkedin.com/in/sridharkolapalli/" target="_blank"&gt;&lt;img class="card-img-top" src="img/sridhar.jpg" alt="Card image cap" style="border-top-left-radius: 15px;border-top-right-radius: 15px;"&gt;&lt;/a&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card-body"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;h5 class="card-title" style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 600;"&gt;Sridhar Kolapalli&lt;br&gt;&lt;span style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 300;"&gt;Ethereum Smart Contract Architecture&lt;/span&gt;&lt;/h5&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="col-md-3" style="margin: 0 auto;"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card" style="width: 100%;border-radius: 15px;border: 0px;"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;a href="https://www.linkedin.com/in/dineshrekula/" target="_blank"&gt;&lt;img class="card-img-top" src="img/dinesh.jpg" alt="Card image cap" style="border-top-left-radius: 15px;border-top-right-radius: 15px;"&gt;&lt;/a&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card-body"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;h5 class="card-title" style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 600;"&gt;Dinesh Rekula&lt;br&gt;&lt;span style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 300;"&gt;Distributed Systems and Smart Contract Developer&lt;/span&gt;&lt;/h5&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="col-md-3" style="margin: 0 auto;"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card" style="width: 100%;border-radius: 15px;border: 0px;"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;a href="https://www.linkedin.com/in/amit-maurya-97373777/" target="_blank"&gt;&lt;img class="card-img-top" src="img/amit.jpeg" alt="Card image cap" style="border-top-left-radius: 15px;border-top-right-radius: 15px;"&gt;&lt;/a&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card-body"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;h5 class="card-title" style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 600;"&gt;Amit Maurya&lt;br&gt;&lt;span style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 300;"&gt;Blockchain Developer&lt;/span&gt;&lt;/h5&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="col-md-3" style="margin: 0 auto;"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card" style="width: 100%;border-radius: 15px;border: 0px;"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;a href="https://www.linkedin.com/in/inder-singh-5347a523/" target="_blank"&gt;&lt;img class="card-img-top" src="img/inder.jpg" alt="Card image cap" style="border-top-left-radius: 15px;border-top-right-radius: 15px;"&gt;&lt;/a&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card-body"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;h5 class="card-title" style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 600;"&gt;Inder Singh&lt;br&gt;&lt;span style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 300;"&gt;UI/UX Designer&lt;/span&gt;&lt;/h5&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="col-md-3" style="margin: 0 auto;"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card" style="width: 100%;border-radius: 15px;border: 0px;"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;a href="https://www.linkedin.com/in/vivekomon/" target="_blank"&gt;&lt;img class="card-img-top" src="img/vivek.jpg" alt="Card image cap" style="border-top-left-radius: 15px;border-top-right-radius: 15px;"&gt;&lt;/a&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card-body"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;h5 class="card-title" style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 600;"&gt;Vivek K&lt;br&gt;&lt;span style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 300;"&gt;Strategic Partner&lt;/span&gt;&lt;/h5&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="col-md-3" style="margin: 0 auto;"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card" style="width: 100%;border-radius: 15px;border: 0px;"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;a href="https://www.linkedin.com/in/shyam-mamidi-a841412/" target="_blank"&gt;&lt;img class="card-img-top" src="img/shyam.jpg" alt="Card image cap" style="border-top-left-radius: 15px;border-top-right-radius: 15px;"&gt;&lt;/a&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card-body"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;h5 class="card-title" style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 600;"&gt;Shyam Mamidi&lt;br&gt;&lt;span style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 300;"&gt;Director/Ex-VP and Partner at IBM Singapore&lt;/span&gt;&lt;/h5&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark/>
+    </note>
+    <note>
+      <remark>&lt;h1 class="display-4" style="font-family: 'Source Sans Pro', sans-serif;font-size: 55px;font-weight: 300;line-height: 69px;text-align: center;"&gt;Advisors&lt;/h1&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;br&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;br&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="container"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="row"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="col-md-3" style="margin: 0 auto;"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card" style="width: 100%;border-radius: 15px;border: 0px;"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;a href="https://www.linkedin.com/in/raghuttama-rao-350b072/" target="_blank"&gt;&lt;img class="card-img-top" src="img/raghuttama.jpg" alt="Card image cap" style="border-top-left-radius: 15px;border-top-right-radius: 15px;"&gt;&lt;/a&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card-body"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;h5 class="card-title" style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 600;"&gt;R Raghuttama Rao&lt;br&gt;&lt;span style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 300;"&gt;Chief Mentor for ICRA&lt;/span&gt;&lt;/h5&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="col-md-3" style="margin: 0 auto;"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card" style="width: 100%;border-radius: 15px;border: 0px;"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;a href="https://www.linkedin.com/in/yogesh-gaikwad-b534533a/" target="_blank"&gt;&lt;img class="card-img-top" src="img/yogesh.jpg" alt="Card image cap" style="border-top-left-radius: 15px;border-top-right-radius: 15px;"&gt;&lt;/a&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card-body"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;h5 class="card-title" style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 600;"&gt;Yogesh Gaikwad&lt;br&gt;&lt;span style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 300;"&gt;Advisor&lt;/span&gt;&lt;/h5&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="col-md-3" style="margin: 0 auto;"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card" style="width: 100%;border-radius: 15px;border: 0px;"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;a href="https://www.linkedin.com/in/bryanfeinberg/" target="_blank"&gt;&lt;img class="card-img-top" src="img/bryan.jpg" alt="Card image cap" style="border-top-left-radius: 15px;border-top-right-radius: 15px;"&gt;&lt;/a&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card-body"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;h5 class="card-title" style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 600;"&gt;Bryan Feinberg&lt;br&gt;&lt;span style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 300;"&gt;CEO/Founder of Etherlabs&lt;/span&gt;&lt;/h5&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="col-md-3" style="margin: 0 auto;"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card" style="width: 100%;border-radius: 15px;border: 0px;"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;a href="https://www.linkedin.com/in/jameshaft/" target="_blank"&gt;&lt;img class="card-img-top" src="img/james.jpg" alt="Card image cap" style="border-top-left-radius: 15px;border-top-right-radius: 15px;"&gt;&lt;/a&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card-body"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;h5 class="card-title" style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 600;"&gt;James Haft&lt;br&gt;&lt;span style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 300;"&gt;Co-Founder at CryptoOracle, LLC&lt;/span&gt;&lt;/h5&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="col-md-3" style="margin: 0 auto;"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card" style="width: 100%;border-radius: 15px;border: 0px;"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;a href="https://www.linkedin.com/in/prithwis/" target="_blank"&gt;&lt;img class="card-img-top" src="img/prith.jpg" alt="Card image cap" style="border-top-left-radius: 15px;border-top-right-radius: 15px;"&gt;&lt;/a&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card-body"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;h5 class="card-title" style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 600;"&gt;Prithwis Mukerjee&lt;br&gt;&lt;span style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 300;"&gt;Director of Praxis Business School&lt;/span&gt;&lt;/h5&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="col-md-3" style="margin: 0 auto;"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card" style="width: 100%;border-radius: 15px;border: 0px;"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;a href="https://www.linkedin.com/in/riskmanravi/" target="_blank"&gt;&lt;img class="card-img-top" src="img/ravi.jpg" alt="Card image cap" style="border-top-left-radius: 15px;border-top-right-radius: 15px;"&gt;&lt;/a&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card-body"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;h5 class="card-title" style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 600;"&gt;Ravi Raman&lt;br&gt;&lt;span style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 300;"&gt;MD and COO at Infrahedge&lt;/span&gt;&lt;/h5&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="col-md-3" style="margin: 0 auto;"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card" style="width: 100%;border-radius: 15px;border: 0px;"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;a href="https://www.linkedin.com/in/naguthogiti/" target="_blank"&gt;&lt;img class="card-img-top" src="img/ragu.jpg" alt="Card image cap" style="border-top-left-radius: 15px;border-top-right-radius: 15px;"&gt;&lt;/a&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card-body"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;h5 class="card-title" style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 600;"&gt;Nagu Thogiti&lt;br&gt;&lt;span style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 300;"&gt;Blockchain and ICO Advisor&lt;/span&gt;&lt;/h5&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="col-md-3" style="margin: 0 auto;"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card" style="width: 100%;border-radius: 15px;border: 0px;"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;a href="https://www.linkedin.com/in/loukerner/" target="_blank"&gt;&lt;img class="card-img-top" src="img/lou.jpg" alt="Card image cap" style="border-top-left-radius: 15px;border-top-right-radius: 15px;"&gt;&lt;/a&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="card-body"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;h5 class="card-title" style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 600;"&gt;Lou Kerner&lt;br&gt;&lt;span style="font-family: 'Source Sans Pro', sans-serif;font-size: 18px;font-weight: 300;"&gt;Co-Founder &amp; Partner at CryptoOracle.io&lt;/span&gt;&lt;/h5&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+    <note>
+      <remark>Team Images</remark>
+    </note>
+    <note>
+      <remark>contact form starts</remark>
+    </note>
+    <para><anchor id="mce-NAME"/> </para>
+    <para><anchor id="mce-EMAIL"/> </para>
+    <para><anchor id="mce-MESSAGE"/> </para>
+    <sect1 id="mce-responses">
+      <para/>
+      <sect2 id="mce-error-response">
+        <para/>
+      </sect2>
+      <sect2 id="mce-success-response">
+        <para/>
+      </sect2>
+    </sect1>
+    <para><note><remark>&lt;!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--&gt;</remark></note> </para>
+    <para> Subscribe to our Newsletters Send </para>
+    <sect1 id="show-background">
+      <para>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[1]='NAME';ftypes[1]='text';fnames[0]='EMAIL';ftypes[0]='email';fnames[2]='MESSAGE';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);<note><remark>&lt;div id="show-background" style="display:"&gt;</remark></note><inlinegraphic fileref="#img/wandx.png" width="0.7862inch" depth="0.3929inch"/><note><remark>&lt;p style="margin:0;"&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.&lt;/p&gt;</remark></note> </para>
+    </sect1>
+    <para><note><remark>&lt;/div&gt;</remark></note><note><remark>contact form ends</remark></note><inlinegraphic fileref="#img/Wandx_logo_top.png" width="0.7862inch" depth="0.3929inch"/> </para>
+    <orderedlist>
+      <listitem>
+        <para><olink targetdocent="team.html">About</olink> </para>
+      </listitem>
+      <listitem>
+        <para><ulink url="https://blog.wandx.co/">Blog</ulink> </para>
+      </listitem>
+      <listitem>
+        <para><link linkend="">Contact</link> </para>
+      </listitem>
+    </orderedlist>
+    <orderedlist>
+      <listitem>
+        <para><olink targetdocent="whitepaper.html">Whitepaper</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="tokenslisted.html">Listed Tokens</olink> </para>
+      </listitem>
+      <listitem>
+        <para><link linkend="">API</link> </para>
+      </listitem>
+    </orderedlist>
+    <orderedlist>
+      <listitem>
+        <para><olink targetdocent="fees.html">Fees</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="privacy.html">Privacy Policy</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="termsofuse.html">Terms of Use</olink> </para>
+      </listitem>
+    </orderedlist>
+    <para><note><remark>&lt;ul class="row list-unstyled text-small"&gt;</remark></note><note><remark>&lt;li style="margin-left: 10px;margin-right: 10px;"&gt;&lt;a href="team.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;"&gt;About&lt;/a&gt;&lt;/li&gt;</remark></note><note><remark>&lt;li style="margin-left: 10px;margin-right: 10px;"&gt;&lt;a href="whitepaper.html" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;"&gt;Whitepaper&lt;/a&gt;&lt;/li&gt;</remark></note><note><remark>&lt;li style="margin-left: 10px;margin-right: 10px;"&gt;&lt;a href="tokenslisted.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;"&gt;Listed Tokens&lt;/a&gt;&lt;/li&gt;</remark></note><note><remark>&lt;li style="margin-left: 10px;margin-right: 10px;"&gt;&lt;a href="technologiesused.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;"&gt;Technologies Used&lt;/a&gt;&lt;/li&gt;</remark></note><note><remark>&lt;li style="margin-left: 10px;margin-right: 10px;"&gt;&lt;a href="termsofuse.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;"&gt;Terms of Use&lt;/a&gt;&lt;/li&gt;</remark></note><note><remark>&lt;li style="margin-left: 10px;margin-right: 10px;"&gt;&lt;a href="privacy.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;"&gt;Privacy Policy&lt;/a&gt;&lt;/li&gt;</remark></note><note><remark>&lt;li style="margin-left: 10px;margin-right: 10px;"&gt;&lt;a href="https://github.com/WandXDapp" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;"&gt;Smart Contracts&lt;/a&gt;&lt;/li&gt;</remark></note><note><remark>&lt;li style="margin-left: 10px;margin-right: 10px;"&gt;&lt;a href="fees.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;"&gt;Fees&lt;/a&gt;&lt;/li&gt;</remark></note><note><remark>&lt;/ul&gt;</remark></note>© 2017-2018 WandX All Rights Reserved </para>
+    <para>Subscribe to our Newsletter</para>
+    <sect1 id="mc_embed_signup">
+      <para>
+        <note>
+          <remark>Begin MailChimp Signup Form</remark>
+        </note>
+      </para>
+      <sect2 id="mc_embed_signup_scroll">
+        <para><anchor id="mce-EMAIL1"/><note><remark>&lt;div class="col-md-9"&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--&gt;</remark></note> </para>
+        <para> </para>
+        <para><anchor id="mc-embedded-subscribe"/> </para>
+      </sect2>
+    </sect1>
+    <sect1 id="Section1">
+      <para><anchor id="mce-responses"/>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);<note><remark>&lt;!--End mc_embed_signup--&gt;</remark></note><note><remark>&lt;input type="text" class="form-control" placeholder="Email Address" aria-label="Recipient's username" aria-describedby="button-addon2"&gt;</remark></note><note><remark>&lt;div class="input-group-append"&gt;</remark></note><note><remark>&lt;button class="btn btn-outline-secondary" type="button" id="button-addon2" style="border: 0px;background: #36c51f;color: white;"&gt;Subscribe&lt;/button&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note></para>
+      <sect2 id="Section2">
+        <para>
+          <anchor id="mce-error-response"/>
+        </para>
+      </sect2>
+      <sect2 id="Section3">
+        <para>
+          <anchor id="mce-success-response"/>
+        </para>
+      </sect2>
+    </sect1>
+    <orderedlist>
+      <listitem>
+        <para><inlinegraphic fileref="#img/telegram.png" width="0.3335inch" depth="0.4138inch"/> </para>
+      </listitem>
+      <listitem>
+        <para><inlinegraphic fileref="#img/twitter.png" width="0.3335inch" depth="0.4138inch"/> </para>
+      </listitem>
+      <listitem>
+        <para><inlinegraphic fileref="#img/medium.png" width="0.3335inch" depth="0.4138inch"/> </para>
+      </listitem>
+      <listitem>
+        <para><inlinegraphic fileref="#img/linkedin_1.png" width="0.3335inch" depth="0.4138inch"/><note><remark>&lt;li style="margin: 10px;"&gt;</remark></note><note><remark>&lt;a href="https://www.instagram.com/wandx.co/" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px"&gt;&lt;img src="img/Layer 2.png" style="width: 50px;"&gt;&lt;/a&gt;</remark></note><note><remark>&lt;/li&gt;</remark></note> </para>
+      </listitem>
+      <listitem>
+        <para><inlinegraphic fileref="#img/facebook.png" width="0.3335inch" depth="0.4138inch"/><note><remark>&lt;a href="#" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px"&gt;&lt;img src="img/Layer 4.png" style="width: 50px;"&gt;&lt;/a&gt;</remark></note> </para>
+      </listitem>
+      <listitem>
+        <para><inlinegraphic fileref="#img/github.png" width="0.3335inch" depth="0.4138inch"/> </para>
+      </listitem>
+    </orderedlist>
+    <para>
+      <note>
+        <remark>Optional JavaScript</remark>
+      </note>
+      <note>
+        <remark>jQuery first, then Popper.js, then Bootstrap JS</remark>
+      </note>
+    </para>
+  </sect1>
+</article>

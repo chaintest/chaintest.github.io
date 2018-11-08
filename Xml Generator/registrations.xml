@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<article lang="">
+  <para><note><remark>Required meta tags</remark></note><note><remark>Global site tag (gtag.js) - Google Analytics</remark></note>      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-114592002-1');
+    <note><remark>Bootstrap CSS</remark></note><note><remark>Fonts</remark></note><inlinegraphic fileref="#img/logoheader.png" width="0.4898inch" depth="0.4138inch"/> </para>
+  <sect1 id="navbarNavAltMarkup">
+    <para><note><remark>&lt;div class="navbar-nav"&gt;</remark></note><note><remark>&lt;a class="nav-item nav-link" href="#" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;letter-spacing: 5.69px;margin: 15px;"&gt;Dashboard&lt;/a&gt;</remark></note><note><remark>&lt;a class="nav-item nav-link" href="#" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;letter-spacing: 5.69px;margin: 15px;"&gt;Basket&lt;/a&gt;</remark></note><note><remark>&lt;a class="nav-item nav-link" href="https://exchange.wandx.co/" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;letter-spacing: 5.69px;margin: 15px;"&gt;Exchange&lt;/a&gt;</remark></note><note><remark>&lt;a class="nav-item nav-link" href="#" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;letter-spacing: 5.69px;margin: 15px;"&gt;Wallet&lt;/a&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><olink targetdocent="index.html">Home</olink> <olink targetdocent="team.html">About</olink> <ulink url="https://blog.wandx.co/">Blog</ulink> <ulink url="https://exchange.wandx.co/">Exchange</ulink> <olink targetdocent="baskets.html">Basket Protocol</olink> </para>
+    <para>
+      <anchor id="navbardrop"/>
+      <link linkend="">Airdrop </link>
+    </para>
+    <para><ulink url="http://www.wandx.co/airdrop.html">Airdrop Details</ulink> <ulink url="https://neoairdrop.wandx.co/">Airdrop 1:1</ulink> <note><remark>&lt;a class="nav-item nav-link" href="http://www.wandx.co/airdrop.html" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;margin: 15px;"&gt;Airdrop&lt;/a&gt;</remark></note><note><remark>&lt;a class="nav-item nav-link" href="#" style="color: white;border-color: white;border-radius: 37px;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;margin: 15px;border: 1px solid white;padding: .375rem .75rem;text-align: center;"&gt;Download DAAP&lt;/a&gt;</remark></note></para>
+  </sect1>
+  <para><note><remark>&lt;img src="img/Wandx_logo_top.png" alt="Wandx logo" style="max-width: 80%;margin-top: 150px;"&gt;</remark></note><inlinegraphic fileref="#img/purple_logo.png" width="0.7862inch" depth="0.3929inch"/> </para>
+  <para>Submit a token listing request</para>
+  <sect1 id="mc_embed_signup_scroll">
+    <para>Contact Name <anchor id="mce-FNAME"/> <anchor id="emailHelp"/>Name of Organization Contact </para>
+    <para>E-Mail Address <anchor id="mce-EMAIL"/> <anchor id="emailHelp1"/>E-mail for a company representative who will be responsible for listing coordination. </para>
+    <para>Organization Name <anchor id="mce-ONAME"/> <anchor id="emailHelp2"/>Name of organization responsible for token. </para>
+    <para>Organization Website <anchor id="mce-MMERGE5"/> <anchor id="emailHelp3"/>Website </para>
+    <para>Token Symbol <anchor id="mce-MMERGE6"/> </para>
+    <para>Blockchain <anchor id="mce-MMERGE7"/> </para>
+    <para>Decimals <anchor id="mce-MMERGE8"/> </para>
+    <para>Token Address <anchor id="mce-MMERGE9"/> <anchor id="emailHelp4"/>Please enter the address for the token. </para>
+    <para>Is your digital asset classified as a security in the United Sates of America or some other jurisdiction? <anchor id="mce-MMERGE3"/> </para>
+    <para><note><remark>&lt;div class="form-group col-md-6 mc-field-group"&gt;</remark></note><note><remark>&lt;label for="mce-MMERGE5"&gt;Please upload a legal opinion (PDF) stating that the asset is not a security or a document to that effect.&lt;/label&gt;</remark></note><note><remark>&lt;input type="file" class="form-control-file" id="mce-MMERGE5"&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note>Where is the founding team located? <anchor id="mce-MMERGE4"/><note><remark>&lt;small id="emailHelp" class="form-text text-muted"&gt;Please enter the address for the token.&lt;/small&gt;</remark></note> </para>
+    <para>Where country is your project incorporatedin? <anchor id="mce-MMERGE10"/><note><remark>&lt;small id="emailHelp" class="form-text text-muted"&gt;Please enter the address for the token.&lt;/small&gt;</remark></note> </para>
+    <para>Social media profiles of the founding team (Ideally just Linkedin will suffice) <anchor id="mce-MMERGE11"/><note><remark>&lt;small id="emailHelp" class="form-text text-muted"&gt;Please enter the address for the token.&lt;/small&gt;</remark></note> </para>
+    <para>Social media links for for Project <anchor id="mce-MMERGE12"/><note><remark>&lt;small id="emailHelp" class="form-text text-muted"&gt;Please enter the address for the token.&lt;/small&gt;</remark></note> </para>
+    <para>Token vesting for the Team and advisors (If any)? <anchor id="mce-MMERGE13"/><note><remark>&lt;small id="emailHelp" class="form-text text-muted"&gt;Please enter the address for the token.&lt;/small&gt;</remark></note> </para>
+    <para>Briefly Describe the Project <anchor id="mce-MMERGE14"/> <anchor id="emailHelp5"/>Brief description about your project. </para>
+    <sect2 id="mce-responses">
+      <para/>
+      <sect3 id="mce-error-response">
+        <para/>
+      </sect3>
+      <sect3 id="mce-success-response">
+        <para/>
+      </sect3>
+    </sect2>
+    <para>
+      <note>
+        <remark>&lt;!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--&gt;</remark>
+      </note>
+    </para>
+    <para><note><remark>&lt;button type="submit" class="btn btn-primary"&gt;Submit&lt;/button&gt;</remark></note><note><remark>&lt;button type="button" class="btn btn-small" style="background-color: #733a86;color: white;" onclick="window.location.href='https://blog.wandx.co/'"&gt;Submit&lt;/button&gt;</remark></note>Submit </para>
+  </sect1>
+  <para>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[1]='FNAME';ftypes[1]='text';fnames[0]='EMAIL';ftypes[0]='email';fnames[2]='ONAME';ftypes[2]='text';fnames[5]='MMERGE5';ftypes[5]='text';fnames[6]='MMERGE6';ftypes[6]='text';fnames[7]='MMERGE7';ftypes[7]='dropdown';fnames[8]='MMERGE8';ftypes[8]='text';fnames[9]='MMERGE9';ftypes[9]='text';fnames[3]='MMERGE3';ftypes[3]='dropdown';fnames[4]='MMERGE4';ftypes[4]='text';fnames[10]='MMERGE10';ftypes[10]='text';fnames[11]='MMERGE11';ftypes[11]='text';fnames[12]='MMERGE12';ftypes[12]='text';fnames[13]='MMERGE13';ftypes[13]='text';fnames[14]='MMERGE14';ftypes[14]='text';}(jQuery));var $mcj = jQuery.noConflict(true);Listing Requirements and Information</para>
+  <orderedlist>
+    <listitem>
+      <para>Please provide accurate information on the token that is to be listed. </para>
+    </listitem>
+    <listitem>
+      <para>Security tokens will not be listed on the platform. </para>
+    </listitem>
+    <listitem>
+      <para>Token listing is based on the decision made by the WandX team and is final. </para>
+    </listitem>
+    <listitem>
+      <para>Tokens can be de-listed for a number of reasons, and the community will be informed before such an action is taken. </para>
+    </listitem>
+    <listitem>
+      <para>Presently, only NEP5 and ERC20 tokens can be listed on WandX. </para>
+    </listitem>
+    <listitem>
+      <para>If you have any further questions, please connect with <link linkend="">[email protected]</link>. </para>
+    </listitem>
+  </orderedlist>
+  <para><note><remark>&lt;div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center" style="margin-top: 50px;"&gt;</remark></note><note><remark>&lt;img src="img/Wandx_logo_top.png" alt="Wandx logo" style="max-width: 80%;"&gt;</remark></note><note><remark>&lt;h1 class="display-4" style="font-family:'Source Sans Pro', sans-serif;font-size: 55px;font-weight: 200;line-height: 69px;"&gt;Submit a token listing request&lt;/h1&gt;</remark></note><note><remark>&lt;p class="lead" style="font-family: 'Source Sans Pro', sans-serif;font-size: 24px;font-weight: 200;line-height: 31px;"&gt;WandX is a permissionless protocol that allows users to create and trade&lt;br&gt;in a composite ‘basket’ made up of different tokens - ERC20 or NEP5, the creating and trade enabled by smart contracts.&lt;/p&gt;</remark></note><note><remark>&lt;p class="lead" style="font-family: 'Source Sans Pro', sans-serif;font-size: 24px;font-weight: 200;line-height: 31px;"&gt;</remark></note><note><remark>Key Benefits of Basket Protocol</remark></note><note><remark>&lt;/p&gt;</remark></note><note><remark>&lt;p class="lead" style="font-family: 'Source Sans Pro', sans-serif;font-size: 24px;font-weight: 600;line-height: 31px;"&gt;</remark></note><note><remark>Easy asset discovery, Risk mitigation, Cost effective transaction</remark></note><note><remark>&lt;/p&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center" style="margin-bottom: 50px;"&gt;</remark></note><note><remark>&lt;h1 class="display-4" style="font-family: 'Source Sans Pro', sans-serif;font-size: 55px;font-weight: 200;line-height: 69px;"&gt;Themed Token Baskets on WandX&lt;/h1&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;div class="container" style="margin-bottom: 50px;"&gt;</remark></note><note><remark>&lt;div class="card-deck"&gt;</remark></note><note><remark>&lt;div class="card"&gt;</remark></note><note><remark>&lt;div class="card-body"&gt;</remark></note><note><remark>&lt;h5 class="card-title" style="font-family: 'Source Sans Pro', sans-serif;font-weight: 600;"&gt;Exchange Token Baskets&lt;/h5&gt;</remark></note><note><remark>&lt;p class="card-text" style="font-family: 'Source Sans Pro', sans-serif;"&gt;Buy, sell and trade centralized and decentralized exchange token baskets to participate in the exchange token market with a single click. Using this baskets, users obtain a balanced ratio of exchange-based Tokens in a single transaction.&lt;/p&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;div class="card"&gt;</remark></note><note><remark>&lt;div class="card-body"&gt;</remark></note><note><remark>&lt;h5 class="card-title" style="font-family: 'Source Sans Pro', sans-serif;font-weight: 600;"&gt;Custom Baskets&lt;/h5&gt;</remark></note><note><remark>&lt;p class="card-text" style="font-family: 'Source Sans Pro', sans-serif;"&gt;Buy, sell and trade custom token baskets enabling users new to the crypto ecosystem to easily purchase a balanced group of tokens rather than search for liquidity of individual Tokens on multiple exchanges.&lt;/p&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;div class="card"&gt;</remark></note><note><remark>&lt;div class="card-body"&gt;</remark></note><note><remark>&lt;h5 class="card-title" style="font-family: 'Source Sans Pro', sans-serif;font-weight: 600;"&gt;Debt Baskets&lt;/h5&gt;</remark></note><note><remark>&lt;p class="card-text" style="font-family: 'Source Sans Pro', sans-serif;"&gt;Create Debt based baskets using the Dharma protocol (coming soon).&lt;/p&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><inlinegraphic fileref="#img/Wandx_logo_top.png" width="0.7862inch" depth="0.3929inch"/> </para>
+  <orderedlist>
+    <listitem>
+      <para><olink targetdocent="team.html">About</olink> </para>
+    </listitem>
+    <listitem>
+      <para><ulink url="https://blog.wandx.co/">Blog</ulink> </para>
+    </listitem>
+    <listitem>
+      <para><link linkend="">Contact</link> </para>
+    </listitem>
+  </orderedlist>
+  <orderedlist>
+    <listitem>
+      <para><olink targetdocent="whitepaper.html">Whitepaper</olink> </para>
+    </listitem>
+    <listitem>
+      <para><olink targetdocent="tokenslisted.html">Listed Tokens</olink> </para>
+    </listitem>
+    <listitem>
+      <para><link linkend="">API</link> </para>
+    </listitem>
+  </orderedlist>
+  <orderedlist>
+    <listitem>
+      <para><olink targetdocent="fees.html">Fees</olink> </para>
+    </listitem>
+    <listitem>
+      <para><olink targetdocent="privacy.html">Privacy Policy</olink> </para>
+    </listitem>
+    <listitem>
+      <para><olink targetdocent="termsofuse.html">Terms of Use</olink> </para>
+    </listitem>
+  </orderedlist>
+  <para><note><remark>&lt;ul class="row list-unstyled text-small"&gt;</remark></note><note><remark>&lt;li style="margin-left: 10px;margin-right: 10px;"&gt;&lt;a href="team.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;"&gt;About&lt;/a&gt;&lt;/li&gt;</remark></note><note><remark>&lt;li style="margin-left: 10px;margin-right: 10px;"&gt;&lt;a href="whitepaper.html" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;"&gt;Whitepaper&lt;/a&gt;&lt;/li&gt;</remark></note><note><remark>&lt;li style="margin-left: 10px;margin-right: 10px;"&gt;&lt;a href="tokenslisted.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;"&gt;Listed Tokens&lt;/a&gt;&lt;/li&gt;</remark></note><note><remark>&lt;li style="margin-left: 10px;margin-right: 10px;"&gt;&lt;a href="technologiesused.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;"&gt;Technologies Used&lt;/a&gt;&lt;/li&gt;</remark></note><note><remark>&lt;li style="margin-left: 10px;margin-right: 10px;"&gt;&lt;a href="termsofuse.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;"&gt;Terms of Use&lt;/a&gt;&lt;/li&gt;</remark></note><note><remark>&lt;li style="margin-left: 10px;margin-right: 10px;"&gt;&lt;a href="privacy.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;"&gt;Privacy Policy&lt;/a&gt;&lt;/li&gt;</remark></note><note><remark>&lt;li style="margin-left: 10px;margin-right: 10px;"&gt;&lt;a href="https://github.com/WandXDapp" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;"&gt;Smart Contracts&lt;/a&gt;&lt;/li&gt;</remark></note><note><remark>&lt;li style="margin-left: 10px;margin-right: 10px;"&gt;&lt;a href="fees.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;"&gt;Fees&lt;/a&gt;&lt;/li&gt;</remark></note><note><remark>&lt;/ul&gt;</remark></note>© 2017-2018 WandX All Rights Reserved </para>
+  <para>Subscribe to our Newsletter</para>
+  <sect1 id="mc_embed_signup">
+    <para>
+      <note>
+        <remark>Begin MailChimp Signup Form</remark>
+      </note>
+    </para>
+    <sect2 id="Section1">
+      <para><anchor id="mc_embed_signup_scroll"/><anchor id="mce-EMAIL1"/><note><remark>&lt;div class="col-md-9"&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--&gt;</remark></note> </para>
+      <para> </para>
+      <para><anchor id="mc-embedded-subscribe"/> </para>
+    </sect2>
+  </sect1>
+  <sect1 id="Section2">
+    <para><anchor id="mce-responses"/>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);<note><remark>&lt;!--End mc_embed_signup--&gt;</remark></note><note><remark>&lt;input type="text" class="form-control" placeholder="Email Address" aria-label="Recipient's username" aria-describedby="button-addon2"&gt;</remark></note><note><remark>&lt;div class="input-group-append"&gt;</remark></note><note><remark>&lt;button class="btn btn-outline-secondary" type="button" id="button-addon2" style="border: 0px;background: #36c51f;color: white;"&gt;Subscribe&lt;/button&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note></para>
+    <sect2 id="Section3">
+      <para>
+        <anchor id="mce-error-response"/>
+      </para>
+    </sect2>
+    <sect2 id="Section4">
+      <para>
+        <anchor id="mce-success-response"/>
+      </para>
+    </sect2>
+  </sect1>
+  <orderedlist>
+    <listitem>
+      <para><inlinegraphic fileref="#img/telegram.png" width="0.3335inch" depth="0.4138inch"/> </para>
+    </listitem>
+    <listitem>
+      <para><inlinegraphic fileref="#img/twitter.png" width="0.3335inch" depth="0.4138inch"/> </para>
+    </listitem>
+    <listitem>
+      <para><inlinegraphic fileref="#img/medium.png" width="0.3335inch" depth="0.4138inch"/> </para>
+    </listitem>
+    <listitem>
+      <para><inlinegraphic fileref="#img/linkedin_1.png" width="0.3335inch" depth="0.4138inch"/><note><remark>&lt;li style="margin: 10px;"&gt;</remark></note><note><remark>&lt;a href="https://www.instagram.com/wandx.co/" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px"&gt;&lt;img src="img/Layer 2.png" style="width: 50px;"&gt;&lt;/a&gt;</remark></note><note><remark>&lt;/li&gt;</remark></note> </para>
+    </listitem>
+    <listitem>
+      <para><inlinegraphic fileref="#img/facebook.png" width="0.3335inch" depth="0.4138inch"/><note><remark>&lt;a href="#" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px"&gt;&lt;img src="img/Layer 4.png" style="width: 50px;"&gt;&lt;/a&gt;</remark></note> </para>
+    </listitem>
+    <listitem>
+      <para><inlinegraphic fileref="#img/github.png" width="0.3335inch" depth="0.4138inch"/> </para>
+    </listitem>
+  </orderedlist>
+  <para>
+    <note>
+      <remark>Optional JavaScript</remark>
+    </note>
+    <note>
+      <remark>jQuery first, then Popper.js, then Bootstrap JS</remark>
+    </note>
+  </para>
+</article>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<article lang="">
+  <para><note><remark>Required meta tags</remark></note><note><remark>Global site tag (gtag.js) - Google Analytics</remark></note>      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-114592002-1');
+    <note><remark>Bootstrap CSS</remark></note><note><remark>Fonts</remark></note><inlinegraphic fileref="#img/logoheader.png" width="0.4898inch" depth="0.4138inch"/> </para>
+  <sect1 id="navbarNavAltMarkup">
+    <para><olink targetdocent="index.html">Home</olink> <olink targetdocent="team.html">About</olink> <ulink url="https://blog.wandx.co/">Blog</ulink> <ulink url="https://exchange.wandx.co/">Exchange</ulink> <olink targetdocent="baskets.html">Basket Protocol</olink> </para>
+    <para>
+      <anchor id="navbardrop"/>
+      <link linkend="">Airdrop </link>
+    </para>
+    <para><ulink url="http://www.wandx.co/airdrop.html">Airdrop Details</ulink> <ulink url="https://neoairdrop.wandx.co/">Airdrop 1:1</ulink> <note><remark>&lt;a class="nav-item nav-link" href="http://www.wandx.co/airdrop.html" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;margin: 15px;"&gt;Airdrop&lt;/a&gt;</remark></note></para>
+  </sect1>
+  <para><inlinegraphic fileref="#img/Wandx_logo_top.png" width="0.7862inch" depth="0.3929inch"/> </para>
+  <para><note><remark>airdrop completion form</remark></note>WandX 1:1 Airdrop Completion Form</para>
+  <para>Airdrop Completion Form </para>
+  <para>Step 1: Ethereum Address <anchor id="formGroupExampleInput"/> Enter your Ethereum Address containing your WAND </para>
+  <para>Step 2: NEO Address <anchor id="formGroupExampleInput2"/> Enter your new NEO Address, created in the WandX desktop application </para>
+  <para>Step 3: Sign Transaction </para>
+  <para>MetaMask Ledger </para>
+  <para/>
+  <para>Sign your transaction with either MetaMask or Ledger </para>
+  <para>Airdrop Instructions </para>
+  <para>Please follow the below steps to complete the WAND/WANDNEO 1:1 airdrop.</para>
+  <para>1. Download the WandX Desktop Application below and create a new NEO public address within it. </para>
+  <para>2. Enter the Ethereum address submitted during the Airdrop registration where your WAND is kept.</para>
+  <para>3. Enter thenew NEO address from the WandX desktop application into the form to the left.</para>
+  <para>4. Complete the airdrop by signing the transaction using either Metamask or Ledger.</para>
+  <para>5. You will receive the 1:1 airdrop into the NEO address which you created on thedesktop app on October 10th*.</para>
+  <para>* Airdrop distribution date subject to change based on circumstances beyond our control.* Please direct all inquiries to marketing@wandx.co or within our <ulink url="https://t.me/wandxapp">Telegram</ulink>.* Disclaimer: Cryptocurrencies are highly volatile. Trade at your own risk. </para>
+  <para><note><remark>download wandx apps</remark></note>Download the WandX Desktop Application</para>
+  <para><inlinegraphic fileref="#img/icons/windows.png" width="0.7862inch" depth="0.3126inch"/> Windows </para>
+  <para><inlinegraphic fileref="#img/icons/apple.png" width="0.7862inch" depth="0.3126inch"/> Apple </para>
+  <para><inlinegraphic fileref="#img/icons/linux.png" width="0.7862inch" depth="0.3126inch"/> Linux </para>
+  <para><note><remark>footer</remark></note><inlinegraphic fileref="#img/Wandx_logo_top.png" width="0.7862inch" depth="0.3929inch"/> </para>
+  <orderedlist>
+    <listitem>
+      <para><olink targetdocent="team.html">About</olink> </para>
+    </listitem>
+    <listitem>
+      <para><ulink url="https://blog.wandx.co/">Blog</ulink> </para>
+    </listitem>
+    <listitem>
+      <para><link linkend="">Contact</link> </para>
+    </listitem>
+  </orderedlist>
+  <orderedlist>
+    <listitem>
+      <para><olink targetdocent="whitepaper.html">Whitepaper</olink> </para>
+    </listitem>
+    <listitem>
+      <para><olink targetdocent="tokenslisted.html">Listed Tokens</olink> </para>
+    </listitem>
+    <listitem>
+      <para><link linkend="">API</link> </para>
+    </listitem>
+  </orderedlist>
+  <orderedlist>
+    <listitem>
+      <para><olink targetdocent="fees.html">Fees</olink> </para>
+    </listitem>
+    <listitem>
+      <para><olink targetdocent="privacy.html">Privacy Policy</olink> </para>
+    </listitem>
+    <listitem>
+      <para><olink targetdocent="termsofuse.html">Terms of Use</olink> </para>
+    </listitem>
+  </orderedlist>
+  <para><note><remark>&lt;ul class="row list-unstyled text-small"&gt;</remark></note><note><remark>&lt;li style="margin-left: 10px;margin-right: 10px;"&gt;&lt;a href="team.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;"&gt;About&lt;/a&gt;&lt;/li&gt;</remark></note><note><remark>&lt;li style="margin-left: 10px;margin-right: 10px;"&gt;&lt;a href="whitepaper.html" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;"&gt;Whitepaper&lt;/a&gt;&lt;/li&gt;</remark></note><note><remark>&lt;li style="margin-left: 10px;margin-right: 10px;"&gt;&lt;a href="tokenslisted.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;"&gt;Listed Tokens&lt;/a&gt;&lt;/li&gt;</remark></note><note><remark>&lt;li style="margin-left: 10px;margin-right: 10px;"&gt;&lt;a href="technologiesused.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;"&gt;Technologies Used&lt;/a&gt;&lt;/li&gt;</remark></note><note><remark>&lt;li style="margin-left: 10px;margin-right: 10px;"&gt;&lt;a href="termsofuse.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;"&gt;Terms of Use&lt;/a&gt;&lt;/li&gt;</remark></note><note><remark>&lt;li style="margin-left: 10px;margin-right: 10px;"&gt;&lt;a href="privacy.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;"&gt;Privacy Policy&lt;/a&gt;&lt;/li&gt;</remark></note><note><remark>&lt;li style="margin-left: 10px;margin-right: 10px;"&gt;&lt;a href="https://github.com/WandXDapp" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;"&gt;Smart Contracts&lt;/a&gt;&lt;/li&gt;</remark></note><note><remark>&lt;li style="margin-left: 10px;margin-right: 10px;"&gt;&lt;a href="fees.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;"&gt;Fees&lt;/a&gt;&lt;/li&gt;</remark></note><note><remark>&lt;/ul&gt;</remark></note>© 2017-2018 WandX All Rights Reserved </para>
+  <para>Subscribe to our Newsletter</para>
+  <sect1 id="mc_embed_signup">
+    <para>
+      <note>
+        <remark>Begin MailChimp Signup Form</remark>
+      </note>
+    </para>
+    <sect2 id="mc_embed_signup_scroll">
+      <para><anchor id="mce-EMAIL"/><note><remark>&lt;div class="col-md-9"&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--&gt;</remark></note> </para>
+      <para> </para>
+      <para><anchor id="mc-embedded-subscribe"/> </para>
+    </sect2>
+  </sect1>
+  <sect1 id="mce-responses">
+    <para>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);<note><remark>&lt;!--End mc_embed_signup--&gt;</remark></note><note><remark>&lt;input type="text" class="form-control" placeholder="Email Address" aria-label="Recipient's username" aria-describedby="button-addon2"&gt;</remark></note><note><remark>&lt;div class="input-group-append"&gt;</remark></note><note><remark>&lt;button class="btn btn-outline-secondary" type="button" id="button-addon2" style="border: 0px;background: #36c51f;color: white;"&gt;Subscribe&lt;/button&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note></para>
+    <sect2 id="mce-error-response">
+      <para/>
+    </sect2>
+    <sect2 id="mce-success-response">
+      <para/>
+    </sect2>
+  </sect1>
+  <orderedlist>
+    <listitem>
+      <para><inlinegraphic fileref="#img/telegram.png" width="0.3335inch" depth="0.4138inch"/> </para>
+    </listitem>
+    <listitem>
+      <para><inlinegraphic fileref="#img/twitter.png" width="0.3335inch" depth="0.4138inch"/> </para>
+    </listitem>
+    <listitem>
+      <para><inlinegraphic fileref="#img/medium.png" width="0.3335inch" depth="0.4138inch"/> </para>
+    </listitem>
+    <listitem>
+      <para><inlinegraphic fileref="#img/linkedin_1.png" width="0.3335inch" depth="0.4138inch"/><note><remark>&lt;li style="margin: 10px;"&gt;</remark></note><note><remark>&lt;a href="https://www.instagram.com/wandx.co/" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px"&gt;&lt;img src="img/Layer 2.png" style="width: 50px;"&gt;&lt;/a&gt;</remark></note><note><remark>&lt;/li&gt;</remark></note> </para>
+    </listitem>
+    <listitem>
+      <para><inlinegraphic fileref="#img/facebook.png" width="0.3335inch" depth="0.4138inch"/><note><remark>&lt;a href="#" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px"&gt;&lt;img src="img/Layer 4.png" style="width: 50px;"&gt;&lt;/a&gt;</remark></note> </para>
+    </listitem>
+    <listitem>
+      <para><inlinegraphic fileref="#img/github.png" width="0.3335inch" depth="0.4138inch"/> </para>
+    </listitem>
+  </orderedlist>
+  <para>
+    <note>
+      <remark>Optional JavaScript</remark>
+    </note>
+    <note>
+      <remark>jQuery first, then Popper.js, then Bootstrap JS</remark>
+    </note>
+  </para>
+</article>

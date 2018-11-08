@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<article lang="">
+  <para><note><remark>Required meta tags</remark></note><note><remark>facebook card</remark></note><note><remark>HTML: &lt;meta name="" content="img/exchange.png"&gt;</remark></note><note><remark>HTML: &lt;meta name="" content="WandX - User experience of a centralized exchange on a DEX"&gt;</remark></note><note><remark>HTML: &lt;meta name="" content="https://www.wandx.co/"&gt;</remark></note><note><remark>HTML: &lt;meta name="" content="website"&gt;</remark></note><note><remark>HTML: &lt;meta name="" content="WandX"&gt;</remark></note> 
+        { 
+          "@context": "http://schema.org/", 
+          "@type": "WebSite", 
+          "name": "WandX Pte.Ltd, Singapore, Bengaluru", 
+          "url": "https://www.wandx.co/"
+        } 
+      <note><remark>Global site tag (gtag.js) - Google Analytics</remark></note>      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-114592002-1');
+    <note><remark>Bootstrap CSS</remark></note><note><remark>Fonts</remark></note><inlinegraphic fileref="#img/logoheader.png" width="0.4898inch" depth="0.4138inch"/> </para>
+  <sect1 id="navbarNavAltMarkup">
+    <para><note><remark>&lt;div class="navbar-nav"&gt;</remark></note><note><remark>&lt;a class="nav-item nav-link" href="#" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;letter-spacing: 5.69px;margin: 15px;"&gt;Dashboard&lt;/a&gt;</remark></note><note><remark>&lt;a class="nav-item nav-link" href="#" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;letter-spacing: 5.69px;margin: 15px;"&gt;Basket&lt;/a&gt;</remark></note><note><remark>&lt;a class="nav-item nav-link" href="https://exchange.wandx.co/" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;letter-spacing: 5.69px;margin: 15px;"&gt;Exchange&lt;/a&gt;</remark></note><note><remark>&lt;a class="nav-item nav-link" href="#" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;letter-spacing: 5.69px;margin: 15px;"&gt;Wallet&lt;/a&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><olink targetdocent="index.html">Home</olink> <olink targetdocent="team.html">About</olink> <ulink url="https://blog.wandx.co/">Blog</ulink> <ulink url="https://exchange.wandx.co/">Exchange</ulink> <olink targetdocent="baskets.html">Basket Protocol</olink> </para>
+    <para>
+      <anchor id="navbardrop"/>
+      <link linkend="">Airdrop </link>
+    </para>
+    <para><ulink url="http://www.wandx.co/airdrop.html">Airdrop Details</ulink> <ulink url="https://neoairdrop.wandx.co/">Airdrop 1:1</ulink> <note><remark>&lt;a class="nav-item nav-link" href="http://www.wandx.co/airdrop.html" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;margin: 15px;"&gt;Airdrop&lt;/a&gt;</remark></note><note><remark>&lt;a class="nav-item nav-link" href="#" style="color: white;border-color: white;border-radius: 37px;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;margin: 15px;border: 1px solid white;padding: .375rem .75rem;text-align: center;"&gt;Download DAAP&lt;/a&gt;</remark></note></para>
+  </sect1>
+  <para><inlinegraphic fileref="#img/Wandx_logo_top.png" width="0.7862inch" depth="0.3929inch"/> </para>
+  <sect1 id="mc_embed_signup">
+    <para>
+      <note>
+        <remark>Begin MailChimp Signup Form</remark>
+      </note>
+    </para>
+    <sect2 id="mc_embed_signup_scroll">
+      <para><anchor id="mce-EMAIL"/><note><remark>&lt;div class="col-md-9"&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--&gt;</remark></note> </para>
+      <para> </para>
+      <para><anchor id="mc-embedded-subscribe"/> </para>
+    </sect2>
+  </sect1>
+  <sect1 id="mce-responses">
+    <para>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);<note><remark>&lt;!--End mc_embed_signup--&gt;</remark></note><note><remark>&lt;input type="text" class="form-control" placeholder="Email Address" aria-label="Recipient's username" aria-describedby="button-addon2"&gt;</remark></note><note><remark>&lt;div class="input-group-append"&gt;</remark></note><note><remark>&lt;button class="btn btn-outline-secondary" type="button" id="button-addon2" style="border: 0px;background: #36c51f;color: white;"&gt;Subscribe&lt;/button&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note></para>
+    <sect2 id="mce-error-response">
+      <para/>
+    </sect2>
+    <sect2 id="mce-success-response">
+      <para/>
+    </sect2>
+  </sect1>
+  <para/>
+  <para>
+    <anchor id="dropdownMenuLink"/>
+    <link linkend="">Download App </link>
+  </para>
+  <para><ulink url="https://www.wandx.co/downloads/WandX%20Dapp%20Setup%200.1.0.exe">Windows</ulink> <ulink url="https://www.wandx.co/downloads/WandX%20Dapp-0.1.0.dmg">Mac</ulink> <ulink url="https://www.wandx.co/downloads/Wandx-Desktop-App-0.1.0-x86_64.AppImage">Linux</ulink> </para>
+  <sect1 id="nav-tab">
+    <para><anchor id="pop3-tab"/><note><remark>&lt;div class="col-md-6"&gt;</remark></note><note><remark>&lt;div style="height: 80%;"&gt;</remark></note><note><remark>&lt;img src="img/exchange.png" alt="ERC20 tokens decentralised exchange"style="max-width: 100%;max-height: 130%;"&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><link linkend="">Basket Protocol</link> <anchor id="pop2-tab"/><link linkend="">WandX App</link> <anchor id="pop1-tab"/><link linkend="">WandX Tokens</link> </para>
+  </sect1>
+  <sect1 id="nav-tabContent">
+    <para/>
+    <sect2 id="pop1">
+      <para>WAND and WANDNEO Tokens</para>
+      <para>Using WAND and WANDNEO, access the one-stop decentralized marketplace for ERC20 and NEP5 Tokens</para>
+      <sect3 id="image-slidebar">
+        <para><inlinegraphic fileref="#img/Wand-Icon.png" width="0.7862inch" depth="0.3929inch"/> </para>
+      </sect3>
+      <para>WAND</para>
+      <para>ERC20 token that corresponds to the WandX DEX on Ethereum. Buy and use WAND to get up to 75% discount on the transaction fee</para>
+      <para><inlinegraphic fileref="#img/WandNeo-Icon.png" width="0.7862inch" depth="0.3929inch"/> </para>
+      <para>WANDNEO</para>
+      <para>NEP5 token that corresponds to the WandX DEX on NEO. Stake WANDNEO to claim a percentage of the transaction fee earned by the platform. </para>
+      <para><inlinegraphic fileref="#img/Wand+WNeo-Icon.png" width="0.7862inch" depth="0.3929inch"/> </para>
+      <para>ERC20 and NEP5 Marketplace</para>
+      <para>Discover and trade Tokens on the NEO and Ethereum Blockchains on the WandX Desktop app And hedge your position on NEO and Ethereum Tokens using the basket protocol.</para>
+      <para><inlinegraphic fileref="#img/S1_Macbook-Tokens.png" width="0.7862inch" depth="0.3929inch"/> </para>
+      <para>
+        <olink targetdocent="registrations.html">List Token </olink>
+      </para>
+    </sect2>
+    <sect2 id="pop2">
+      <para>Learn how WandX works for you</para>
+      <para>WandX is the world’s first multi blockchaindecentralized token exchange with a hedging product powered by the Basket Protocol. </para>
+      <para><inlinegraphic fileref="#img/Layer%2018.png" width="0.4791inch" depth="0.3929inch"/> </para>
+      <para>Multi blockchain desktop app</para>
+      <para>The WandX desktop app is a decentralized token trading platform on Ethereum and NEO blockchains for ERC20 and NEP5 tokens respectively.</para>
+      <para><inlinegraphic fileref="#img/unnamed.png" width="0.4791inch" depth="0.3929inch"/> </para>
+      <para>Hybrid decentralized exchange ecosystem</para>
+      <para>Trade tokens issued on Ethereum or NEO while always holding control of your tokens. Orders are hosted on the blockchains and trades happen directly through them</para>
+      <para><inlinegraphic fileref="#img/wallet-5.png" width="0.4791inch" depth="0.3929inch"/> </para>
+      <para>Ethereum and NEO wallet</para>
+      <para>Take advantage of the WandX app to connect or create Ethereum and NEO wallets to sign transactions securely and fast, ensuring complete control over your wallets at all times </para>
+      <para><inlinegraphic fileref="#img/S2_Macbook-App.png" width="0.7862inch" depth="0.3929inch"/> </para>
+      <para>
+        <olink targetdocent="downloads.html">Download App </olink>
+      </para>
+    </sect2>
+    <sect2 id="pop3">
+      <para>WandX Basket Protocol</para>
+      <para>Create, buy and trade a group of theme-based ERC20 or NEP5 tokens created using the WandX Basket Protocol, a proprietary risk-hedging product.</para>
+      <para><note><remark>&lt;div class="pricing-header px-3 py-3 mx-auto text-center" style="margin-top: 50px;margin-bottom: 50px;"&gt;</remark></note><note><remark>&lt;h5&gt;WandX Basket Protocol on Ethereum and NEO&lt;/h5&gt;</remark></note><note><remark>&lt;br&gt;</remark></note><note><remark>&lt;p class="lead" style="font-family: 'Source Sans Pro', sans-serif;font-size: 24px;font-weight: 200;line-height: 31px;"&gt;Create, buy and trade a group of theme-based ERC20 or NEP5 tokens created using the &lt;br&gt; WandX Basket Protocol, a proprietary risk-hedging product.&lt;/p&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><inlinegraphic fileref="#img/NEO%20Basket.png" width="0.7862inch" depth="0.3929inch"/> </para>
+      <para>NEP5 based Token Baskets</para>
+      <para>Create custom Token Baskets using 2 or more NEP5 Tokens, deposited into the smart contract to be assigned to a user</para>
+      <para><inlinegraphic fileref="#img/Eth%20basket.png" width="0.7862inch" depth="0.3929inch"/> </para>
+      <para>ERC20 based Token Baskets</para>
+      <para>Create a custom smart contract Token Basket using 2 or more ERC20 Tokens, to be assigned to any wallet address that transfers the ask price worth of ETH to the Basket address. View in <ulink url="https://exchange.wandx.co/">Exchange</ulink></para>
+      <para><inlinegraphic fileref="#img/S1_Macbook-Tokens.png" width="0.7862inch" depth="0.3929inch"/> </para>
+      <para>
+        <olink targetdocent="baskets.html">Learn More </olink>
+      </para>
+    </sect2>
+  </sect1>
+  <para>
+    <note>
+      <remark>Video</remark>
+    </note>
+  </para>
+  <para>Your browser does not support the video tag </para>
+  <para/>
+  <para>Professional tools designed to simplify your cryptocurrency management and trading experience</para>
+  <para/>
+  <sect1>
+    <title>Comprehensive</title>
+    <para>Discover, build, grow and manage your crypto asset portfolio from scratch from the app’s single-screen decentralized token trading dashboard.</para>
+  </sect1>
+  <sect1>
+    <title>Secure</title>
+    <para>Trade tokens issued on multiple blockchains and sign transactions from a single screen by connecting your trading wallets with the app.</para>
+  </sect1>
+  <sect1>
+    <title>Accessible</title>
+    <para>Basket Protocol-enabled functionalities in the app help those new to crypto ecosystem discover digital assets reliably and hedge token risks smartly.</para>
+    <para/>
+    <para>Advantages Of WandX</para>
+    <para>WandX is designed from the ground up to offer a comprehensive cryptocurrency user experience with accessibility and security in mind. The power of the WandX platform is in the design itself. You maintain your keys. You maintain your own security. All from the comfort of your desktop device.</para>
+    <para><inlinegraphic fileref="#img/Advantages-Image.png" width="0.7862inch" depth="0.3929inch"/> </para>
+    <para>
+      <note>
+        <remark>&lt;div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center" style="padding-top: 0px ! important;"&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;h1 class="display-4" style="font-family: 'Source Sans Pro', sans-serif;font-size: 36px;font-weight: 200;line-height: 69px;"&gt;Download &lt;span style="font-family: 'Source Sans Pro', sans-serif;font-size: 36px;font-weight: 600;line-height: 69px;"&gt;WandX Desktop App&lt;/span&gt;&lt;/h1&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;div class="dropdown"&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;a class="btn btn-secondary dropdown-toggle" style="background-color: #733a86;border-color: #733a86;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 600;" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"&gt;</remark>
+      </note>
+      <note>
+        <remark>Download</remark>
+      </note>
+      <note>
+        <remark>&lt;/a&gt;</remark>
+      </note>
+      <note>
+        <remark/>
+      </note>
+      <note>
+        <remark>&lt;div class="row"&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-3"&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;p class="lead" style="font-family: 'Source Sans Pro', sans-serif;font-size: 38px;font-weight: 200;line-height: 31px;margin-top: 88px;"&gt;Advantages Of WandX&lt;/p&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;p class="card-text" style="font-family: 'Source Sans Pro', sans-serif; text-align: left"&gt;WandX waas designed from the ground up to offer a comprehensive cryptocurrency user experience with accessibility and security in mind .The power of the WandX platform is the design itself. You maintain your keys.You maintain your own security,readily available on your desktop .&lt;/p&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;/div&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-3"&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;img src="homepage_images/Advantages-Image.png" style="max-width: 100%;"&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;/div&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;/div&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;/div&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;/div&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;div class="container" style="max-width: 1650px;background: url(img/bgprofile.png);"&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;div class="row"&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;div class="col-md-4" style="text-align: center;"&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;h2 style="font-family: 'Source Sans Pro', sans-serif;font-size: 30px;font-weight: 300;"&gt;Total tokens listed&lt;/h2&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;hr style="background-color: #363456;color: #363456;height: 6px;width: 129px;"&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;p style="font-family: 'Source Sans Pro', sans-serif;font-size: 100px;font-weight: 600;"&gt;365&lt;/p&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;/div&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;div class="col-md-4" style="text-align: center;"&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;h2 style="font-family: 'Source Sans Pro', sans-serif;font-size: 30px;font-weight: 300;"&gt;Active trades&lt;/h2&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;hr style="background-color: #363456;color: #363456;height: 6px;width: 129px;"&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;p style="font-family: 'Source Sans Pro', sans-serif;font-size: 100px;font-weight: 600;"&gt;013&lt;/p&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;/div&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;div class="col-md-4" style="text-align: center;"&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;h2 style="font-family: 'Source Sans Pro', sans-serif;font-size: 30px;font-weight: 300;"&gt;One day trade volume&lt;/h2&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;hr style="background-color: #363456;color: #363456;height: 6px;width: 129px;"&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;p style="font-family: 'Source Sans Pro', sans-serif;font-size: 100px;font-weight: 600;"&gt;005&lt;/p&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;/div&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;/div&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;/div&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;br&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;div class="container"&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;div class="container" style="text-align: center;"&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;h1 class="display-4" style="font-family: 'Source Sans Pro', sans-serif;font-size: 55px;font-weight: 200;line-height: 69px;"&gt;Theme based Token Baskets&lt;/h1&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;/div&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;br&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;div class="accordion" id="accordionExample"&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;div class="card"&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;div class="card-header" id="headingOne"&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;h5 class="mb-0"&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;button style="color: #733a86;" class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne"&gt;</remark>
+      </note>
+      <note>
+        <remark>Exchange Token baskets</remark>
+      </note>
+      <note>
+        <remark>&lt;/button&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;/h5&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;/div&gt;</remark>
+      </note>
+      <note>
+        <remark/>
+      </note>
+      <note>
+        <remark>&lt;div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample"&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;div class="card-body"&gt;</remark>
+      </note>
+      <note>
+        <remark>Centralized and decentralized exchange Token baskets enable users to enter the exchange Token market with a single click, rather than search for liquidity of each Token. Users can obtain a balanced ratio of Exchange based Tokens with a single transaction.</remark>
+      </note>
+      <note>
+        <remark>&lt;/div&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;/div&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;/div&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;div class="card"&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;div class="card-header" id="headingTwo"&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;h5 class="mb-0"&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;button style="color: #733a86;" class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo"&gt;</remark>
+      </note>
+      <note>
+        <remark>Themed baskets</remark>
+      </note>
+      <note>
+        <remark>&lt;/button&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;/h5&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;/div&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample"&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;div class="card-body"&gt;</remark>
+      </note>
+      <note>
+        <remark>Different Basket Themes such as “Decentralized supply chain” Tokens, “Decentralized media/entertainment” Tokens can easily be created and traded, hence enabling users new to crypto to easily purchase a balanced group of Tokens rather than search for liquidity of individual Tokens on multiple exchanges.</remark>
+      </note>
+      <note>
+        <remark>&lt;/div&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;/div&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;/div&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;div class="card"&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;div class="card-header" id="headingThree"&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;h5 class="mb-0"&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;button style="color: #733a86;" class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree"&gt;</remark>
+      </note>
+      <note>
+        <remark>Decentralized</remark>
+      </note>
+      <note>
+        <remark>&lt;/button&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;/h5&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;/div&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample"&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;div class="card-body"&gt;</remark>
+      </note>
+      <note>
+        <remark>Every Basket created is a smart contract that is owned by the creator. With purchase of a Basket, ownership is transferred, hence it’s entirely peer to peer, and truly decentralized.</remark>
+      </note>
+      <note>
+        <remark>&lt;/div&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;/div&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;/div&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;div class="card"&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;div class="card-header" id="headingThree1"&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;h5 class="mb-0"&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;button style="color: #733a86;" class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour"&gt;</remark>
+      </note>
+      <note>
+        <remark>Debt baskets</remark>
+      </note>
+      <note>
+        <remark>&lt;/button&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;/h5&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;/div&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;div id="collapseFour" class="collapse" aria-labelledby="headingThree1" data-parent="#accordionExample"&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;div class="card-body"&gt;</remark>
+      </note>
+      <note>
+        <remark>Create Debt based baskets using the Dharma protocol (coming soon).</remark>
+      </note>
+      <note>
+        <remark>&lt;/div&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;/div&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;/div&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;div class="card"&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;div class="card-header" id="headingThree2"&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;h5 class="mb-0"&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;button style="color: #733a86;" class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive"&gt;</remark>
+      </note>
+      <note>
+        <remark>Liquidity</remark>
+      </note>
+      <note>
+        <remark>&lt;/button&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;/h5&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;/div&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;div id="collapseFive" class="collapse" aria-labelledby="headingThree2" data-parent="#accordionExample"&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;div class="card-body"&gt;</remark>
+      </note>
+      <note>
+        <remark>Since the Baskets are basically smart contracts holding the underlying Tokens, liquidity of baskets is maintained entirely on the Blockchain.</remark>
+      </note>
+      <note>
+        <remark>&lt;/div&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;/div&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;/div&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;/div&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;/div&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;div class="container"&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;div class="row mt-5"&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;div class="col-md-6"&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;ul class="list-group"&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;li style="color: #733a86;" class="list-group-item"&gt;Decentralised exchange tokens&lt;/li&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;li style="color: #733a86;" class="list-group-item"&gt;Decentralised supply chain tokens&lt;/li&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;li style="color: #733a86;" class="list-group-item"&gt;Decentralised storage tokens&lt;/li&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;li style="color: #733a86;" class="list-group-item"&gt;Decentralised identity tokens&lt;/li&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;li style="color: #733a86;" class="list-group-item"&gt;Top 8 ERC20 tokens&lt;/li&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;/ul&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;/div&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;div class="col-md-6"&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;ul class="list-group"&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;li style="color: #733a86;" class="list-group-item"&gt;Low market cap ERC20 tokens&lt;/li&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;li style="color: #733a86;" class="list-group-item"&gt;Decentralised payment system tokens&lt;/li&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;li style="color: #733a86;" class="list-group-item"&gt;Decentralised cyber security tokens&lt;/li&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;li style="color: #733a86;" class="list-group-item"&gt;Decentralised gaming tokens&lt;/li&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;li style="color: #733a86;" class="list-group-item"&gt;Decentralised insurance tokens&lt;/li&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;/ul&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;/div&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;/div&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;/div&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;!-- Download links Starts--&gt;</remark>
+      </note>
+    </para>
+    <para>Download the WandX Desktop Application</para>
+    <para/>
+    <para><inlinegraphic fileref="#img/icons/windows.png" width="0.7862inch" depth="0.3126inch"/> Windows </para>
+    <para><inlinegraphic fileref="#img/icons/apple.png" width="0.7862inch" depth="0.3126inch"/> Apple </para>
+    <para><inlinegraphic fileref="#img/icons/linux.png" width="0.7862inch" depth="0.3126inch"/> Linux </para>
+    <para/>
+    <para><note><remark>Download links Ends</remark></note><note><remark>Blog Component Starts</remark></note><inlinegraphic fileref="#img/blog1.png" width="0.8071inch" depth="0.4138inch"/> </para>
+  </sect1>
+  <sect1>
+    <title>WandX : The Multi-Blockchain DEX and Basket protocol</title>
+    <para>When we started building our Basket protocol in September 2017, we had an eye out for new Blockchain platforms, and were especially tethered to developments surrounding the rise and growth of NEO.</para>
+    <para>Aug 30</para>
+    <para><inlinegraphic fileref="#img/blog2.png" width="0.8071inch" depth="0.4138inch"/> </para>
+  </sect1>
+  <sect1>
+    <title>WANDNEO Token airdrop: Next Steps</title>
+    <para>The WANDNEO Token airdrop registration began on July 24th, and ended on August 10th. And between these dates, we’ve received over 25000 registrations for the airdrop!</para>
+    <para>Aug 30</para>
+    <para><inlinegraphic fileref="#img/blog3.png" width="0.8071inch" depth="0.4138inch"/> </para>
+  </sect1>
+  <sect1>
+    <title>WANDNEO Token Airdrop: All you need to know</title>
+    <para>WANDNEO Token airdrop registration starts today. Between 24th July 2018 and 10th Aug 2018, you can register on www.wandx.co/airdrop.html to secure your share of the new WANDNEO tokens.</para>
+    <para>Jul 24</para>
+    <para>Read More </para>
+    <para/>
+    <para><note><remark>Blog Component Ends</remark></note><note><remark>&lt;div class="pricing-header px-3 py-3 pt-md-5 pb-md-3 mx-auto text-center"&gt;</remark></note><note><remark>&lt;h1 class="display-4" style="font-family: 'Source Sans Pro', sans-serif;font-size: 55px;font-weight: 300;line-height: 69px;"&gt;Partners&lt;/h1&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><inlinegraphic fileref="#img/blockchainworx.png" width="2.3957inch" depth="0.2709inch"/> </para>
+    <para><inlinegraphic fileref="#img/Layer%2012.png" width="2.1665inch" depth="0.4689inch"/> </para>
+    <para><inlinegraphic fileref="#img/Layer%2015.png" width="2.1043inch" depth="0.448inch"/> </para>
+    <para><inlinegraphic fileref="#img/Layer%2014.png" width="1.4374inch" depth="0.5311inch"/> </para>
+    <para><inlinegraphic fileref="#img/Layer%2013.png" width="1.0626inch" depth="0.9898inch"/> </para>
+    <para><inlinegraphic fileref="#img/selfkey.png" width="1.25inch" depth="1.0937inch"/> </para>
+    <para><note><remark>&lt;div class="container" style="margin-bottom: 50px;"&gt;</remark></note><note><remark>&lt;div class="container"&gt;</remark></note><note><remark>&lt;h1 style="text-align:center;"&gt;Development Partner&lt;/h1&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;div class="row"&gt;</remark></note><note><remark>&lt;div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12" style="text-align: center;"&gt;</remark></note><note><remark>&lt;img src="img/chainflux.png" alt="WandX Partners-Blockchainworx" style="margin-top: 30px;width: 50%;"&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>Carousal Start</remark></note><note><remark>&lt;div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center"&gt;</remark></note><note><remark>&lt;h1 class="display-4" style="font-family: 'Source Sans Pro', sans-serif;font-size: 55px;font-weight: 300;line-height: 69px;"&gt;Partners&lt;/h1&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" style="background: #dcdcdcab;margin-bottom: 50px;"&gt;</remark></note><note><remark>&lt;ol class="carousel-indicators"&gt;</remark></note><note><remark>&lt;li style="width: 10px; height: 10px; border-radius: 20px;" data-target="#carouselExampleIndicators" data-slide-to="0" class="active"&gt;&lt;/li&gt;</remark></note><note><remark>&lt;li style="width: 10px; height: 10px; border-radius: 20px;" data-target="#carouselExampleIndicators" data-slide-to="1"&gt;&lt;/li&gt;</remark></note><note><remark>&lt;li style="width: 10px; height: 10px; border-radius: 20px;" data-target="#carouselExampleIndicators" data-slide-to="2"&gt;&lt;/li&gt;</remark></note><note><remark>&lt;li style="width: 10px; height: 10px; border-radius: 20px;" data-target="#carouselExampleIndicators" data-slide-to="3"&gt;&lt;/li&gt;</remark></note><note><remark>&lt;li style="width: 10px; height: 10px; border-radius: 20px;" data-target="#carouselExampleIndicators" data-slide-to="4"&gt;&lt;/li&gt;</remark></note><note><remark>&lt;/ol&gt;</remark></note><note><remark>&lt;div class="carousel-inner"&gt;</remark></note><note><remark>&lt;div class="carousel-item active" style="min-height: 230px;text-align: center;"&gt;</remark></note><note><remark>&lt;img src="img/Layer 12.png" style="width: 208px;height: 45px;margin-top: 70px;" alt="First slide"&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;div class="carousel-item" style="min-height: 230px;text-align: center;"&gt;</remark></note><note><remark>&lt;img src="img/Layer 15.png" style="width: 202px;height: 43px;margin-top: 70px;" alt="Second slide"&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;div class="carousel-item" style="min-height: 230px;text-align: center;"&gt;</remark></note><note><remark>&lt;img src="img/Layer 14.png" style="width: 138px;height: 51px;margin-top: 70px;" alt="Third slide"&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;div class="carousel-item" style="min-height: 230px;text-align: center;"&gt;</remark></note><note><remark>&lt;img src="img/Layer 13.png" style="width: 102px;height: 95px;margin-top: 70px;" alt="Third slide"&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;div class="carousel-item" style="min-height: 230px;text-align: center;"&gt;</remark></note><note><remark>&lt;img src="img/selfkey.png" style="width: 120px;height: 105px;margin-top: 70px;" alt="Third slide"&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev"&gt;</remark></note><note><remark>&lt;span class="carousel-control-prev-icon" aria-hidden="true"&gt;&lt;/span&gt;</remark></note><note><remark>&lt;span class="sr-only"&gt;Previous&lt;/span&gt;</remark></note><note><remark>&lt;/a&gt;</remark></note><note><remark>&lt;a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next"&gt;</remark></note><note><remark>&lt;span class="carousel-control-next-icon" aria-hidden="true"&gt;&lt;/span&gt;</remark></note><note><remark>&lt;span class="sr-only"&gt;Next&lt;/span&gt;</remark></note><note><remark>&lt;/a&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>Carousal End</remark></note><inlinegraphic fileref="#img/Wandx_logo_top.png" width="0.7862inch" depth="0.3929inch"/> </para>
+    <orderedlist>
+      <listitem>
+        <para><olink targetdocent="team.html">About</olink> </para>
+      </listitem>
+      <listitem>
+        <para><ulink url="https://blog.wandx.co/">Blog</ulink> </para>
+      </listitem>
+      <listitem>
+        <para><link linkend="">Contact</link> </para>
+      </listitem>
+    </orderedlist>
+    <orderedlist>
+      <listitem>
+        <para><olink targetdocent="whitepaper.html">Whitepaper</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="tokenslisted.html">Listed Tokens</olink> </para>
+      </listitem>
+      <listitem>
+        <para><link linkend="">API</link> </para>
+      </listitem>
+    </orderedlist>
+    <orderedlist>
+      <listitem>
+        <para><olink targetdocent="fees.html">Fees</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="privacy.html">Privacy Policy</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="termsofuse.html">Terms of Use</olink> </para>
+      </listitem>
+    </orderedlist>
+    <para><note><remark>&lt;ul class="row list-unstyled text-small"&gt;</remark></note><note><remark>&lt;li style="margin-left: 10px;margin-right: 10px;"&gt;&lt;a href="team.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;"&gt;About&lt;/a&gt;&lt;/li&gt;</remark></note><note><remark>&lt;li style="margin-left: 10px;margin-right: 10px;"&gt;&lt;a href="whitepaper.html" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;"&gt;Whitepaper&lt;/a&gt;&lt;/li&gt;</remark></note><note><remark>&lt;li style="margin-left: 10px;margin-right: 10px;"&gt;&lt;a href="tokenslisted.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;"&gt;Listed Tokens&lt;/a&gt;&lt;/li&gt;</remark></note><note><remark>&lt;li style="margin-left: 10px;margin-right: 10px;"&gt;&lt;a href="technologiesused.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;"&gt;Technologies Used&lt;/a&gt;&lt;/li&gt;</remark></note><note><remark>&lt;li style="margin-left: 10px;margin-right: 10px;"&gt;&lt;a href="termsofuse.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;"&gt;Terms of Use&lt;/a&gt;&lt;/li&gt;</remark></note><note><remark>&lt;li style="margin-left: 10px;margin-right: 10px;"&gt;&lt;a href="privacy.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;"&gt;Privacy Policy&lt;/a&gt;&lt;/li&gt;</remark></note><note><remark>&lt;li style="margin-left: 10px;margin-right: 10px;"&gt;&lt;a href="https://github.com/WandXDapp" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;"&gt;Smart Contracts&lt;/a&gt;&lt;/li&gt;</remark></note><note><remark>&lt;li style="margin-left: 10px;margin-right: 10px;"&gt;&lt;a href="fees.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;"&gt;Fees&lt;/a&gt;&lt;/li&gt;</remark></note><note><remark>&lt;/ul&gt;</remark></note>© 2017-2018 WandX All Rights Reserved </para>
+    <para>Subscribe to our Newsletter</para>
+    <sect1 id="Section1">
+      <para>
+        <anchor id="mc_embed_signup"/>
+        <note>
+          <remark>Begin MailChimp Signup Form</remark>
+        </note>
+      </para>
+      <sect2 id="Section2">
+        <para><anchor id="mc_embed_signup_scroll"/><anchor id="mce-EMAIL1"/><note><remark>&lt;div class="col-md-9"&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--&gt;</remark></note> </para>
+        <para> </para>
+        <para><anchor id="mc-embedded-subscribe1"/> </para>
+      </sect2>
+    </sect1>
+    <sect1 id="Section3">
+      <para><anchor id="mce-responses"/>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);<note><remark>&lt;!--End mc_embed_signup--&gt;</remark></note><note><remark>&lt;input type="text" class="form-control" placeholder="Email Address" aria-label="Recipient's username" aria-describedby="button-addon2"&gt;</remark></note><note><remark>&lt;div class="input-group-append"&gt;</remark></note><note><remark>&lt;button class="btn btn-outline-secondary" type="button" id="button-addon2" style="border: 0px;background: #36c51f;color: white;"&gt;Subscribe&lt;/button&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note></para>
+      <sect2 id="Section4">
+        <para>
+          <anchor id="mce-error-response"/>
+        </para>
+      </sect2>
+      <sect2 id="Section5">
+        <para>
+          <anchor id="mce-success-response"/>
+        </para>
+      </sect2>
+    </sect1>
+    <orderedlist>
+      <listitem>
+        <para><inlinegraphic fileref="#img/twitter.png" width="0.3335inch" depth="0.4138inch"/> </para>
+      </listitem>
+      <listitem>
+        <para><inlinegraphic fileref="#img/medium.png" width="0.3335inch" depth="0.4138inch"/> </para>
+      </listitem>
+      <listitem>
+        <para><inlinegraphic fileref="#img/linkedin_1.png" width="0.3335inch" depth="0.4138inch"/><note><remark>&lt;li style="margin: 10px;"&gt;</remark></note><note><remark>&lt;a href="https://www.instagram.com/wandx.co/" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px"&gt;&lt;img src="img/Layer 2.png" style="width: 50px;"&gt;&lt;/a&gt;</remark></note><note><remark>&lt;/li&gt;</remark></note> </para>
+      </listitem>
+      <listitem>
+        <para><inlinegraphic fileref="#img/facebook.png" width="0.3335inch" depth="0.4138inch"/><note><remark>&lt;a href="#" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px"&gt;&lt;img src="img/Layer 4.png" style="width: 50px;"&gt;&lt;/a&gt;</remark></note> </para>
+      </listitem>
+      <listitem>
+        <para><inlinegraphic fileref="#img/github.png" width="0.3335inch" depth="0.4138inch"/> </para>
+      </listitem>
+      <listitem>
+        <para><inlinegraphic fileref="#img/telegram.png" width="0.3335inch" depth="0.4138inch"/><note><remark>&lt;button class="btn" style="background: #36c41f;" onclick="window.location.href='https://t.me/wandxapp'"&gt;</remark></note><note><remark>&lt;div class="row"&gt;</remark></note><note><remark>&lt;div class="col-sm"&gt;&lt;img src="img/telegram.png" style="width: 30px;"&gt;&lt;/div&gt;</remark></note><note><remark>&lt;div class="col-sm" style="margin: auto;"&gt;Community&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/button&gt;</remark></note> </para>
+      </listitem>
+    </orderedlist>
+    <para>
+      <note>
+        <remark>&lt;div&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;button class="btn" style="background: #36c41f;" onclick="window.location.href='https://t.me/wandxapp'"&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;div class="row"&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;div class="col-sm"&gt;&lt;img src="img/telegram.png" style="width: 30px;"&gt;&lt;/div&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;div class="col-sm" style="margin: auto;"&gt;Community&lt;/div&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;/div&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;/button&gt;</remark>
+      </note>
+      <note>
+        <remark>&lt;/div&gt;</remark>
+      </note>
+      <note>
+        <remark>Optional JavaScript</remark>
+      </note>
+      <note>
+        <remark>jQuery first, then Popper.js, then Bootstrap JS</remark>
+      </note>
+    </para>
+  </sect1>
+</article>

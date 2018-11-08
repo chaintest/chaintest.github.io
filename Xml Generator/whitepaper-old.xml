@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<article lang="">
+  <para><note><remark>Required meta tags</remark></note><note><remark>facebook card</remark></note><note><remark>HTML: &lt;meta name="" content="img/exchange.png"&gt;</remark></note><note><remark>HTML: &lt;meta name="" content="WandX - ERC20 Token Products Using Smart Contracts"&gt;</remark></note><note><remark>HTML: &lt;meta name="" content="https://www.wandx.co/whitepaper."&gt;</remark></note><note><remark>HTML: &lt;meta name="" content="website"&gt;</remark></note><note><remark>HTML: &lt;meta name="" content="WandX"&gt;</remark></note><note><remark>Global site tag (gtag.js) - Google Analytics</remark></note>  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-114592002-1');<note><remark>Bootstrap CSS</remark></note><note><remark>Fonts</remark></note><inlinegraphic fileref="#img/logoheader.png" width="0.4898inch" depth="0.4138inch"/> </para>
+  <sect1 id="navbarNavAltMarkup">
+    <para><note><remark>&lt;div class="navbar-nav"&gt;</remark></note><note><remark>&lt;a class="nav-item nav-link" href="#" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;letter-spacing: 5.69px;margin: 15px;"&gt;Dashboard&lt;/a&gt;</remark></note><note><remark>&lt;a class="nav-item nav-link" href="#" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;letter-spacing: 5.69px;margin: 15px;"&gt;Basket&lt;/a&gt;</remark></note><note><remark>&lt;a class="nav-item nav-link" href="https://exchange.wandx.co/" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;letter-spacing: 5.69px;margin: 15px;"&gt;Exchange&lt;/a&gt;</remark></note><note><remark>&lt;a class="nav-item nav-link" href="#" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;letter-spacing: 5.69px;margin: 15px;"&gt;Wallet&lt;/a&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><olink targetdocent="index.html">Home</olink> <olink targetdocent="team.html">About</olink> <ulink url="https://blog.wandx.co/">Blog</ulink> <ulink url="https://exchange.wandx.co/">Exchange</ulink> <olink targetdocent="baskets.html">Basket Protocol</olink> <ulink url="http://www.wandx.co/airdrop.html">Airdrop</ulink><note><remark>&lt;a class="nav-item nav-link" href="#" style="color: white;border-color: white;border-radius: 37px;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;margin: 15px;border: 1px solid white;padding: .375rem .75rem;text-align: center;"&gt;Download DAAP&lt;/a&gt;</remark></note> </para>
+  </sect1>
+  <para><inlinegraphic fileref="#img/Wandx_logo_top.png" width="0.7862inch" depth="0.3929inch"/> </para>
+  <sect1 id="mc_embed_signup">
+    <para>
+      <note>
+        <remark>Begin MailChimp Signup Form</remark>
+      </note>
+    </para>
+    <sect2 id="mc_embed_signup_scroll">
+      <para><anchor id="mce-EMAIL"/><note><remark>&lt;div class="col-md-9"&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--&gt;</remark></note> </para>
+      <para> </para>
+      <para><anchor id="mc-embedded-subscribe"/> </para>
+    </sect2>
+  </sect1>
+  <para>
+    <note>
+      <remark>&lt;!--End mc_embed_signup--&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;input type="text" class="form-control" placeholder="Email Address" aria-label="Recipient's username" aria-describedby="button-addon2"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;div class="input-group-append"&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;button class="btn btn-outline-secondary" type="button" id="button-addon2" style="border: 0px;background: #36c51f;color: white;"&gt;Subscribe&lt;/button&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;/div&gt;</remark>
+    </note>
+  </para>
+  <para>
+    <anchor id="dropdownMenuLink"/>
+    <link linkend="">Download App </link>
+  </para>
+  <para><ulink url="https://www.wandx.co/downloads/WandX%20Dapp%20Setup%200.1.0.exe">Windows</ulink> <ulink url="https://www.wandx.co/downloads/WandX%20Dapp-0.1.0.dmg">Mac</ulink> <ulink url="https://www.wandx.co/downloads/Wandx-Desktop-App-0.1.0-x86_64.AppImage">Linux</ulink> </para>
+  <para><note><remark>&lt;div class="col-md-6"&gt;</remark></note><note><remark>&lt;div style="height: 80%;"&gt;</remark></note><note><remark>&lt;img src="img/exchange.png" style="max-width: 100%;max-height: 130%;"&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note>WANDX - ERC20 TOKEN PRODUCTS USING SMART CONTRACTS</para>
+  <para>
+    <note>
+      <remark>&lt;h1 style="font-family: 'Source Sans Pro', sans-serif;font-size: 55px;font-weight: 300;line-height: 69px;text-align: center;"&gt;(Updated: October 2017)&lt;/h1&gt;</remark>
+    </note>
+    <note>
+      <remark>class="privacy-holder" style="font-family: 'Source Sans Pro', sans-serif;font-size: 20px;"</remark>
+    </note>
+  </para>
+  <orderedlist>
+    <listitem>
+      <para>Executive summary </para>
+    </listitem>
+    <listitem>
+      <para>Problem statement </para>
+    </listitem>
+    <listitem>
+      <para>Solution </para>
+    </listitem>
+    <listitem>
+      <para>Identity </para>
+    </listitem>
+    <listitem>
+      <para>Technology </para>
+    </listitem>
+    <listitem>
+      <para>Incentivization </para>
+    </listitem>
+    <listitem>
+      <para>Governance </para>
+    </listitem>
+    <listitem>
+      <para>Timeline </para>
+      <para><inlinegraphic fileref="#images/timeline.png" width="0.7862inch" depth="0.3929inch"/> </para>
+      <para>[Figure 3. Roadmap of WandX development and feature addition for the next 6 months.]</para>
+    </listitem>
+    <listitem>
+      <para>Competitor Landscape </para>
+    </listitem>
+    <listitem>
+      <para>Technology integrations </para>
+    </listitem>
+    <listitem>
+      <para>Legal considerations </para>
+    </listitem>
+    <listitem>
+      <para>Development Roadmap </para>
+    </listitem>
+    <listitem>
+      <para>Marketing and sales strategy </para>
+    </listitem>
+    <listitem>
+      <para>Token Sale </para>
+    </listitem>
+    <listitem>
+      <para>System architecture </para>
+    </listitem>
+    <listitem>
+      <para>Risk and compliance </para>
+    </listitem>
+    <listitem>
+      <para>Advantages of WandX </para>
+    </listitem>
+  </orderedlist>
+  <para><inlinegraphic fileref="#img/Wandx_logo_top.png" width="0.7862inch" depth="0.3929inch"/> </para>
+  <orderedlist>
+    <listitem>
+      <para><olink targetdocent="team.html">About</olink> </para>
+    </listitem>
+    <listitem>
+      <para><olink targetdocent="whitepaper.html">Whitepaper</olink> </para>
+    </listitem>
+    <listitem>
+      <para><olink targetdocent="tokenslisted.html">Listed Tokens</olink> </para>
+    </listitem>
+    <listitem>
+      <para><olink targetdocent="technologiesused.html">Technologies Used</olink> </para>
+    </listitem>
+    <listitem>
+      <para><olink targetdocent="termsofuse.html">Terms of Use</olink> </para>
+    </listitem>
+    <listitem>
+      <para><olink targetdocent="privacy.html">Privacy Policy</olink> </para>
+    </listitem>
+    <listitem>
+      <para><ulink url="https://github.com/WandXDapp">Smart Contracts</ulink> </para>
+    </listitem>
+    <listitem>
+      <para><olink targetdocent="fees.html">Fees</olink> </para>
+    </listitem>
+  </orderedlist>
+  <para>© 2017-2018 WandX All Rights Reserved </para>
+  <orderedlist>
+    <listitem>
+      <para><inlinegraphic fileref="#img/telegram.png" width="0.3335inch" depth="0.4138inch"/> </para>
+    </listitem>
+    <listitem>
+      <para><inlinegraphic fileref="#img/twitter.png" width="0.3335inch" depth="0.4138inch"/> </para>
+    </listitem>
+    <listitem>
+      <para><inlinegraphic fileref="#img/medium.png" width="0.3335inch" depth="0.4138inch"/> </para>
+    </listitem>
+    <listitem>
+      <para><inlinegraphic fileref="#img/linkedin_1.png" width="0.3335inch" depth="0.4138inch"/><note><remark>&lt;li style="margin: 10px;"&gt;</remark></note><note><remark>&lt;a href="https://www.instagram.com/wandx.co/" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px"&gt;&lt;img src="img/Layer 2.png" style="width: 50px;"&gt;&lt;/a&gt;</remark></note><note><remark>&lt;/li&gt;</remark></note> </para>
+    </listitem>
+    <listitem>
+      <para><inlinegraphic fileref="#img/facebook.png" width="0.3335inch" depth="0.4138inch"/><note><remark>&lt;a href="#" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px"&gt;&lt;img src="img/Layer 4.png" style="width: 50px;"&gt;&lt;/a&gt;</remark></note> </para>
+    </listitem>
+    <listitem>
+      <para><inlinegraphic fileref="#img/github.png" width="0.3335inch" depth="0.4138inch"/> </para>
+    </listitem>
+  </orderedlist>
+  <para>
+    <note>
+      <remark>Optional JavaScript</remark>
+    </note>
+    <note>
+      <remark>jQuery first, then Popper.js, then Bootstrap JS</remark>
+    </note>
+  </para>
+</article>
