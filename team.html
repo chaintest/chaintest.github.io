@@ -34,13 +34,49 @@
        display: block;
      }
   }
+  @media (max-width: 990px){
+    .navbar{
+      background-color: rgba(115, 34, 144, 0.3) ! important; 
+      z-index: 999;
+    }
+    .navbar-brand img{
+      width: 45px;
+      margin-left: 20px;
+    }
+  }
+  @media (min-width: 990px){
+    .navbar{
+      background-color: rgba(115, 34, 144, 0) ! important; 
+      z-index: 999;
+    }
+    .navbar-brand img{
+      width: 45px;
+      margin-left: 45px;
+    }
+  }
+  @media(min-width:766px){
+    .mission{
+      padding: 31px;
+    }
+  }
+  @media(max-width:573px){
+    .mission{
+      padding: 31px;
+    }
+  }
+  @media (max-width:766px) and (min-width:573px) {
+    .mission{
+      padding: 2px;
+    }
+  }
+
 </style>
     <title>WandX-Core Team and Advisors</title>
   </head>
   <body>
     <!-- <nav class="navbar navbar-expand-lg navbar-light bg-light" style="background-color: rgba(124, 43, 87, 0.3) ! important;z-index: 999;"> -->
-    <nav class="navbar navbar-expand-lg navbar-light bg-light" style="background-color: rgba(115, 34, 144, 0.3) ! important; z-index: 999;">
-      <a class="navbar-brand" href="index.html"><img src="img/logoheader.png" style="width: 45px;margin-left: 45px;"></a>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <a class="navbar-brand" href="index.html"><img src="img/logoheader.png"></a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -58,6 +94,9 @@
           <a class="nav-item nav-link" href="https://exchange.wandx.co/" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;margin: 15px;">Exchange</a>
           <a class="nav-item nav-link" href="baskets.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;margin: 15px;">Basket Protocol</a>
           <a class="nav-item nav-link" href="http://www.wandx.co/airdrop.html" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;margin: 15px;">Airdrop</a>
+          <br>
+          <br>
+          <br>
           <!-- <a class="nav-item nav-link" href="#" style="color: white;border-color: white;border-radius: 37px;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;margin: 15px;border: 1px solid white;padding: .375rem .75rem;text-align: center;">Download DAAP</a> -->
         </div>
       </div>
@@ -78,7 +117,7 @@
       <div class="container" style="padding-top: 100px;padding-bottom: 100px;">
         <div class="row" style="height: 100%;">
           <div class="col-sm-4" style="background-color: #3b024d; display: flex; align-items: center; padding: 0 30px;">
-            <div style="color: white;padding: 31px;">
+            <div class="mission" style="color: white;">
               <h1>Our Mission</h1>
               <p style="margin-bottom:0;">Founded in 2017, WandX is a protocol for ‘basket trade’ and a decentralized trading platform for crypto token holders. Our mission is to create a one-stop, simple and smart digital asset management ecosystem that helps crypto asset holders manage their risks better, without fear or driven by hype.</p>
             </div>
