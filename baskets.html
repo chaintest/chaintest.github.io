@@ -67,13 +67,25 @@
         font-size: 20px;
         font-weight: 200;
       }
-  }
+    }
+    @media (max-width: 990px){
+      .navbar-brand img{
+        width: 45px;
+        margin-left: 20px;
+      }
+    }
+      @media (min-width: 990px){
+      .navbar-brand img{
+        width: 45px;
+        margin-left: 45px;
+      }
+    }
    
     </style>
   </head>
   <body>
     <nav class="navbar-mobile_back navbar navbar-expand-lg navbar-light bg-light">
-      <a class="navbar-brand" href="index.html"><img src="img/logoheader.png" alt="Wandx logo" style="width: 45px;margin-left: 45px;"></a>
+      <a class="navbar-brand" href="index.html"><img src="img/logoheader.png" alt="Wandx logo"></a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
