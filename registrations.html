@@ -1,106 +1,117 @@
-
 <!doctype html>
 <html lang="en">
-  <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="Wandx is a decentralized ERC20 Token and ERC20 Token Basket trading platform.Smart contracts built on the Ethereum blockchain allow for peer to peer swap of ERC20 Tokens and ERC20 Token baskets.">
-    <meta name="keywords" content="Decentralized ERC20 Token, ERC20 Token trading platform">
-    <link rel='shortcut icon' type='image/x-icon' href='img/wand.ico' />
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-114592002-1"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
 
-      gtag('config', 'UA-114592002-1');
-    </script>
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="Wandx is a decentralized ERC20 Token and ERC20 Token Basket trading platform.Smart contracts built on the Ethereum blockchain allow for peer to peer swap of ERC20 Tokens and ERC20 Token baskets.">
+  <meta name="keywords" content="Decentralized ERC20 Token, ERC20 Token trading platform">
+  <link rel='shortcut icon' type='image/x-icon' href='img/wand.ico' />
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-114592002-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
 
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css" integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B" crossorigin="anonymous">
-    <!-- Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,200i,300,300i,400,400i,600,600i,700,700i,900,900i" rel="stylesheet">
+    gtag('config', 'UA-114592002-1');
+  </script>
 
-    <title>WandX-Token Baskets</title>
-    <style type="text/css">
-      /* Extra small devices (phones, 600px and down) */
-      @media only screen and (min-width: 991px) {
-          .navbar-mobile_back 
-          {
-              background-color: rgba(124, 43, 87, 0) ! important;
-              z-index: 999;
-          }
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css" integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B"
+    crossorigin="anonymous">
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,200i,300,300i,400,400i,600,600i,700,700i,900,900i"
+    rel="stylesheet">
+
+  <title>WandX-Token Baskets</title>
+  <style type="text/css">
+    /* Extra small devices (phones, 600px and down) */
+    @media only screen and (min-width: 991px) {
+      .navbar-mobile_back {
+        background-color: rgba(124, 43, 87, 0) ! important;
+        z-index: 999;
       }
-      @media only screen and (max-width: 990px) {
-          .navbar-mobile_back 
-          {
-              background-color: #501b6154 ! important;
-              z-index: 999;
-          }
+    }
+
+    @media only screen and (max-width: 990px) {
+      .navbar-mobile_back {
+        background-color: #501b6154 ! important;
+        z-index: 999;
       }
+    }
+
     @media (max-width: 1170px) {
-    .h2{
+      .h2 {
         line-height: 60px;
       }
     }
-    @media (min-width:1024px){
-      h1.display-4{
+
+    @media (min-width:1024px) {
+      h1.display-4 {
         font-size: 55px;
         font-weight: 200;
         line-height: 69px;
       }
-      p.lead{
+
+      p.lead {
         font-size: 30px;
         font-weight: 200;
       }
     }
+
     @media (max-width: 1024px) {
-      h1.display-4{
+      h1.display-4 {
         font-size: 35px;
         font-weight: 200;
         line-height: 39px;
       }
-      p.lead{
+
+      p.lead {
         font-size: 20px;
         font-weight: 200;
       }
-   }
-   @media (max-width: 990px){
-      .navbar-brand img{
+    }
+
+    @media (max-width: 990px) {
+      .navbar-brand img {
         width: 45px;
         margin-left: 20px;
       }
     }
-      @media (min-width: 990px){
-      .navbar-brand img{
+
+    @media (min-width: 990px) {
+      .navbar-brand img {
         width: 45px;
         margin-left: 45px;
       }
     }
-    </style>
-  </head>
-  <body>
-    <nav class="navbar-mobile_back navbar navbar-expand-lg navbar-light bg-light">
-      <a class="navbar-brand" href="index.html"><img src="img/logoheader.png"></a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-        <!-- <div class="navbar-nav">
+  </style>
+</head>
+
+<body>
+  <nav class="navbar-mobile_back navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="index.html"><img src="img/logoheader.png"></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup"
+      aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+      <!-- <div class="navbar-nav">
           <a class="nav-item nav-link" href="#" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;letter-spacing: 5.69px;margin: 15px;">Dashboard</a>
           <a class="nav-item nav-link" href="#" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;letter-spacing: 5.69px;margin: 15px;">Basket</a>
           <a class="nav-item nav-link" href="https://exchange.wandx.co/" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;letter-spacing: 5.69px;margin: 15px;">Exchange</a>
           <a class="nav-item nav-link" href="#" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;letter-spacing: 5.69px;margin: 15px;">Wallet</a>
         </div> -->
-        <div class="navbar-nav ml-md-auto d-md-flex">
-          <a class="nav-item nav-link" href="index.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;margin: 15px;">Home</a>
-          <a class="nav-item nav-link" href="team.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;margin: 15px;">About</a>
-          <a class="nav-item nav-link" href="https://blog.wandx.co/" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;margin: 15px;">Blog</a>
-          <a class="nav-item nav-link" href="https://exchange.wandx.co/" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;margin: 15px;">Exchange</a>
-          <a class="nav-item nav-link" href="baskets.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;margin: 15px;">Basket Protocol</a>
-          <div class="nav-item dropdown">
+      <div class="navbar-nav ml-md-auto d-md-flex">
+        <a class="nav-item nav-link" href="index.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;margin: 15px;">Home</a>
+        <a class="nav-item nav-link" href="team.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;margin: 15px;">About</a>
+        <a class="nav-item nav-link" href="https://blog.wandx.co/" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;margin: 15px;">Blog</a>
+        <a class="nav-item nav-link" href="https://exchange.wandx.co/" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;margin: 15px;">Exchange</a>
+        <a class="nav-item nav-link" href="baskets.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;margin: 15px;">Basket
+          Protocol</a>
+        <!-- <div class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;margin: 15px;">
               Airdrop
             </a>
@@ -108,149 +119,158 @@
               <a class="dropdown-item" href="http://www.wandx.co/airdrop.html" target="_blank">Airdrop Details</a>
               <a class="dropdown-item" href="https://neoairdrop.wandx.co/" target="_blank">Airdrop 1:1</a>
             </div>
-          </div>
-          <br>
-          <br>
-          <br>
-          <!-- <a class="nav-item nav-link" href="http://www.wandx.co/airdrop.html" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;margin: 15px;">Airdrop</a> -->
-          <!-- <a class="nav-item nav-link" href="#" style="color: white;border-color: white;border-radius: 37px;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;margin: 15px;border: 1px solid white;padding: .375rem .75rem;text-align: center;">Download DAAP</a> -->
-        </div>
-      </div>
-    </nav>
-    <div class="container" style="background-image: linear-gradient(#510C67, #360047);max-width: 100%;text-align: center;padding-top: 20px;background-repeat: no-repeat;background-size: cover;/*height: 600px;*/margin-top: -85px;margin-bottom: 50px;">
-      <div class="row" style="max-height: 100%;">
-        <div class="col-xs-8 col-sm-8 col-md-6 col-lg-6 col-xl-6" style="margin: auto;margin-top: 70px;">
-          <!-- <img src="img/Wandx_logo_top.png" alt="Wandx logo" style="max-width: 80%;margin-top: 150px;"> -->
-        </div>
+          </div> -->
+        <br>
+        <br>
+        <br>
+        <!-- <a class="nav-item nav-link" href="http://www.wandx.co/airdrop.html" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;margin: 15px;">Airdrop</a> -->
+        <!-- <a class="nav-item nav-link" href="#" style="color: white;border-color: white;border-radius: 37px;font-family: 'Source Sans Pro', sans-serif;font-size: 16px;font-weight: 400;line-height: 20px;margin: 15px;border: 1px solid white;padding: .375rem .75rem;text-align: center;">Download DAAP</a> -->
       </div>
     </div>
+  </nav>
+  <div class="container" style="background-image: linear-gradient(#510C67, #360047);max-width: 100%;text-align: center;padding-top: 20px;background-repeat: no-repeat;background-size: cover;/*height: 600px;*/margin-top: -85px;margin-bottom: 50px;">
+    <div class="row" style="max-height: 100%;">
+      <div class="col-xs-8 col-sm-8 col-md-6 col-lg-6 col-xl-6" style="margin: auto;margin-top: 70px;">
+        <!-- <img src="img/Wandx_logo_top.png" alt="Wandx logo" style="max-width: 80%;margin-top: 150px;"> -->
+      </div>
+    </div>
+  </div>
 
-    <div class="container mb-5">
-      <div class="container mb-3">
-        <img src="img/purple_logo.png" style="width: 30%;">
-      </div>
-      <div class="col mb-5">
-        <h1 class="display-4" style="font-family:'Source Sans Pro', sans-serif;">Submit a token listing request</h1>
-      </div>
-      <form action="https://wandx.us12.list-manage.com/subscribe/post?u=8220627e41db50defd95c2037&amp;id=cfa5865ea3" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-        <div id="mc_embed_signup_scroll">
+  <div class="container mb-5">
+    <div class="container mb-3">
+      <img src="img/purple_logo.png" style="width: 30%;">
+    </div>
+    <div class="col mb-5">
+      <h1 class="display-4" style="font-family:'Source Sans Pro', sans-serif;">Submit a token listing request</h1>
+    </div>
+    <form action="https://wandx.us12.list-manage.com/subscribe/post?u=8220627e41db50defd95c2037&amp;id=cfa5865ea3"
+      method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank"
+      novalidate>
+      <div id="mc_embed_signup_scroll">
+        <div class="form-group col-md-6 mc-field-group">
+          <label for="mce-FNAME">Contact Name</label>
+          <input type="name" name="FNAME" class="form-control" id="mce-FNAME" aria-describedby="emailHelp" placeholder="Contact Name">
+          <small id="emailHelp" class="form-text text-muted">Name of Organization Contact</small>
+        </div>
+        <div class="form-group col-md-6 mc-field-group">
+          <label for="mce-EMAIL">E-Mail Address</label>
+          <input type="email" class="form-control" name="EMAIL" id="mce-EMAIL" placeholder="E-Mail Address">
+          <small id="emailHelp" class="form-text text-muted">E-mail for a company representative who will be
+            responsible for listing coordination.</small>
+        </div>
+        <div class="form-group col-md-8 mc-field-group">
+          <label for="mce-ONAME">Organization Name</label>
+          <input type="name" class="form-control" name="ONAME" id="mce-ONAME" placeholder="Organization Name">
+          <small id="emailHelp" class="form-text text-muted">Name of organization responsible for token.</small>
+        </div>
+        <div class="form-group col-md-4 mc-field-group">
+          <label for="mce-MMERGE5">Organization Website</label>
+          <input type="name" class="form-control" name="MMERGE5" id="mce-MMERGE5" placeholder="Organization Website">
+          <small id="emailHelp" class="form-text text-muted">Website</small>
+        </div>
+        <div class="form-row col">
           <div class="form-group col-md-6 mc-field-group">
-            <label for="mce-FNAME">Contact Name</label>
-            <input type="name" name="FNAME" class="form-control" id="mce-FNAME" aria-describedby="emailHelp" placeholder="Contact Name">
-            <small id="emailHelp" class="form-text text-muted">Name of Organization Contact</small>
-          </div>
-          <div class="form-group col-md-6 mc-field-group">
-            <label for="mce-EMAIL">E-Mail Address</label>
-            <input type="email" class="form-control" name="EMAIL" id="mce-EMAIL" placeholder="E-Mail Address">
-            <small id="emailHelp" class="form-text text-muted">E-mail for a company representative who will be responsible for listing coordination.</small>
-          </div>
-          <div class="form-group col-md-8 mc-field-group">
-            <label for="mce-ONAME">Organization Name</label>
-            <input type="name" class="form-control" name="ONAME" id="mce-ONAME" placeholder="Organization Name">
-            <small id="emailHelp" class="form-text text-muted">Name of organization responsible for token.</small>
+            <label for="mce-MMERGE6">Token Symbol</label>
+            <input type="text" class="form-control" name="MMERGE6" id="mce-MMERGE6" placeholder="Token Symbol">
           </div>
           <div class="form-group col-md-4 mc-field-group">
-            <label for="mce-MMERGE5">Organization Website</label>
-            <input type="name" class="form-control" name="MMERGE5" id="mce-MMERGE5" placeholder="Organization Website">
-            <small id="emailHelp" class="form-text text-muted">Website</small>
-          </div>
-          <div class="form-row col">
-            <div class="form-group col-md-6 mc-field-group">
-              <label for="mce-MMERGE6">Token Symbol</label>
-              <input type="text" class="form-control" name="MMERGE6" id="mce-MMERGE6" placeholder="Token Symbol">
-            </div>
-            <div class="form-group col-md-4 mc-field-group">
-              <label for="mce-MMERGE7">Blockchain</label>
-              <select id="mce-MMERGE7" name="MMERGE7" class="form-control">
-                <option selected>Choose...</option>
-                <option>Ethereum</option>
-                <option>NEO</option>
-              </select>
-            </div>
-            <div class="form-group col-md-2 mc-field-group">
-              <label for="mce-MMERGE8">Decimals</label>
-              <input type="text" class="form-control" name="MMERGE8" id="mce-MMERGE8" placeholder="Decimals">
-            </div>
-          </div>
-          <div class="form-group col-md-6 mc-field-group">
-            <label for="mce-MMERGE9">Token Address</label>
-            <input type="name" class="form-control" name="MMERGE9" id="mce-MMERGE9" placeholder="Token Address">
-            <small id="emailHelp" class="form-text text-muted">Please enter the address for the token.</small>
-          </div>
-          <div class="form-group col-md-6 mc-field-group">
-            <label for="mce-MMERGE3">Is your digital asset classified as a security in the United Sates of America or some other jurisdiction?</label>
-            <select id="mce-MMERGE3" name="MMERGE3" class="form-control">
+            <label for="mce-MMERGE7">Blockchain</label>
+            <select id="mce-MMERGE7" name="MMERGE7" class="form-control">
               <option selected>Choose...</option>
-              <option>Yes, it is a security</option>
-              <option>No, it is not a security, and I will upload a legal opinion to that effect</option>
+              <option>Ethereum</option>
+              <option>NEO</option>
             </select>
           </div>
-          <!-- <div class="form-group col-md-6 mc-field-group">
+          <div class="form-group col-md-2 mc-field-group">
+            <label for="mce-MMERGE8">Decimals</label>
+            <input type="text" class="form-control" name="MMERGE8" id="mce-MMERGE8" placeholder="Decimals">
+          </div>
+        </div>
+        <div class="form-group col-md-6 mc-field-group">
+          <label for="mce-MMERGE9">Token Address</label>
+          <input type="name" class="form-control" name="MMERGE9" id="mce-MMERGE9" placeholder="Token Address">
+          <small id="emailHelp" class="form-text text-muted">Please enter the address for the token.</small>
+        </div>
+        <div class="form-group col-md-6 mc-field-group">
+          <label for="mce-MMERGE3">Is your digital asset classified as a security in the United Sates of America or
+            some other jurisdiction?</label>
+          <select id="mce-MMERGE3" name="MMERGE3" class="form-control">
+            <option selected>Choose...</option>
+            <option>Yes, it is a security</option>
+            <option>No, it is not a security, and I will upload a legal opinion to that effect</option>
+          </select>
+        </div>
+        <!-- <div class="form-group col-md-6 mc-field-group">
             <label for="mce-MMERGE5">Please upload a legal opinion (PDF) stating that the asset is not a security or a document to that effect.</label>
             <input type="file" class="form-control-file" id="mce-MMERGE5">
           </div> -->
-          <div class="form-group col-md-6 mc-field-group">
-            <label for="mce-MMERGE4">Where is the founding team located?</label>
-            <input type="name" class="form-control" name="MMERGE4" id="mce-MMERGE4" placeholder="Eg: Singapore">
-            <!-- <small id="emailHelp" class="form-text text-muted">Please enter the address for the token.</small> -->
-          </div>
-          <div class="form-group col-md-6 mc-field-group">
-            <label for="mce-MMERGE10">Where country is your project incorporatedin?</label>
-            <input type="name" class="form-control" name="MMERGE10" id="mce-MMERGE10" placeholder="Eg: Singapore">
-            <!-- <small id="emailHelp" class="form-text text-muted">Please enter the address for the token.</small> -->
-          </div>
-          <div class="form-group col-md-6 mc-field-group">
-            <label for="mce-MMERGE11">Social media profiles of the founding team (Ideally just Linkedin will suffice)</label>
-            <input type="name" class="form-control" name="MMERGE11" id="mce-MMERGE11" placeholder="Eg: https://www.linkedin.com/member">
-            <!-- <small id="emailHelp" class="form-text text-muted">Please enter the address for the token.</small> -->
-          </div>
-          <div class="form-group col-md-6 mc-field-group">
-            <label for="mce-MMERGE12">Social media links for for Project</label>
-            <textarea type="name" class="form-control" name="MMERGE12" id="mce-MMERGE12" placeholder="Eg: https://www.linkedin.com/project" rows="3"></textarea>
-            <!-- <small id="emailHelp" class="form-text text-muted">Please enter the address for the token.</small> -->
-          </div>
-          <div class="form-group col-md-6 mc-field-group">
-            <label for="mce-MMERGE13">Token vesting for the Team and advisors (If any)?</label>
-            <input type="name" class="form-control" name="MMERGE13" id="mce-MMERGE13" placeholder="Eg: 6 months">
-            <!-- <small id="emailHelp" class="form-text text-muted">Please enter the address for the token.</small> -->
-          </div>
-          <div class="form-group col-md-6 mc-field-group">
-            <label for="mce-MMERGE14">Briefly Describe the Project</label>
-            <textarea type="name" class="form-control" name="MMERGE14" id="mce-MMERGE14" placeholder="Eg: General information about your project" rows="3"></textarea>
-            <small id="emailHelp" class="form-text text-muted">Brief description about your project.</small>
-          </div>
-          <div id="mce-responses" class="clear">
-            <div class="response" id="mce-error-response" style="display:none"></div>
-            <div class="response" id="mce-success-response" style="display:none"></div>
-          </div><!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-          <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_8220627e41db50defd95c2037_cfa5865ea3" tabindex="-1" value=""></div>
-          <div class="col">
-            <!-- <button type="submit" class="btn btn-primary">Submit</button> -->
-            <!-- <button type="button" class="btn btn-small" style="background-color: #733a86;color: white;" onclick="window.location.href='https://blog.wandx.co/'">Submit</button> -->
-            <button type="submit" class="btn btn-small" name="subscribe" id="mc-embedded-subscribe" style="background-color: #3b024d;border-color: #3b024d;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 600;padding-left: 50px;padding-right: 50px;line-height: 50px;color: white;">Submit</button>
-          </div>
+        <div class="form-group col-md-6 mc-field-group">
+          <label for="mce-MMERGE4">Where is the founding team located?</label>
+          <input type="name" class="form-control" name="MMERGE4" id="mce-MMERGE4" placeholder="Eg: Singapore">
+          <!-- <small id="emailHelp" class="form-text text-muted">Please enter the address for the token.</small> -->
         </div>
-      </form>
-    </div>
-    <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[1]='FNAME';ftypes[1]='text';fnames[0]='EMAIL';ftypes[0]='email';fnames[2]='ONAME';ftypes[2]='text';fnames[5]='MMERGE5';ftypes[5]='text';fnames[6]='MMERGE6';ftypes[6]='text';fnames[7]='MMERGE7';ftypes[7]='dropdown';fnames[8]='MMERGE8';ftypes[8]='text';fnames[9]='MMERGE9';ftypes[9]='text';fnames[3]='MMERGE3';ftypes[3]='dropdown';fnames[4]='MMERGE4';ftypes[4]='text';fnames[10]='MMERGE10';ftypes[10]='text';fnames[11]='MMERGE11';ftypes[11]='text';fnames[12]='MMERGE12';ftypes[12]='text';fnames[13]='MMERGE13';ftypes[13]='text';fnames[14]='MMERGE14';ftypes[14]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
-
-    <div style="width: 100%;height: 20px;background: #F5F6FA;"></div>
-
-    <div class="container">
-      <div class="col mb-3">
-        <h1 class="display-4" style="font-family:'Source Sans Pro', sans-serif;">Listing Requirements and Information</h1>
+        <div class="form-group col-md-6 mc-field-group">
+          <label for="mce-MMERGE10">Where country is your project incorporatedin?</label>
+          <input type="name" class="form-control" name="MMERGE10" id="mce-MMERGE10" placeholder="Eg: Singapore">
+          <!-- <small id="emailHelp" class="form-text text-muted">Please enter the address for the token.</small> -->
+        </div>
+        <div class="form-group col-md-6 mc-field-group">
+          <label for="mce-MMERGE11">Social media profiles of the founding team (Ideally just Linkedin will suffice)</label>
+          <input type="name" class="form-control" name="MMERGE11" id="mce-MMERGE11" placeholder="Eg: https://www.linkedin.com/member">
+          <!-- <small id="emailHelp" class="form-text text-muted">Please enter the address for the token.</small> -->
+        </div>
+        <div class="form-group col-md-6 mc-field-group">
+          <label for="mce-MMERGE12">Social media links for for Project</label>
+          <textarea type="name" class="form-control" name="MMERGE12" id="mce-MMERGE12" placeholder="Eg: https://www.linkedin.com/project"
+            rows="3"></textarea>
+          <!-- <small id="emailHelp" class="form-text text-muted">Please enter the address for the token.</small> -->
+        </div>
+        <div class="form-group col-md-6 mc-field-group">
+          <label for="mce-MMERGE13">Token vesting for the Team and advisors (If any)?</label>
+          <input type="name" class="form-control" name="MMERGE13" id="mce-MMERGE13" placeholder="Eg: 6 months">
+          <!-- <small id="emailHelp" class="form-text text-muted">Please enter the address for the token.</small> -->
+        </div>
+        <div class="form-group col-md-6 mc-field-group">
+          <label for="mce-MMERGE14">Briefly Describe the Project</label>
+          <textarea type="name" class="form-control" name="MMERGE14" id="mce-MMERGE14" placeholder="Eg: General information about your project"
+            rows="3"></textarea>
+          <small id="emailHelp" class="form-text text-muted">Brief description about your project.</small>
+        </div>
+        <div id="mce-responses" class="clear">
+          <div class="response" id="mce-error-response" style="display:none"></div>
+          <div class="response" id="mce-success-response" style="display:none"></div>
+        </div><!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+        <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_8220627e41db50defd95c2037_cfa5865ea3"
+            tabindex="-1" value=""></div>
+        <div class="col">
+          <!-- <button type="submit" class="btn btn-primary">Submit</button> -->
+          <!-- <button type="button" class="btn btn-small" style="background-color: #733a86;color: white;" onclick="window.location.href='https://blog.wandx.co/'">Submit</button> -->
+          <button type="submit" class="btn btn-small" name="subscribe" id="mc-embedded-subscribe" style="background-color: #3b024d;border-color: #3b024d;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 600;padding-left: 50px;padding-right: 50px;line-height: 50px;color: white;">Submit</button>
+        </div>
       </div>
-      <ul style="list-style: decimal;">
-        <li>Please provide accurate information on the token that is to be listed.</li>
-        <li>Security tokens will not be listed on the platform.</li>
-        <li>Token listing is based on the decision made by the WandX team and is final.</li>
-        <li>Tokens can be de-listed for a number of reasons, and the community will be informed before such an action is taken.</li>
-        <li>Presently, only NEP5 and ERC20 tokens can be listed on WandX.</li>
-        <li>If you have any further questions, please connect with <a href="#"><span class="__cf_email__" data-cfemail="afc2ceddc4cadbc6c1c8efd8cec1cbd781ccc0">[email&#160;protected]</span></a>.</li>
-      </ul>
-    </div>
+    </form>
+  </div>
+  <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
+  <script type='text/javascript'>(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[2] = 'ONAME'; ftypes[2] = 'text'; fnames[5] = 'MMERGE5'; ftypes[5] = 'text'; fnames[6] = 'MMERGE6'; ftypes[6] = 'text'; fnames[7] = 'MMERGE7'; ftypes[7] = 'dropdown'; fnames[8] = 'MMERGE8'; ftypes[8] = 'text'; fnames[9] = 'MMERGE9'; ftypes[9] = 'text'; fnames[3] = 'MMERGE3'; ftypes[3] = 'dropdown'; fnames[4] = 'MMERGE4'; ftypes[4] = 'text'; fnames[10] = 'MMERGE10'; ftypes[10] = 'text'; fnames[11] = 'MMERGE11'; ftypes[11] = 'text'; fnames[12] = 'MMERGE12'; ftypes[12] = 'text'; fnames[13] = 'MMERGE13'; ftypes[13] = 'text'; fnames[14] = 'MMERGE14'; ftypes[14] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);</script>
 
-    <!-- <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center" style="margin-top: 50px;">
+  <div style="width: 100%;height: 20px;background: #F5F6FA;"></div>
+
+  <div class="container">
+    <div class="col mb-3">
+      <h1 class="display-4" style="font-family:'Source Sans Pro', sans-serif;">Listing Requirements and Information</h1>
+    </div>
+    <ul style="list-style: decimal;">
+      <li>Please provide accurate information on the token that is to be listed.</li>
+      <li>Security tokens will not be listed on the platform.</li>
+      <li>Token listing is based on the decision made by the WandX team and is final.</li>
+      <li>Tokens can be de-listed for a number of reasons, and the community will be informed before such an action is
+        taken.</li>
+      <li>Presently, only NEP5 and ERC20 tokens can be listed on WandX.</li>
+      <li>If you have any further questions, please connect with <a href="#"><span class="__cf_email__" data-cfemail="afc2ceddc4cadbc6c1c8efd8cec1cbd781ccc0">[email&#160;protected]</span></a>.</li>
+    </ul>
+  </div>
+
+  <!-- <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center" style="margin-top: 50px;">
       <img src="img/Wandx_logo_top.png" alt="Wandx logo" style="max-width: 80%;">
       <h1 class="display-4" style="font-family:'Source Sans Pro', sans-serif;font-size: 55px;font-weight: 200;line-height: 69px;">Submit a token listing request</h1>
       <p class="lead" style="font-family: 'Source Sans Pro', sans-serif;font-size: 24px;font-weight: 200;line-height: 31px;">WandX is a permissionless protocol that allows users to create and trade<br>in a composite ‘basket’ made up of different tokens - ERC20 or NEP5, the creating and trade enabled by smart contracts.</p>
@@ -263,11 +283,11 @@
     </div> -->
 
 
-    <!-- <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center" style="margin-bottom: 50px;">
+  <!-- <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center" style="margin-bottom: 50px;">
       <h1 class="display-4" style="font-family: 'Source Sans Pro', sans-serif;font-size: 55px;font-weight: 200;line-height: 69px;">Themed Token Baskets on WandX</h1>
     </div> -->
 
-    <!-- <div class="container" style="margin-bottom: 50px;">
+  <!-- <div class="container" style="margin-bottom: 50px;">
       <div class="card-deck">
         <div class="card">
           <div class="card-body">
@@ -291,36 +311,39 @@
     </div> -->
 
 
-    <footer class="container py-5" style="max-width: 100%;background-color: #380149;">
-      <div class="row" style="margin-left: 35px;margin-right: 35px;">
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-2 col-xl-2 mb-5">
-          <a href="index.html"><img src="img/Wandx_logo_top.png" style="width: 80%;"></a>
-        </div>
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
-          <div class="row">
-            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-3 col-xl-3">
-              <ul class="list-unstyled text-small">
-                <li style="margin-left: 10px;margin-right: 10px;"><a href="team.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 15px;font-weight: 300;text-decoration: none;">About</a></li>
-                <li style="margin-left: 10px;margin-right: 10px;"><a href="https://blog.wandx.co/" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 15px;font-weight: 300;text-decoration: none;">Blog</a></li>
-                <li style="margin-left: 10px;margin-right: 10px;"><a href="#" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 15px;font-weight: 300;text-decoration: none;">Contact</a></li>
-              </ul>
-            </div>
-            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-3 col-xl-3">
-              <ul class="list-unstyled text-small">
-                <li style="margin-left: 10px;margin-right: 10px;"><a href="whitepaper.html" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 15px;font-weight: 300;text-decoration: none;">Whitepaper</a></li>
-                <li style="margin-left: 10px;margin-right: 10px;"><a href="tokenslisted.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 15px;font-weight: 300;text-decoration: none;">Listed Tokens</a></li>
-                <li style="margin-left: 10px;margin-right: 10px;"><a href="#" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 15px;font-weight: 300;text-decoration: none;">API</a></li>
-              </ul>
-            </div>
-            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-3 col-xl-3">
-              <ul class="list-unstyled text-small">
-                <li style="margin-left: 10px;margin-right: 10px;"><a href="fees.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 15px;font-weight: 300;text-decoration: none;">Fees</a></li>
-                <li style="margin-left: 10px;margin-right: 10px;"><a href="privacy.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 15px;font-weight: 300;text-decoration: none;">Privacy Policy</a></li>
-                <li style="margin-left: 10px;margin-right: 10px;"><a href="termsofuse.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 15px;font-weight: 300;text-decoration: none;">Terms of Use</a></li>
-              </ul>
-            </div>
+  <footer class="container py-5" style="max-width: 100%;background-color: #380149;">
+    <div class="row" style="margin-left: 35px;margin-right: 35px;">
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-2 col-xl-2 mb-5">
+        <a href="index.html"><img src="img/Wandx_logo_top.png" style="width: 80%;"></a>
+      </div>
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
+        <div class="row">
+          <div class="col-xs-12 col-sm-12 col-md-12 col-lg-3 col-xl-3">
+            <ul class="list-unstyled text-small">
+              <li style="margin-left: 10px;margin-right: 10px;"><a href="team.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 15px;font-weight: 300;text-decoration: none;">About</a></li>
+              <li style="margin-left: 10px;margin-right: 10px;"><a href="https://blog.wandx.co/" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 15px;font-weight: 300;text-decoration: none;">Blog</a></li>
+              <li style="margin-left: 10px;margin-right: 10px;"><a href="#" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 15px;font-weight: 300;text-decoration: none;">Contact</a></li>
+            </ul>
           </div>
-          <!-- <ul class="row list-unstyled text-small">
+          <div class="col-xs-12 col-sm-12 col-md-12 col-lg-3 col-xl-3">
+            <ul class="list-unstyled text-small">
+              <li style="margin-left: 10px;margin-right: 10px;"><a href="whitepaper.html" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 15px;font-weight: 300;text-decoration: none;">Whitepaper</a></li>
+              <li style="margin-left: 10px;margin-right: 10px;"><a href="tokenslisted.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 15px;font-weight: 300;text-decoration: none;">Listed
+                  Tokens</a></li>
+              <li style="margin-left: 10px;margin-right: 10px;"><a href="#" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 15px;font-weight: 300;text-decoration: none;">API</a></li>
+            </ul>
+          </div>
+          <div class="col-xs-12 col-sm-12 col-md-12 col-lg-3 col-xl-3">
+            <ul class="list-unstyled text-small">
+              <li style="margin-left: 10px;margin-right: 10px;"><a href="fees.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 15px;font-weight: 300;text-decoration: none;">Fees</a></li>
+              <li style="margin-left: 10px;margin-right: 10px;"><a href="privacy.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 15px;font-weight: 300;text-decoration: none;">Privacy
+                  Policy</a></li>
+              <li style="margin-left: 10px;margin-right: 10px;"><a href="termsofuse.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 15px;font-weight: 300;text-decoration: none;">Terms
+                  of Use</a></li>
+            </ul>
+          </div>
+        </div>
+        <!-- <ul class="row list-unstyled text-small">
             <li style="margin-left: 10px;margin-right: 10px;"><a href="team.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;">About</a></li>
             <li style="margin-left: 10px;margin-right: 10px;"><a href="whitepaper.html" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;">Whitepaper</a></li>
             <li style="margin-left: 10px;margin-right: 10px;"><a href="tokenslisted.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;">Listed Tokens</a></li>
@@ -330,76 +353,94 @@
             <li style="margin-left: 10px;margin-right: 10px;"><a href="https://github.com/WandXDapp" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;">Smart Contracts</a></li>
             <li style="margin-left: 10px;margin-right: 10px;"><a href="fees.html" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px;text-decoration: none;">Fees</a></li>
           </ul> -->
-          <small class="d-block mb-3" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 15px;font-weight: 300;line-height: 40px">© 2017-2018 WandX All Rights Reserved</small>
-        </div>
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-3 col-xl-3">
-          <h1 style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 15px;font-weight: 300;">Subscribe to our Newsletter</h1>
-          <div class="input-group mb-3" style="width: 80%;">
-            <!-- Begin MailChimp Signup Form -->
-            <div id="mc_embed_signup" style="background: #fff0;width: 100%">
-              <form action="https://wandx.us12.list-manage.com/subscribe/post?u=8220627e41db50defd95c2037&amp;id=11542aa96a" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-                  <div id="mc_embed_signup_scroll" class="input-group mb-3" style="font-size: 20px;">
-                    <!-- <div class="col-md-9"> -->
-                      <input type="email" value="" name="EMAIL" class="form-control email" id="mce-EMAIL" placeholder="E-mail Address" required>
-                    <!-- </div> -->
-                    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-                    <div style="position: absolute; left: -5000px;" aria-hidden="true">
-                      <input type="text" name="b_8220627e41db50defd95c2037_0b20bd9983" tabindex="-1" value="">
-                    </div>
-                    <div class="input-group-append">
-                      <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button btn btn-outline-secondary" style="border: 0px;background: #36c51f;color: white;">
-                    </div>
-                  </div>
-              </form>
-            </div>
-            <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+        <small class="d-block mb-3" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 15px;font-weight: 300;line-height: 40px">©
+          2017-2018 WandX All Rights Reserved</small>
+      </div>
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-3 col-xl-3">
+        <h1 style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 15px;font-weight: 300;">Subscribe
+          to our Newsletter</h1>
+        <div class="input-group mb-3" style="width: 80%;">
+          <!-- Begin MailChimp Signup Form -->
+          <div id="mc_embed_signup" style="background: #fff0;width: 100%">
+            <form action="https://wandx.us12.list-manage.com/subscribe/post?u=8220627e41db50defd95c2037&amp;id=11542aa96a"
+              method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank"
+              novalidate>
+              <div id="mc_embed_signup_scroll" class="input-group mb-3" style="font-size: 20px;">
+                <!-- <div class="col-md-9"> -->
+                <input type="email" value="" name="EMAIL" class="form-control email" id="mce-EMAIL" placeholder="E-mail Address"
+                  required>
+                <!-- </div> -->
+                <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                <div style="position: absolute; left: -5000px;" aria-hidden="true">
+                  <input type="text" name="b_8220627e41db50defd95c2037_0b20bd9983" tabindex="-1" value="">
+                </div>
+                <div class="input-group-append">
+                  <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button btn btn-outline-secondary"
+                    style="border: 0px;background: #36c51f;color: white;">
+                </div>
+              </div>
+            </form>
+          </div>
+          <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+          <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
+          <script type='text/javascript'>(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; }(jQuery)); var $mcj = jQuery.noConflict(true);</script>
 
-            <!--End mc_embed_signup-->
-            <!-- <input type="text" class="form-control" placeholder="Email Address" aria-label="Recipient's username" aria-describedby="button-addon2">
+          <!--End mc_embed_signup-->
+          <!-- <input type="text" class="form-control" placeholder="Email Address" aria-label="Recipient's username" aria-describedby="button-addon2">
             <div class="input-group-append">
               <button class="btn btn-outline-secondary" type="button" id="button-addon2" style="border: 0px;background: #36c51f;color: white;">Subscribe</button>
             </div> -->
-          </div>
-          <div id="mce-responses" class="clear">
-            <div class="response" id="mce-error-response" style="display:none"></div>
-            <div class="response" id="mce-success-response" style="display:none"></div>
-          </div>
         </div>
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-3 col-xl-3" style="margin-top: -10px;">
-          <ul class="row list-unstyled text-small">
-            <li style="margin: 10px;">
-              <a href="https://t.me/wandxapp" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px"><img src="img/telegram.png" style="width: 30px;"></a>
-            </li>
-            <li style="margin: 10px;">
-              <a href="https://twitter.com/WandXDapp" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px"><img src="img/twitter.png" style="width: 30px;"></a>
-            </li>
-            <li style="margin: 10px;">  
-              <a href="https://blog.wandx.co/" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px"><img src="img/medium.png" style="width: 30px;"></a>
-            </li>
-            <li style="margin: 10px;">
-              <a href="https://www.linkedin.com/company/wandx/" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px"><img src="img/linkedin_1.png" style="width: 30px;"></a>
-            </li>
-            <!-- <li style="margin: 10px;">
-              <a href="https://www.instagram.com/wandx.co/" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px"><img src="img/Layer 2.png" style="width: 50px;"></a>
-            </li> -->
-            <li style="margin: 10px;">
-              <a href="https://www.facebook.com/wandx.co/" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px"><img src="img/facebook.png" style="width: 30px;"></a>
-            </li>
-              <!-- <a href="#" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px"><img src="img/Layer 4.png" style="width: 50px;"></a> -->
-            <li style="margin: 10px;">  
-              <a href="https://github.com/WandXDapp" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px"><img src="img/github.png" style="width: 30px;"></a>
-            </li>
-            
-            
-          </ul>
+        <div id="mce-responses" class="clear">
+          <div class="response" id="mce-error-response" style="display:none"></div>
+          <div class="response" id="mce-success-response" style="display:none"></div>
         </div>
       </div>
-    </footer>
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-3 col-xl-3" style="margin-top: -10px;">
+        <ul class="row list-unstyled text-small">
+          <li style="margin: 10px;">
+            <a href="https://t.me/wandxapp" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px"><img
+                src="img/telegram.png" style="width: 30px;"></a>
+          </li>
+          <li style="margin: 10px;">
+            <a href="https://twitter.com/WandXDapp" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px"><img
+                src="img/twitter.png" style="width: 30px;"></a>
+          </li>
+          <li style="margin: 10px;">
+            <a href="https://blog.wandx.co/" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px"><img
+                src="img/medium.png" style="width: 30px;"></a>
+          </li>
+          <li style="margin: 10px;">
+            <a href="https://www.linkedin.com/company/wandx/" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px"><img
+                src="img/linkedin_1.png" style="width: 30px;"></a>
+          </li>
+          <!-- <li style="margin: 10px;">
+              <a href="https://www.instagram.com/wandx.co/" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px"><img src="img/Layer 2.png" style="width: 50px;"></a>
+            </li> -->
+          <li style="margin: 10px;">
+            <a href="https://www.facebook.com/wandx.co/" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px"><img
+                src="img/facebook.png" style="width: 30px;"></a>
+          </li>
+          <!-- <a href="#" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px"><img src="img/Layer 4.png" style="width: 50px;"></a> -->
+          <li style="margin: 10px;">
+            <a href="https://github.com/WandXDapp" target="_blank" style="color: white;font-family: 'Source Sans Pro', sans-serif;font-size: 20px;font-weight: 300;line-height: 40px"><img
+                src="img/github.png" style="width: 30px;"></a>
+          </li>
 
-    <!-- Optional JavaScript -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/js/bootstrap.min.js" integrity="sha384-o+RDsa0aLu++PJvFqy8fFScvbHFLtbvScb8AjopnFD+iEQ7wo/CG0xlczd+2O/em" crossorigin="anonymous"></script>
-  </body>
+
+        </ul>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Optional JavaScript -->
+  <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+    crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+    crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/js/bootstrap.min.js" integrity="sha384-o+RDsa0aLu++PJvFqy8fFScvbHFLtbvScb8AjopnFD+iEQ7wo/CG0xlczd+2O/em"
+    crossorigin="anonymous"></script>
+</body>
+
 </html>
