@@ -1,0 +1,713 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<title>Saahas Dashboard MRF</title>
+
+	<!-- Global stylesheets -->
+	<link href="https://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700,900" rel="stylesheet" type="text/css">
+	<link href="../../../../global_assets/css/icons/icomoon/styles.css" rel="stylesheet" type="text/css">
+	<link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+	<link href="assets/css/bootstrap_limitless.min.css" rel="stylesheet" type="text/css">
+	<link href="assets/css/layout.min.css" rel="stylesheet" type="text/css">
+	<link href="assets/css/components.min.css" rel="stylesheet" type="text/css">
+	<link href="assets/css/colors.min.css" rel="stylesheet" type="text/css">
+	<!-- /global stylesheets -->
+
+	<!-- Core JS files -->
+	<script src="../../../../global_assets/js/main/jquery.min.js"></script>
+	<script src="../../../../global_assets/js/main/bootstrap.bundle.min.js"></script>
+	<script src="../../../../global_assets/js/plugins/loaders/blockui.min.js"></script>
+	<!-- /core JS files -->
+
+	<!-- Theme JS files -->
+	<script src="../../../../global_assets/js/plugins/visualization/d3/d3.min.js"></script>
+	<script src="../../../../global_assets/js/plugins/visualization/d3/d3_tooltip.js"></script>
+	<script src="../../../../global_assets/js/plugins/forms/styling/switchery.min.js"></script>
+	<script src="../../../../global_assets/js/plugins/forms/selects/bootstrap_multiselect.js"></script>
+	<script src="../../../../global_assets/js/plugins/ui/moment/moment.min.js"></script>
+	<script src="../../../../global_assets/js/plugins/pickers/daterangepicker.js"></script>
+
+	<script src="assets/js/app.js"></script>
+	<script src="../../../../global_assets/js/demo_pages/dashboard.js"></script>
+	<!-- /theme JS files -->
+
+</head>
+
+<body>
+
+	<!-- Main navbar -->
+	<div class="navbar navbar-expand-md navbar-dark">
+		<div class="navbar-brand">
+			<a href="index.html" class="d-inline-block">
+				<!-- <img src="../../../../global_assets/images/sahas.png" alt=""> -->
+			</a>
+		</div>
+
+		<div class="d-md-none">
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-mobile">
+				<i class="icon-tree5"></i>
+			</button>
+			<button class="navbar-toggler sidebar-mobile-main-toggle" type="button">
+				<i class="icon-paragraph-justify3"></i>
+			</button>
+		</div>
+
+		<div class="collapse navbar-collapse" id="navbar-mobile">
+			<ul class="navbar-nav">
+				<li class="nav-item">
+					<a href="#" class="navbar-nav-link sidebar-control sidebar-main-toggle d-none d-md-block">
+						<i class="icon-paragraph-justify3"></i>
+					</a>
+				</li>
+			</ul>
+
+			<span class="badge bg-success ml-md-3 mr-md-auto">Online</span>
+
+			<ul class="navbar-nav">
+				<li class="nav-item dropdown">
+					<a href="#" class="navbar-nav-link dropdown-toggle caret-0" data-toggle="dropdown">
+						<i class="icon-bubbles4"></i>
+						<span class="d-md-none ml-2">Notifications</span>
+						<span class="badge badge-pill bg-warning-400 ml-auto ml-md-0">2</span>
+					</a>
+					
+					<div class="dropdown-menu dropdown-menu-right dropdown-content wmin-md-350">
+						<div class="dropdown-content-header">
+							<span class="font-weight-semibold">Notifications</span>
+							<a href="#" class="text-default"><i class="icon-compose"></i></a>
+						</div>
+
+						<div class="dropdown-content-body dropdown-scrollable">
+							<ul class="media-list">
+								<li class="media">
+									<div class="mr-3 position-relative">
+										<img src="../../../../global_assets/images/placeholders/placeholder.jpg" width="36" height="36" class="rounded-circle" alt="">
+									</div>
+
+									<div class="media-body">
+										<div class="media-title">
+											<a href="#">
+												<span class="font-weight-semibold">James Alexander</span>
+												<span class="text-muted float-right font-size-sm">04:58</span>
+											</a>
+										</div>
+
+										<span class="text-muted">who knows, maybe that would be the best thing for me...</span>
+									</div>
+								</li>
+
+								<li class="media">
+									<div class="mr-3 position-relative">
+										<img src="../../../../global_assets/images/placeholders/placeholder.jpg" width="36" height="36" class="rounded-circle" alt="">
+									</div>
+
+									<div class="media-body">
+										<div class="media-title">
+											<a href="#">
+												<span class="font-weight-semibold">Margo Baker</span>
+												<span class="text-muted float-right font-size-sm">12:16</span>
+											</a>
+										</div>
+
+										<span class="text-muted">That was something he was unable to do because...</span>
+									</div>
+								</li>
+
+								<li class="media">
+									<div class="mr-3">
+										<img src="../../../../global_assets/images/placeholders/placeholder.jpg" width="36" height="36" class="rounded-circle" alt="">
+									</div>
+									<div class="media-body">
+										<div class="media-title">
+											<a href="#">
+												<span class="font-weight-semibold">Jeremy Victorino</span>
+												<span class="text-muted float-right font-size-sm">22:48</span>
+											</a>
+										</div>
+
+										<span class="text-muted">But that would be extremely strained and suspicious...</span>
+									</div>
+								</li>
+
+								<li class="media">
+									<div class="mr-3">
+										<img src="../../../../global_assets/images/placeholders/placeholder.jpg" width="36" height="36" class="rounded-circle" alt="">
+									</div>
+									<div class="media-body">
+										<div class="media-title">
+											<a href="#">
+												<span class="font-weight-semibold">Beatrix Diaz</span>
+												<span class="text-muted float-right font-size-sm">Tue</span>
+											</a>
+										</div>
+
+										<span class="text-muted">What a strenuous career it is that I've chosen...</span>
+									</div>
+								</li>
+
+								<li class="media">
+									<div class="mr-3">
+										<img src="../../../../global_assets/images/placeholders/placeholder.jpg" width="36" height="36" class="rounded-circle" alt="">
+									</div>
+									<div class="media-body">
+										<div class="media-title">
+											<a href="#">
+												<span class="font-weight-semibold">Richard Vango</span>
+												<span class="text-muted float-right font-size-sm">Mon</span>
+											</a>
+										</div>
+										
+										<span class="text-muted">Other travelling salesmen live a life of luxury...</span>
+									</div>
+								</li>
+							</ul>
+						</div>
+
+						<div class="dropdown-content-footer justify-content-center p-0">
+							<a href="#" class="bg-light text-grey w-100 py-2" data-popup="tooltip" title="Load more"><i class="icon-menu7 d-block top-0"></i></a>
+						</div>
+					</div>
+				</li>
+
+				<li class="nav-item dropdown dropdown-user">
+					<a href="#" class="navbar-nav-link d-flex align-items-center dropdown-toggle" data-toggle="dropdown">
+						<img src="../../../../global_assets/images/placeholders/placeholder.jpg" class="rounded-circle mr-2" height="34" alt="">
+						<span>Mannat</span>
+					</a>
+
+					<div class="dropdown-menu dropdown-menu-right">
+						<!-- <a href="#" class="dropdown-item"><i class="icon-user-plus"></i> My profile</a>
+						<a href="#" class="dropdown-item"><i class="icon-coins"></i> My balance</a>
+						<a href="#" class="dropdown-item"><i class="icon-comment-discussion"></i> Messages <span class="badge badge-pill bg-blue ml-auto">58</span></a>
+						<div class="dropdown-divider"></div>
+						<a href="#" class="dropdown-item"><i class="icon-cog5"></i> Account settings</a> -->
+						<a href="#" class="dropdown-item"><i class="icon-switch2"></i> Logout</a>
+					</div>
+				</li>
+			</ul>
+		</div>
+	</div>
+	<!-- /main navbar -->
+
+
+	<!-- Page content -->
+	<div class="page-content">
+
+		<!-- Main sidebar -->
+		<div class="sidebar sidebar-dark sidebar-main sidebar-expand-md">
+
+			<!-- Sidebar mobile toggler -->
+			<div class="sidebar-mobile-toggler text-center">
+				<a href="#" class="sidebar-mobile-main-toggle">
+					<i class="icon-arrow-left8"></i>
+				</a>
+				Navigation
+				<a href="#" class="sidebar-mobile-expand">
+					<i class="icon-screen-full"></i>
+					<i class="icon-screen-normal"></i>
+				</a>
+			</div>
+			<!-- /sidebar mobile toggler -->
+
+
+			<!-- Sidebar content -->
+			<div class="sidebar-content">
+
+				<!-- User menu -->
+				<div class="sidebar-user">
+					<div class="card-body">
+						<div class="media">
+							<div class="mr-3">
+								<a href="#"><img src="../../../../global_assets/images/placeholders/placeholder.jpg" width="38" height="38" class="rounded-circle" alt=""></a>
+							</div>
+
+							<div class="media-body">
+								<div class="media-title font-weight-semibold">Mannat</div>
+								<div class="font-size-xs opacity-50">
+									<i class="icon-pin font-size-sm"></i> &nbsp;HSR, MRF
+								</div>
+							</div>
+
+							<!-- <div class="ml-3 align-self-center">
+								<a href="#" class="text-white"><i class="icon-cog3"></i></a>
+							</div> -->
+						</div>
+					</div>
+				</div>
+				<!-- /user menu -->
+
+
+				<!-- Main navigation -->
+				<div class="card card-sidebar-mobile">
+					<ul class="nav nav-sidebar" data-nav-type="accordion">
+
+						<!-- Main -->
+						<li class="nav-item-header"><div class="text-uppercase font-size-xs line-height-xs">Main</div> <i class="icon-menu" title="Main"></i></li>
+						<li class="nav-item">
+							<a href="index.html" class="nav-link">
+								<i class="icon-home4"></i>
+								<span>
+									Dashboard
+									<!-- <span class="d-block font-weight-normal opacity-50">No active orders</span> -->
+								</span>
+							</a>
+						</li>
+						<li class="nav-item">
+							<a href="#" class="nav-link"><i class="icon-people"></i> <span>Profile</span></a>
+						</li>
+						<!-- /page kits -->
+
+					</ul>
+				</div>
+				<!-- /main navigation -->
+
+			</div>
+			<!-- /sidebar content -->
+			
+		</div>
+		<!-- /main sidebar -->
+
+
+		<!-- Main content -->
+		<div class="content-wrapper">
+
+			<!-- Page header -->
+			<div class="page-header page-header-light">
+				<div class="page-header-content header-elements-md-inline">
+					<div class="page-title d-flex">
+						<h4><i class="icon-arrow-left52 mr-2"></i> <span class="font-weight-semibold">Dashboard</span></h4>
+						<a href="#" class="header-elements-toggle text-default d-md-none"><i class="icon-more"></i></a>
+					</div>
+				</div>
+
+				<div class="breadcrumb-line breadcrumb-line-light header-elements-md-inline">
+					<div class="d-flex">
+						<div class="breadcrumb">
+							<a href="index.html" class="breadcrumb-item"><i class="icon-home2 mr-2"></i> Home</a>
+							<span class="breadcrumb-item active">Dashboard</span>
+						</div>
+
+						<a href="#" class="header-elements-toggle text-default d-md-none"><i class="icon-more"></i></a>
+					</div>
+				</div>
+			</div>
+			<!-- /page header -->
+
+
+			<!-- Content area -->
+			<div class="content">
+
+				<!-- Main charts -->
+				<div class="row">
+					<div class="col-xl-7">
+
+						<!-- Traffic sources -->
+						<div class="card">
+							<div class="card-header header-elements-inline">
+								<h6 class="card-title">Traffic sources</h6>
+								<div class="header-elements">
+									<div class="form-check form-check-right form-check-switchery form-check-switchery-sm">
+										<label class="form-check-label">
+											Live update:
+											<input type="checkbox" class="form-input-switchery" checked data-fouc>
+										</label>
+									</div>
+								</div>
+							</div>
+
+							<div class="card-body py-0">
+								<div class="row">
+									<div class="col-sm-4">
+										<div class="d-flex align-items-center justify-content-center mb-2">
+											<a href="#" class="btn bg-transparent border-teal text-teal rounded-round border-2 btn-icon mr-3">
+												<i class="icon-plus3"></i>
+											</a>
+											<div>
+												<div class="font-weight-semibold">New visitors</div>
+												<span class="text-muted">2,349 avg</span>
+											</div>
+										</div>
+										<div class="w-75 mx-auto mb-3" id="new-visitors"></div>
+									</div>
+
+									<div class="col-sm-4">
+										<div class="d-flex align-items-center justify-content-center mb-2">
+											<a href="#" class="btn bg-transparent border-warning-400 text-warning-400 rounded-round border-2 btn-icon mr-3">
+												<i class="icon-watch2"></i>
+											</a>
+											<div>
+												<div class="font-weight-semibold">New sessions</div>
+												<span class="text-muted">08:20 avg</span>
+											</div>
+										</div>
+										<div class="w-75 mx-auto mb-3" id="new-sessions"></div>
+									</div>
+
+									<div class="col-sm-4">
+										<div class="d-flex align-items-center justify-content-center mb-2">
+											<a href="#" class="btn bg-transparent border-indigo-400 text-indigo-400 rounded-round border-2 btn-icon mr-3">
+												<i class="icon-people"></i>
+											</a>
+											<div>
+												<div class="font-weight-semibold">Total online</div>
+												<span class="text-muted"><span class="badge badge-mark border-success mr-2"></span> 5,378 avg</span>
+											</div>
+										</div>
+										<div class="w-75 mx-auto mb-3" id="total-online"></div>
+									</div>
+								</div>
+							</div>
+
+							<div class="chart position-relative" id="traffic-sources"></div>
+						</div>
+						<!-- /traffic sources -->
+
+					</div>
+
+					<div class="col-xl-5">
+
+						<!-- Sales stats -->
+						<div class="card">
+							<div class="card-header header-elements-inline">
+								<h6 class="card-title">Sales statistics</h6>
+								<div class="header-elements">
+									<select class="form-control" id="select_date" data-fouc>
+										<option value="val1">June, 29 - July, 5</option>
+										<option value="val2">June, 22 - June 28</option>
+										<option value="val3" selected>June, 15 - June, 21</option>
+										<option value="val4">June, 8 - June, 14</option>
+									</select>
+			                	</div>
+							</div>
+
+							<div class="card-body py-0">
+								<div class="row text-center">
+									<div class="col-4">
+										<div class="mb-3">
+											<h5 class="font-weight-semibold mb-0">5,689</h5>
+											<span class="text-muted font-size-sm">new orders</span>
+										</div>
+									</div>
+
+									<div class="col-4">
+										<div class="mb-3">
+											<h5 class="font-weight-semibold mb-0">32,568</h5>
+											<span class="text-muted font-size-sm">this month</span>
+										</div>
+									</div>
+
+									<div class="col-4">
+										<div class="mb-3">
+											<h5 class="font-weight-semibold mb-0">$23,464</h5>
+											<span class="text-muted font-size-sm">expected profit</span>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="chart mb-2" id="app_sales"></div>
+							<div class="chart" id="monthly-sales-stats"></div>
+						</div>
+						<!-- /sales stats -->
+
+					</div>
+				</div>
+				<!-- /main charts -->
+
+				<!-- Highlighting rows and columns -->
+				<div class="card">
+					<div class="card-header header-elements-inline">
+						<h5 class="card-title">History</h5>
+						<div class="header-elements">
+							<div class="list-icons">
+		                		<a class="list-icons-item" data-action="collapse"></a>
+		                	</div>
+	                	</div>
+					</div>
+
+					<div class="card-body">
+						Text for explaining
+					</div>
+
+					<table class="table table-bordered table-hover datatable-highlight">
+						<thead>
+							<tr>
+								<th>Batch ID</th>
+								<th>From</th>
+								<th>To</th>
+								<th>Date</th>
+								<th>Material Receieved Siganture</th>
+								<th>Outgoing Information</th>
+								<th>Status</th>
+								<!-- <th class="text-center">Actions</th> -->
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td><a href="#" data-toggle="modal" data-target="#modal_iconified">DWCCKRM0190</a></td>
+								<td>Koramangala</td>
+								<td>HSR Layout</td>
+								<td>22 April 2019</td>
+								<td><button class="btn bg-primary"><i class="icon-checkmark3 font-size-base mr-1"></i>Signed</button></td>
+								<td><button class="btn bg-danger" data-toggle="modal" data-target="#modal_form_horizontal"><i class="icon-cross2 font-size-base mr-1"></i>Not Added</button></td>
+								<td><span class="badge badge-danger">In House</span></td>
+								<!-- <td class="text-center">
+									<div class="list-icons">
+										<div class="dropdown">
+											<a href="#" class="list-icons-item" data-toggle="dropdown">
+												<i class="icon-menu9"></i>
+											</a>
+
+											<div class="dropdown-menu dropdown-menu-right">
+												<a href="#" class="dropdown-item"><i class="icon-file-pdf"></i> Blockchain Tx hash</a>
+												<a href="#" class="dropdown-item"><i class="icon-file-excel"></i> More Details</a>
+												<a href="#" class="dropdown-item"><i class="icon-file-word"></i> Export to .doc</a>
+											</div>
+										</div>
+									</div>
+								</td> -->
+							</tr>
+							<tr>
+								<td><a href="#" data-toggle="modal" data-target="#modal_iconified">DWCCJYN0256</a></td>
+								<td>Jayanagar</td>
+								<td>Indirnagar</td>
+								<td>22 April 2019</td>
+								<td><button class="btn bg-danger"><i class="icon-cross2 font-size-base mr-1"></i>Not Signed</button></td>
+								<td><button class="btn bg-primary" data-toggle="modal" data-target="#modal_form_horizontal"><i class="icon-checkmark3 font-size-base mr-1"></i>Added</button></td>
+								<td><span class="badge badge-secondary">Destination Reached</span></td>
+								<!-- <td class="text-center">
+									<div class="list-icons">
+										<div class="dropdown">
+											<a href="#" class="list-icons-item" data-toggle="dropdown">
+												<i class="icon-menu9"></i>
+											</a>
+
+											<div class="dropdown-menu dropdown-menu-right">
+												<a href="#" class="dropdown-item"><i class="icon-file-pdf"></i> Blockchain Tx hash</a>
+												<a href="#" class="dropdown-item"><i class="icon-file-excel"></i> More Details</a>
+												<a href="#" class="dropdown-item"><i class="icon-file-word"></i> Export to .doc</a>
+											</div>
+										</div>
+									</div>
+								</td> -->
+							</tr>
+						</tbody>
+					</table>
+				</div>
+				<!-- /highlighting rows and columns -->
+				<!-- Iconified modal -->
+				<div id="modal_iconified" class="modal fade" tabindex="-1">
+					<div class="modal-dialog">
+						<div class="modal-content">
+							<div class="modal-header">
+								<h5 class="modal-title"><i class="icon-menu7 mr-2"></i> &nbsp;More details</h5>
+								<button type="button" class="close" data-dismiss="modal">&times;</button>
+							</div>
+
+							<div class="modal-body">
+								<div class="alert alert-info alert-dismissible alert-styled-left border-top-0 border-bottom-0 border-right-0">
+					                <span class="font-weight-semibold">Here we go!</span> Details of the scrap flow.
+					                <button type="button" class="close" data-dismiss="alert">×</button>
+					            </div>
+					            <h1>Batch ID: <span style="font-weight: 100;">DWCCKRM0190</span></h1>
+					            <hr>
+					            <h5>DWCC Record</h5>
+					            <h6 class="font-weight-semibold">Blockchain Tx Hash : <span style="font-weight: 100;">0xda0fbea78ea484fa8036205bfb63158e941f3f946797bac62f889cee1fa50a29</span></h6>
+								<h6 class="font-weight-semibold">From : <span style="font-weight: 100;">Ajay Gottigere</span></h6>
+								<h6 class="font-weight-semibold">To Location : <span style="font-weight: 100;">MRF, jigani</span></h6>
+								<h6 class="font-weight-semibold">Material categories : <span style="font-weight: 100;">MLP</span></h6>
+								<h6 class="font-weight-semibold">Quantity (Kg) : <span style="font-weight: 100;">4000</span></h6>
+								<h6 class="font-weight-semibold">PO number : <span style="font-weight: 100;">Not available</span></h6>
+								<h6 class="font-weight-semibold">Invoice number : <span style="font-weight: 100;">18-19/362</span></h6>
+								<h6 class="font-weight-semibold">Rate (Rs/Kg) : <span style="font-weight: 100;">4</span></h6>
+								<h6 class="font-weight-semibold">Invoice amount (Rs) : <span style="font-weight: 100;">16000</span></h6>
+								<h6 class="font-weight-semibold">Vehicle number : <span style="font-weight: 100;">KA05AC4452</span></h6>
+								<h6 class="font-weight-semibold">Driver name : <span style="font-weight: 100;">Velu</span></h6>
+								<h6 class="font-weight-semibold">Driver number : <span style="font-weight: 100;">9988775566</span></h6>
+								<h6 class="font-weight-semibold">Vehicle type : <span style="font-weight: 100;">Eicher canter</span></h6>
+								<h6 class="font-weight-semibold">Kilometre travelled : <span style="font-weight: 100;">20</span></h6>
+								<h6 class="font-weight-semibold">No of staff involved : <span style="font-weight: 100;">8</span></h6>
+								<hr>
+								<h5>Received Signatire by MRF : <span style="font-weight: 100;">0xda0fbea78ea484fa8036205bfb63158e941f3f946797bac62f889cee1fa50a29</span></h5>
+								<hr>
+								<h5>MRF Record</h5>
+					            <h6 class="font-weight-semibold">Blockchain Tx Hash : <span style="font-weight: 100;">0xda0fbea78ea484fa8036205bfb63158e941f3f946797bac62f889cee1fa50a29</span></h6>
+								<h6 class="font-weight-semibold">From : <span style="font-weight: 100;">MRF, Jigani</span></h6>
+								<h6 class="font-weight-semibold">To Location : <span style="font-weight: 100;">Vasavadatta cement, Sedam</span></h6>
+								<h6 class="font-weight-semibold">Material categories : <span style="font-weight: 100;">MLP</span></h6>
+								<h6 class="font-weight-semibold">Quantity (Kg) : <span style="font-weight: 100;">8610</span></h6>
+								<h6 class="font-weight-semibold">Transport agent : <span style="font-weight: 100;">Adarsh transport</span></h6>
+								<h6 class="font-weight-semibold">Vehicle number : <span style="font-weight: 100;">KA 01 AC 1512</span></h6>
+								<h6 class="font-weight-semibold">Driver name : <span style="font-weight: 100;">Selvam</span></h6>
+								<h6 class="font-weight-semibold">Driver number : <span style="font-weight: 100;">8856655884</span></h6>
+								<h6 class="font-weight-semibold">Vehicle type : <span style="font-weight: 100;">Diesel</span></h6>
+								<h6 class="font-weight-semibold">Kilometre travelled : <span style="font-weight: 100;">580</span></h6>
+								<h6 class="font-weight-semibold">No of staff involved : <span style="font-weight: 100;">10</span></h6>
+								<hr>
+								<h5>Documents Uploaded by MRF</h5>
+								<div class="card card-table table-responsive shadow-0 mb-0">
+									<table class="table table-bordered">
+										<thead>
+											<tr>
+												<th>#</th>
+												<th>Document Name</th>
+												<th>Download</th>
+											</tr>
+										</thead>
+										<tbody>
+											<tr>
+												<td>1</td>
+												<td>Document One</td>
+												<td><button class="btn bg-primary">Download Document</button></td>
+											</tr>
+										</tbody>
+									</table>
+								</div>
+							</div>
+
+							<div class="modal-footer">
+								<!-- <button class="btn btn-link" data-dismiss="modal"><i class="icon-cross2 font-size-base mr-1"></i> Close</button> -->
+								<button class="btn bg-primary" data-dismiss="modal"><i class="icon-checkmark3 font-size-base mr-1"></i> Ok</button>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- /iconified modal -->
+
+				<!-- Horizontal form modal -->
+				<div id="modal_form_horizontal" class="modal fade" tabindex="-1">
+					<div class="modal-dialog modal-lg">
+						<div class="modal-content">
+							<div class="modal-header">
+								<h5 class="modal-title">Update Batch Flow</h5>
+								<button type="button" class="close" data-dismiss="modal">&times;</button>
+							</div>
+
+							<form action="#" class="form-horizontal">
+								<div class="modal-body">
+									<div class="form-group row">
+										<label class="col-form-label col-sm-3">From</label>
+										<div class="col-sm-9">
+											<input type="text" placeholder="From" class="form-control" readonly value="MRF, Jigani">
+										</div>
+									</div>
+
+									<div class="form-group row">
+										<label class="col-form-label col-sm-3">To Location</label>
+										<div class="col-sm-9">
+											<input type="text" placeholder="To Location" class="form-control">
+										</div>
+									</div>
+
+									<div class="form-group row">
+										<label class="col-form-label col-sm-3">Material categories</label>
+										<div class="col-sm-9">
+											<input type="text" placeholder="Material categories" class="form-control">
+										</div>
+									</div>
+
+									<div class="form-group row">
+										<label class="col-form-label col-sm-3">Quantity (Kg)</label>
+										<div class="col-sm-9">
+											<input type="text" placeholder="Quantity (Kg)" class="form-control">
+										</div>
+									</div>
+
+									<div class="form-group row">
+										<label class="col-form-label col-sm-3">Transport agent </label>
+										<div class="col-sm-9">
+											<input type="text" placeholder="Transport agent " class="form-control">
+										</div>
+									</div>
+
+									<div class="form-group row">
+										<label class="col-form-label col-sm-3">Vehicle number</label>
+										<div class="col-sm-9">
+											<input type="text" placeholder="Vehicle number" class="form-control">
+										</div>
+									</div>
+
+									<div class="form-group row">
+										<label class="col-form-label col-sm-3">Driver name</label>
+										<div class="col-sm-9">
+											<input type="text" placeholder="Driver name" class="form-control">
+										</div>
+									</div>
+
+									<div class="form-group row">
+										<label class="col-form-label col-sm-3">Driver number</label>
+										<div class="col-sm-9">
+											<input type="text" placeholder="Driver number" class="form-control">
+										</div>
+									</div>
+
+									<div class="form-group row">
+										<label class="col-form-label col-sm-3">Vehicle type</label>
+										<div class="col-sm-9">
+											<input type="text" placeholder="Vehicle type" class="form-control">
+										</div>
+									</div>
+
+									<div class="form-group row">
+										<label class="col-form-label col-sm-3">Kilometre travelled</label>
+										<div class="col-sm-9">
+											<input type="text" placeholder="Kilometre travelled" class="form-control">
+										</div>
+									</div>
+
+									<div class="form-group row">
+										<label class="col-form-label col-sm-3">No of staff involved</label>
+										<div class="col-sm-9">
+											<input type="text" placeholder="No of staff involved" class="form-control">
+										</div>
+									</div>
+								</div>
+
+								<div class="modal-footer">
+									<button type="button" class="btn btn-link" data-dismiss="modal">Close</button>
+									<button type="submit" class="btn bg-primary">Update Batch</button>
+								</div>
+							</form>
+						</div>
+					</div>
+				</div>
+				<!-- /horizontal form modal -->
+
+			</div>
+			<!-- /content area -->
+
+
+			<!-- Footer -->
+			<div class="navbar navbar-expand-lg navbar-light">
+				<div class="text-center d-lg-none w-100">
+					<button type="button" class="navbar-toggler dropdown-toggle" data-toggle="collapse" data-target="#navbar-footer">
+						<i class="icon-unfold mr-2"></i>
+						Footer
+					</button>
+				</div>
+
+				<div class="navbar-collapse collapse" id="navbar-footer">
+					<!-- <span class="navbar-text">
+						&copy; 2015 - 2018. <a href="#">Limitless Web App Kit</a> by <a href="http://themeforest.net/user/Kopyov" target="_blank">Eugene Kopyov</a>
+					</span> -->
+
+					<ul class="navbar-nav ml-lg-auto">
+						<li class="nav-item"><a href="https://kopyov.ticksy.com/" class="navbar-nav-link" target="_blank"><i class="icon-lifebuoy mr-2"></i> Support</a></li>
+						<!-- <li class="nav-item"><a href="http://demo.interface.club/limitless/docs/" class="navbar-nav-link" target="_blank"><i class="icon-file-text2 mr-2"></i> Docs</a></li>
+						<li class="nav-item"><a href="https://themeforest.net/item/limitless-responsive-web-application-kit/13080328?ref=kopyov" class="navbar-nav-link font-weight-semibold"><span class="text-pink-400"><i class="icon-cart2 mr-2"></i> Purchase</span></a></li> -->
+					</ul>
+				</div>
+			</div>
+			<!-- /footer -->
+
+		</div>
+		<!-- /main content -->
+
+	</div>
+	<!-- /page content -->
+
+</body>
+</html>
