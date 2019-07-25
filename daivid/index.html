@@ -19,9 +19,28 @@
       body {
         font-family: 'Nunito', sans-serif !important;
       }
-      .back {
-        background: url("Daivid_Homepage.png");
+
+      @media screen and (max-width: 600px) {
+        .back {
+          background: url("Daivid_Homepage_Cropped.png");
+          background-repeat: no-repeat;
+          background-size: cover;
+        }
       }
+
+      @media screen and (min-width: 600px) {
+        .back {
+          background: url("Daivid_Homepage.png");
+          background-repeat: no-repeat;
+          background-size: cover;
+        }
+      }
+
+      /*.back {
+        background: url("Daivid_Homepage.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+      }*/
     </style>
   </head>
   <body>
