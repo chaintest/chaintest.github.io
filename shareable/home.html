@@ -1,0 +1,272 @@
+
+<html>
+<head>
+	<title>Daivid | Home</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="icon" href="./daivid_icon_nobg.png" type="image/icon type">
+	<link href="https://fonts.googleapis.com/css?family=Nunito&display=swap" rel="stylesheet">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+	<style>
+	.headin{
+   background-color: rgba(0,0,0,0.5);
+   transform: translate(-50%, -50%);
+   color: white;
+   border: 0.5px solid #f1f1f1;
+   font-weight: bold;
+   color: #ffd600;
+   padding: 30px;
+   position: absolute;
+   text-align: center;
+   top: 50%;
+   left: 50%;
+   z-index: 3;
+   max-width:100%;
+}
+
+.headin1{
+   background-color: rgba(0,0,0,0.8);
+   transform: translate(-50%, -50%);
+   color: white;
+   border: 0.5px solid #f1f1f1;
+   font-weight: bold;
+   color: #ffd600;
+   padding: 30px;
+   position: absolute;
+   text-align: center;
+   top: 50%;
+   left: 50%;
+   z-index: 3;
+   max-width:100%;
+}
+	* {
+  box-sizing: border-box;
+	}
+		body, html {
+			margin: 0;
+			font-family: 'Nunito';
+		}	
+		.text-blue {
+			color: #005bbe;				
+		}		
+		.text-yellow {
+			color: #ffd600;		
+		}
+		.sans {
+			font-family: 'Nunito', sans-serif ;		
+		}
+		.top-home  {			
+			background-position: center;
+			background-repeat: no-repeat;
+			background-size: cover;
+			height: 100%;
+			max-width: 100vw;
+			background-image: url("Daivid_Homepage2.png");
+		}
+		.about-daivid {
+			background-position: center;
+			background-repeat: no-repeat;
+			height: 87.5%;
+			max-width: 100vw;
+			background-color: #29293d;
+			opacity: 0.6;		
+		}
+		
+		.features {
+			background-position: center;
+			background-repeat: no-repeat;
+			background-size: contain;
+			height: 70%;
+			max-width: 100vw;
+			background-image: url("MidSection1.jpg");			
+		}
+		.why-daivid{
+			background-position: center;
+			background-repeat: no-repeat;
+			background-size: cover;
+			height: 80%;
+			max-width: 100vw;
+			background-image: url("CreativeTeam.jpeg");	
+			opacity: 0.8;
+			filter: blur(0px);
+			-webkit-filter: blur(0px);
+		}
+		/* @keyframes highlight {
+			0%{opacity: 0.8;
+			filter: blur(0.5px);
+			-webkit-filter: blur(0.5px);}
+			85%{filter:blur(0.25px);
+			-webkit-filter: blur(0.25px);
+			opacity:0.9706;}
+			100%{ filter:blur(0px);
+			-webkit-filter: blur(0px);
+			opacity:0.9996;			
+			}			
+		} */
+		
+		.about-us-contact {
+			background-position: center;
+			background-repeat: no-repeat;
+			background-size: cover;
+			height: 100%;
+			max-width: 100vw;
+			background-image: url("Daivid_site_Home.png");
+			opacity: 0.9;
+			filter: blur(0px));
+			-webkit-filter: blur(0px);
+		}
+		.about-container span {
+			display: block;		
+		}
+		
+        .about-container {
+			visibility: visible;
+			text-align: center;
+			position: relative;
+			top: 50%;
+			left : 50%;
+			transform: translate(-50%,-50%);
+			width: 100%;
+		}
+		.text1 {
+			font-size:35px;
+			font-weight: 700;
+			margin-bottom: 40px;
+			position: relative;
+			animation: text 3s 1;
+		}
+		.text2 {
+			font-size: 20px;			
+		}
+		@keyframes text {
+			0%{
+				z-index:-1;
+				color: #29293d;
+				margin-bottom: -20px;
+			}
+			30%{
+				margin-bottom: -20px;
+			}
+			85%{
+				z-index:0;
+				margin-bottom: -20px;
+			}
+		}
+		.display-flex {
+		  display: flex;
+		  flex-wrap: wrap;
+		}
+		.feat {
+			position: relative;
+			text-decoration: none;
+		}
+		.feat:hover {
+		  color: #005bbe;
+		}
+		.feat:before {
+		  content: "";
+		  position: absolute;
+		  width: 100%;
+		  height: 2px;
+		  bottom: 0;
+		  left: 0;
+		  background-color: #000;
+		  visibility: hidden;
+		  -webkit-transform: scaleX(0);
+		  transform: scaleX(0);
+		  -webkit-transition: all 0.3s ease-in-out 0s;
+		  transition: all 0.3s ease-in-out 0s;
+		}
+		.feat:hover:before {
+		  visibility: visible;
+		  -webkit-transform: scaleX(0.10);
+		  transform: scaleX(0.10);
+		}
+		.feat-yell {
+			position: relative;
+			text-decoration: none;
+		}
+		.feat-yell:hover {
+		  color: #ffd600;
+		}
+		.feat-yell:before {
+		  content: "";
+		  position: absolute;
+		  width: 100%;
+		  height: 2px;
+		  bottom: 0;
+		  left: 0;
+		  background-color: #ffd600;
+		  visibility: hidden;
+		  -webkit-transform: scaleX(0);
+		  transform: scaleX(0);
+		  -webkit-transition: all 0.3s ease-in-out 0s;
+		  transition: all 0.3s ease-in-out 0s;
+		}
+		.feat-yell:hover:before {
+		  visibility: visible;
+		  -webkit-transform: scaleX(0.45);
+		  transform: scaleX(0.45);
+		}
+			
+		
+				
+	</style>
+	<script>
+	
+	</script>
+</head>
+<body>
+	<div class="top-home"></div>
+	<div class="about-daivid">
+	<div class="row display-flex">
+	<div class="col-xl-8">
+	<div class="about-container" style="margin-top:29px;"> 
+		<span class="text1 text-yellow"> Daivid is like your very own Video Marketing Expert</span><br/><br/>
+		<span class="text2 sans" style="color:white;"> Instantly curate your videos’ attributes to get deep creative insights<br/>
+Get inspired with new recommendations and ideas based on internal, 3rd party and competitive intel  <br/>
+Customize your videos based on audience insights<br/>
+Ensure brand storytelling nuances, benchmarks and compliance   <br/>
+Access real-time insights to optimize your stories across channels to drive better resonance<br/>
+</span>			
+	</div>
+	</div>
+	<div class="col-xl-4">
+	<img src="womenmobile1.jpg">
+	</div>
+	</div>
+	</div>
+	
+	<div class="features"><center>
+	<div style="margin-top:25px;font-family:'Lato',sans-serif;">
+	<h3 class="text-blue feat" style="font-weight: 700;font-size:35px;" width="50%">Features </h1>
+	<h5 class="text-yellow feat-yell" style="font-weight: 70;font-size:35px;">AI designed by and for Video Marketers</h4></div></center>
+
+	</div>
+	<div class="why-daivid">
+	<div class="headin">
+	<p style="font-size:2vw;" class="feat-yell">Why Daivid? + Who is it for?</p><br/>
+	<p style="font-size:1.25vw;color:white;font-family:'Lato',sans-serif;">Distributed AI for Video Marketing - As a Service <br/><br/>
+Specialist AI - Built for Video Engagements<br/>
+Your Very Own Private, Secure AI <br/>
+1st, 3rd Party insights + competitive intel<br/>
+Customized, Omnichannel Audience Engagements<br/> 
+Instantly Scalable, enterprise-level AI  <br/>
+Free to get started. Affordable Pricing Tiers <br/>
+For Brands, Marketers & Agencies who drive Video Engagements, <br/>Content and Marketing</p>
+
+	
+	</div></div>
+	<div class="about-us-contact"> 
+	<div class="headin1">
+	<img src="globe.png"><br/><br/><br/>
+	<p style="font-size:2vw;" class="feat-yell">About Us</p><br/>
+	<p style="font-size:1.25vw;color:white;">
+	We are a distributed team of Entrepreneurs, Seasoned Brand Marketers, Data + AI Experts, Programmatic Media Specialists who are helping Daivid learn to take baby steps.<br/><br/>
+	
+	For beta access and inquiries, drop us a note: hello@daivid.ai</p> </div>
+	</div>
+
+</body>
+</html>
