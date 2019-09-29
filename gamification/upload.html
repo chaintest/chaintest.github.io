@@ -1,0 +1,101 @@
+<html lang="en">
+  <head>
+
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <title>Saahas Gamification</title>
+  </head>
+  <body>
+    
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <a class="navbar-brand" href="#"><img src="saahas_header.png" width="30" height="30" style="margin-right: 10px;"
+                                        class="d-inline-block align-top" alt="">Saahas- Gamification</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+        <div class="navbar-nav">
+          <a class="nav-item nav-link" href="dashboard.html">Dashboard</a>
+          <a class="nav-item nav-link active" href="upload.html">New Upload<span class="sr-only">(current)</span></a>
+          <a class="nav-item nav-link" href="mywallet.html">Profile</a>
+          <a class="nav-item nav-link" href="index.html">Logout</a>
+        </div>
+      </div>
+    </nav>
+
+    <br>
+    <br>
+
+    <div class="container">
+      <h1>Upload New Material</h1>
+      <hr>
+      <form>
+        <div class="form-row">
+          <div class="form-group col-md-6">
+            <label for="uniqueId">Unique ID</label>
+            <input type="text" class="form-control" id="uniqueId" placeholder="Unique ID" disabled>
+          </div>
+          <div class="form-group col-md-6">
+            <label for="dateOne">Date</label>
+            <input type="date" class="form-control" id="dateOne" placeholder="Date" disabled>
+          </div>
+        </div>
+        <div class="form-row">
+          <div class="form-group col-md-6">
+            <label for="inputState">Company</label>
+            <select id="inputState" class="form-control">
+              <option selected>Choose...</option>
+              <option>ITC</option>
+              <option>Britania</option>
+              <option>Parle G</option>
+              <option>Amul</option>
+            </select>
+          </div>
+          <div class="form-group col-md-6">
+            <label for="inputState">Packet Type</label>
+            <select id="inputState" class="form-control">
+              <option selected>Choose...</option>
+              <option>Elaichi Cream Biscuit</option>
+              <option>Chocolate Cream Biscuit</option>
+              <option>Oats Biscuit</option>
+              <option>Orange Cream Biscuit</option>
+            </select>
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="inputState">Location</label>
+            <select id="inputState" class="form-control">
+              <option selected>Choose...</option>
+              <option>Koramangala</option>
+              <option>HSR Layout</option>
+              <option>BTM</option>
+              <option>MG Road</option>
+            </select>
+        </div>
+        <div class="form-row">
+          <div class="form-group col-md-6">
+            <label for="quanTity">Enter Quantity</label>
+            <input type="text" class="form-control" id="quanTity" placeholder="Enter Quantity">
+          </div>
+          <div class="form-group col-md-6">
+            <label for="exampleFormControlFile1">Example file input</label>
+            <input type="file" class="form-control-file" id="exampleFormControlFile1">
+          </div>
+        </div>
+        <button type="submit" class="btn btn-primary">Upload</button>
+      </form>
+    </div>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  </body>
+</html>
